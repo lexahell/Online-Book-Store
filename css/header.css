@@ -44,9 +44,6 @@ header {
   position: sticky;
   top: 0;
   width: 100%;
-  overflow-x: hidden;
-  overflow-y: hidden;
-  /*убрать оверфлооу*/
   z-index: 1000;
   text-align: center;
   padding: 1.5rem 8%;
@@ -57,11 +54,16 @@ header {
   height: 80px;
 }
 header .contaier {
-  max-width: 1464px !important;
+  /* max-width: 1464px !important; */
+  max-width: 100%;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+.header-nav{
+  display: flex;
+  width: 100%;
 }
 /* header logo start */
 .logo-container {
@@ -222,7 +224,7 @@ header .contaier {
   stroke: var(--purple);
 }
 #header-favourites svg {
-  margin-top: 5px;
+  margin-top: 1px;
   margin-left: 1px;
 }
 #header-favourites svg * {
@@ -255,6 +257,153 @@ header .contaier {
 }
 #header-cart:hover svg * {
   stroke: var(--purple);
+}
+
+@media (max-width: 1024px) {
+  header{
+    height: min-content;
+    padding: 10px;
+    position: relative;
+  }
+  header .logo-container{
+    position: absolute;
+    left: 5px;
+    top: 5px;
+  }
+  header .contaier{
+    flex-wrap: wrap;
+    height: 100%;
+    justify-content: flex-end;
+    row-gap: 10px;
+    overflow-y: visible;
+    overflow-x:visible;
+  }
+  .header-nav{
+    order: 4;
+  }
+  .catalog{
+    margin-right: 5px;
+  }
+  .header-search-form{
+    margin-right: 0px;
+  }
+ 
+  h1{
+    font-size: 27px!important;
+  }
+  header{
+    justify-content: flex-end;
+  }
+  .logo-img{
+    height: 43px;
+    width: 35px;
+  }
+  header .contaier{
+    row-gap: 5px;
+  }
+  .header-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: min-content;
+  }
+  .header-controls button,
+  .header-controls a {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    width: 35px;
+    height: 35px;
+    background-color: var(--purple);
+    border-radius: 50%;
+    border: 2px solid var(--purple);
+    transition: all 0.4s;
+    cursor: pointer;
+  }
+  .header-controls a svg {
+    font-size: 17px;
+    height: 17px;
+    width: 17px;
+  }
+  #count-favourites,
+  #count-item-in-cart{
+    border-radius: 50%;
+    color: white;
+    background-color: #f91155;
+    padding: 1px 5px;
+    font-size: 10px;  
+    min-height: 10px;
+    min-width: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    text-align: center;
+    margin-top: -16px;
+    right: -4px;
+  }
+  .catalog{
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    /* border-radius: 50%; */
+    height: 42px;
+    padding: 0px 0px 15px 0px;
+  }
+  .header-search-form {
+    height: 40px;
+  }
+  .search-field-input{
+    height: 20px;
+    padding: 11px 0 11px 16px;
+  }
+  .header-search-button{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    height: 36px;
+    margin-right: 2px;
+  }
+}
+@media (max-width: 570px) {
+  h1{
+    font-size: 27px!important;
+  }
+  header{
+    justify-content: flex-end;
+  }
+  .logo-img{
+    height: 43px;
+    width: 35px;
+  }
+  h1{
+    font-size: 27px!important;
+  }
+  header{
+    justify-content: flex-end;
+  }
+
+  
+  
+  .catalog{
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    /* border-radius: 50%; */
+    min-height: 42px;
+    min-width: 42px;
+    height: 42px;
+    width: 42px;
+  }
+  .catalog-burer{
+    margin-top: 15px;
+  }
+  .catalog-text{
+    display: none;
+
+  }
 }
 
 /* header controls end*/

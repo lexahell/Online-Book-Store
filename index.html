@@ -24,33 +24,36 @@
           />
           <h1>Кладезь</h1>
         </a>
-        <button class="catalog">
-          <div class="catalog-burer">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-          <span class="catalog-text">Каталог</span>
-        </button>
-        <div class="header-search-block">
-          <form action="." class="header-search-form">
-            <div class="search-field">
-              <input
-                type="search"
-                placeholder="Искать товары"
-                maxlength="100"
-                class="search-field-input"
-              />
-              <button
-                type="submit"
-                aria-label="Искать"
-                class="header-search-button"
-              >
-                <i class="fa fa-search"></i>
-              </button>
+        <nav class="header-nav">
+
+          <button class="catalog">
+            <div class="catalog-burer">
+              <span></span>
+              <span></span>
+              <span></span>
             </div>
-          </form>
-        </div>
+            <span class="catalog-text">Каталог</span>
+          </button>
+          <div class="header-search-block">
+            <form action="." class="header-search-form">
+              <div class="search-field">
+                <input
+                  type="search"
+                  placeholder="Искать товары"
+                  maxlength="100"
+                  class="search-field-input"
+                />
+                <button
+                  type="submit"
+                  aria-label="Искать"
+                  class="header-search-button"
+                >
+                  <i class="fa fa-search"></i>
+                </button>
+              </div>
+            </form>
+          </div>
+        </nav>
         <div class="header-controls">
           <a id="header-profile">
             <?xml version="1.0" ?>
@@ -98,7 +101,7 @@
             </svg>
             <span id="count-favourites">5</span>
           </a>
-          <a id="header-cart">
+          <a id="header-cart" href="html/cart.html">
             <?xml version="1.0" ?>
             <svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -145,56 +148,19 @@
     </header>
     
     <main>
-        <!-- слайдер -->
-      <!-- <div class="wrapper">
-        <div class="image-slider swiper-container">
-          <div class="image-slider__wrapper swiper-wrapper">
-            <div class="image-slider__slide swiper-slide">
-              <div class="image-slider__image">
-                <img src="img/баннеры/баннер1webp.webp" alt="картинка">
-              </div>
-            </div>
-            <div class="image-slider__slide swiper-slide">
-              <div class="image-slider__image">
-                <img src="img/баннеры/баннер1webp.webp" alt="картинка">
-              </div>
-            </div>
-            <div class="image-slider__slide swiper-slide">
-              <div class="image-slider__image">
-                <img src="img/баннеры/баннер1webp.webp" alt="картинка">
-              </div>
-            </div>
-          </div>
-
-          <div class="swiper-button-prev"></div>
-          
-          <div class="swiper-button-next"></div>
-        
-        </div>
-      </div> -->
       <div class="wrapper-container">
-        <div class="swiper-button-prev">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-left" viewBox="0 0 16 16">
-            <path fill-rule="evenodd" d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
-          </svg>
-        </div>  
+        
 
         <div class="wrapper">
             <div class="image-slider__image">
-              <img src="img/баннеры/баннер1webp.webp" alt="картинка">
+              <img src="img/баннеры/баннер1webp.jpg" alt="картинка">
             </div>
             <div class="image-slider__image">
-              <img src="img/баннеры/баннер2.webp" alt="картинка">
+              <img src="img/баннеры/баннер2.jpg" alt="картинка">
             </div>
             <div class="image-slider__image">
               <img src="img/баннеры/баннер3.webp" alt="картинка">
             </div>
-        </div>
-
-        <div class="swiper-button-next">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-right" viewBox="0 0 16 16">
-            <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/>
-          </svg>
         </div>
     </div>
 
