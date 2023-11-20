@@ -263,7 +263,6 @@ header .contaier {
   header{
     height: min-content;
     padding: 10px;
-    position: relative;
   }
   header .logo-container{
     position: absolute;
