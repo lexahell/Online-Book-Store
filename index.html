@@ -12,6 +12,8 @@
     <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
   </head>
   <body>
     <header>
@@ -148,7 +150,7 @@
     </header>
     
     <main>
-      <div class="wrapper-container">
+      <!-- <div class="wrapper-container">
         
 
         <div class="wrapper">
@@ -162,7 +164,32 @@
               <img src="img/баннеры/баннер3.webp" alt="картинка">
             </div>
         </div>
-    </div>
+    </div> -->
+    <!-- Slider main container -->
+    <div class="swiper-container-image">
+      <div class="swiper">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+          <!-- Slides -->
+          <a class="swiper-slide" href="#!">
+            <img src="img/баннеры/баннер1webp.jpg" alt="">
+          </a>
+          <a class="swiper-slide" href="#!">
+            <img src="img/баннеры/баннер2.jpg" alt="">
+          </a>
+          <a class="swiper-slide" href="#!  ">
+            <img src="img/баннеры/баннер3.webp" alt="">
+          </a>
+        </div>
+        <!-- If we need pagination -->
+        <div class="swiper-pagination"></div>
+
+        <!-- If we need navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
+      </div>
+    </div>  
 
 
     </main>
