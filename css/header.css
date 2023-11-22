@@ -270,6 +270,7 @@ header .contaier {
     top: 5px;
   }
   header .contaier{
+    /* margin-right: 10px; */
     flex-wrap: wrap;
     height: 100%;
     justify-content: flex-end;
@@ -364,7 +365,11 @@ header .contaier {
     height: 36px;
     margin-right: 2px;
   }
+  html::-webkit-scrollbar {
+    width: 0.5rem;
+  }
 }
+
 @media (max-width: 570px) {
   h1{
     font-size: 27px!important;

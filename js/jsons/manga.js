@@ -1,4 +1,4 @@
-export const data = {
+const manga = {
     "data": [
         {
             "attributes": {
@@ -2720,3 +2720,4 @@ export const data = {
         }
     }
 }
+export default manga;
