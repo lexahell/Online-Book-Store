@@ -14,7 +14,7 @@ const countSlides  = 15;
 for(let i = 0; i < countSlides; i++){
     const newProductCardSlideString = `
     <div class="swiper-slide slider-item">
-        <article class="product-card-slider" data-chg-product-id="3003273" data-chg-product-price="690" data-chg-product-status="canBuy" data-chg-product-name="День, когда я исчезла" data-chg-product-old-price="759">
+        <article class="product-card-slider" data-chg-product-id="" data-chg-product-price="" data-chg-product-status="" data-chg-product-name="" data-chg-product-old-price="">
             <a href="" class="product-img-container">
                 <img src="" class="product-img" alt="">
             </a>
@@ -49,14 +49,21 @@ for(let i = 0; i < countSlides; i++){
     </div>
     `;
     SwiperNoveltyWrapper.insertAdjacentHTML('afterbegin', newProductCardSlideString);
-    SwiperNoveltyWrapper.querySelector(".swiper-slide").dataset.SwiperSlideIndex = countSlides - i;
+    SwiperNoveltyWrapper.querySelector(".swiper-slide").dataset.SwiperSlideIndex = i;
     const newProductCardSlide = SwiperNoveltyWrapper.firstElementChild.querySelector(".product-card-slider");
     newProductCardSlide.dataset.chgProductId = arrNovelty[i].attributes.id;
+    newProductCardSlide.dataset.chgProductPrice = arrNovelty[i].attributes.price;
+    newProductCardSlide.dataset.chgProductStatus = arrNovelty[i].attributes.status;
+    newProductCardSlide.dataset.chgProductOldPrice = arrNovelty[i].attributes.oldPrice;
+    newProductCardSlide.dataset.chgProductName = arrNovelty[i].attributes.title;
     const id = newProductCardSlide.dataset.chgProductId;
-    console.log(newProductCardSlide.dataset.chgProductId);
     newProductCardSlide.querySelector(".product-title__head").textContent = arrNovelty[i].attributes.title;
+    newProductCardSlide.querySelector(".product-title__author").textContent = (arrNovelty[i].attributes.authors[0]?.firstName ?? "") + " " +  (arrNovelty[i].attributes.authors[0]?.lastName ?? "");
     newProductCardSlide.querySelector(".product-img").src = `img\\books\\novelty\\${id}.jpg`;
     newProductCardSlide.querySelector(".product-img").alt = `${arrNovelty[i].attributes.title}`;
+    newProductCardSlide.querySelector(".product-price__old").textContent = arrNovelty[i].attributes.oldPrice + " ₽";
+    newProductCardSlide.querySelector(".product-price__value").textContent = arrNovelty[i].attributes.price + " ₽";
+    newProductCardSlide.querySelector(".product-card-price-discount").textContent = arrNovelty[i].attributes.discount + "%";
 }
 const swiperNovelty = new Swiper('.swiper-novelty',{
     loop: 1,
@@ -76,6 +83,13 @@ const swiperNovelty = new Swiper('.swiper-novelty',{
         480: {
           slidesPerView: 3,
           spaceBetween: 30
+        },
+        1024: {
+            slidesPerView: 6,
+            // spaceBetween: 30
+        },
+        2000:{
+            slidesPerView: 8,
         },
         // when window width is >= 640px
       }

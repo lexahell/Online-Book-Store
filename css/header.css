@@ -7,7 +7,6 @@
   outline: none;
   background: none;
   text-decoration: none;
-  text-transform: capitalize;
 }
 :root {
   --purple-light: #8654cc;

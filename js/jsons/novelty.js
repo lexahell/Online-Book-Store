@@ -59,63 +59,6 @@ const novelty = {
             "attributes": {
                 "authors": [
                     {
-                        "firstName": "Урса",
-                        "id": 23166177,
-                        "lastName": "Рысина",
-                        "middleName": "",
-                        "url": "rysina-ursa"
-                    }
-                ],
-                "bestseller": true,
-                "binding": "",
-                "category": {
-                    "id": 110016,
-                    "slug": "lyubovnye-romany",
-                    "title": "Любовные романы",
-                    "url": "lyubovnye-romany"
-                },
-                "coauthors": [],
-                "code": "3006762",
-                "description": "Юная Никкаль отправляется на поиски пропавшего брата. Ей предстоит вернуть утраченную магию, сразиться с лесными чудовищами и собственными демонами, выйти на след культа и узнать правду о древних богах.\nВместе с Ниаллом — ректором магической академии, — и Сином — могущественным незнакомцем из лесной чащи — Никкаль раскроет секреты прошлого своей семьи и постарается предотвратить надвигающуюся катастрофу.\n\n*Подарок при покупке каждой книги: эксклюзивная открытка. Количество подарков ограничено.",
-                "discount": "25",
-                "exclusive": true,
-                "id": 3006762,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": true,
-                "new": true,
-                "oldPrice": 798,
-                "originalPicture": "/nomenclature/30/067/3006762-4.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/067/3006762-4.jpg",
-                "preOrderDate": "2023-10-30T00:00:00+03:00",
-                "price": 598,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "4.01",
-                    "votes": 471
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Октябрь 2023",
-                "status": "canBuy",
-                "title": "Клуб Романтики. Цветок из огня Тиамат",
-                "url": "product/klub-romantiki-cvetok-iz-ognya-tiamat-3006762",
-                "yearPublishing": 2023
-            },
-            "id": "3006762",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
                         "firstName": "Гэгэ",
                         "id": 573581,
                         "lastName": "Акутами",
@@ -1187,6 +1130,63 @@ const novelty = {
                 "yearPublishing": 2023
             },
             "id": "2998184",
+            "type": "product"
+        },
+        {
+            "attributes": {
+                "authors": [
+                    {
+                        "firstName": "Урса",
+                        "id": 23166177,
+                        "lastName": "Рысина",
+                        "middleName": "",
+                        "url": "rysina-ursa"
+                    }
+                ],
+                "bestseller": true,
+                "binding": "",
+                "category": {
+                    "id": 110016,
+                    "slug": "lyubovnye-romany",
+                    "title": "Любовные романы",
+                    "url": "lyubovnye-romany"
+                },
+                "coauthors": [],
+                "code": "3006762",
+                "description": "Юная Никкаль отправляется на поиски пропавшего брата. Ей предстоит вернуть утраченную магию, сразиться с лесными чудовищами и собственными демонами, выйти на след культа и узнать правду о древних богах.\nВместе с Ниаллом — ректором магической академии, — и Сином — могущественным незнакомцем из лесной чащи — Никкаль раскроет секреты прошлого своей семьи и постарается предотвратить надвигающуюся катастрофу.\n\n*Подарок при покупке каждой книги: эксклюзивная открытка. Количество подарков ограничено.",
+                "discount": "25",
+                "exclusive": true,
+                "id": 3006762,
+                "inSubscription": false,
+                "isBook": true,
+                "isBookmarks": true,
+                "new": true,
+                "oldPrice": 798,
+                "originalPicture": "/nomenclature/30/067/3006762-4.jpg",
+                "pages": "",
+                "picture": "/nomenclature/30/067/3006762-4.jpg",
+                "preOrderDate": "2023-10-30T00:00:00+03:00",
+                "price": 598,
+                "publisher": {
+                    "id": 118732,
+                    "slug": "ast",
+                    "title": "АСТ"
+                },
+                "rating": {
+                    "count": "4.01",
+                    "votes": 471
+                },
+                "recommended": false,
+                "sale": false,
+                "saleSoon": false,
+                "startSale": null,
+                "startSaleDesc": "Октябрь 2023",
+                "status": "canBuy",
+                "title": "Клуб Романтики. Цветок из огня Тиамат",
+                "url": "product/klub-romantiki-cvetok-iz-ognya-tiamat-3006762",
+                "yearPublishing": 2023
+            },
+            "id": "3006762",
             "type": "product"
         },
         {

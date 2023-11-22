@@ -1,11 +1,11 @@
 @import url("./header.css");
 
+/* image swiper start */
 
 .swiper-container-image{
     min-width: 320px;
     width: 100vw;
 }
-
 .swiper-container-image .swiper a{
     width: 100%;
     min-width: 320px;
@@ -51,31 +51,95 @@
         display: none;
     }
 }
+/* image swiper end */
 
-.swiper-novelty-container .swiper a{
+
+.container-block {
+    padding:3%;
+    max-width: 100vw;
+    position: relative;
+}
+.row-title-sw{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+
+}
+.row-title-sw .title-sw{
+    color: #0d0c22;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: .02em;
+    text-transform: uppercase;
+}
+.row-title-sw .all-sw{
+    color: var(--purple);
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 600;
+    display: flex;
+    align-items: end;
+}
+.row-title-sw .all-sw:hover svg{
+    transform: translateX(2px);
+    transition: all 0.3s;
+}
+.row-title-sw .all-sw svg{
+    transition: all 0.3s;
+    height: 24px;
+    width: 24px;
+    line-height: 24px;
+}
+.slider-item{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.slider-item .product-card-slider{
+    padding-left: 8px;
+    padding-right: 8px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+}
+.product-img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 280px;
+    width: 100%;
+}
+.product-img{
+    width:auto; 
+    max-width:100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+.product-card-price{
+    align-items: flex-end;
+    display: flex;
+    justify-content: space-between;
+    min-height: 46px;
+    margin-bottom: 12px;
+}
+.product-price {
+    align-items: flex-start;
+    display: flex;
+    flex-flow: column;
+}
+.product-price .product-price__old{
+    
+}
+/* .swiper-novelty-container .swiper a{
     width: 100%;
     min-width: 320px;
 }
 .swiper-novelty-container .swiper img{
-    /* min-width: 320px;  */
+    min-width: 320px; 
     min-height: 150px;
     max-height: 400px;
 }
-.novelty-container {
-    padding: 0px 20px;
-    width: 100vw;
-}
 
-.swiper-container-image .swiper a{
-    width: 20%;
-    min-width: 320px;
-}
-.swiper-container-image .swiper a img{
-    width:auto; 
-    max-width:100%;
-    min-height: 150px;
-    width: 100%;
-}
 .product-card-slider{
     display: flex;
     flex-direction: column;
@@ -85,4 +149,4 @@
 .product-img-container{
     display: flex;
     justify-content: center;
-}
+} */
