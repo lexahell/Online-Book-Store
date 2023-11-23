@@ -1,6 +1,6 @@
-import novelty from "./jsons/novelty.js";
-const arrNovelty = novelty.data;
-const SwiperNoveltyWrapper = document.querySelector(".swiper-novelty-wrapper");
+import bestseller from "./jsons/bestseller.js";
+const arrBestseller = bestseller.data;
+const SwiperBestsellerWrapper = document.querySelector(".swiper-bestseller-wrapper");
 const countSlides  = 24;
 for(let i = 0; i < countSlides; i++){
     const newProductCardSlideString = `
@@ -40,24 +40,24 @@ for(let i = 0; i < countSlides; i++){
         </article>
     </div>
     `;
-    SwiperNoveltyWrapper.insertAdjacentHTML('afterbegin', newProductCardSlideString);
-    SwiperNoveltyWrapper.querySelector(".swiper-slide").dataset.SwiperSlideIndex = i;
-    const newProductCardSlide = SwiperNoveltyWrapper.firstElementChild.querySelector(".product-card-slider");
-    newProductCardSlide.dataset.chgProductId = arrNovelty[i].attributes.id;
-    newProductCardSlide.dataset.chgProductPrice = arrNovelty[i].attributes.price;
-    newProductCardSlide.dataset.chgProductStatus = arrNovelty[i].attributes.status;
-    newProductCardSlide.dataset.chgProductOldPrice = arrNovelty[i].attributes.oldPrice;
-    newProductCardSlide.dataset.chgProductName = arrNovelty[i].attributes.title;
+    SwiperBestsellerWrapper.insertAdjacentHTML('afterbegin', newProductCardSlideString);
+    SwiperBestsellerWrapper.querySelector(".swiper-slide").dataset.SwiperSlideIndex = i;
+    const newProductCardSlide = SwiperBestsellerWrapper.firstElementChild.querySelector(".product-card-slider");
+    newProductCardSlide.dataset.chgProductId = arrBestseller[i].attributes.id;
+    newProductCardSlide.dataset.chgProductPrice = arrBestseller[i].attributes.price;
+    newProductCardSlide.dataset.chgProductStatus = arrBestseller[i].attributes.status;
+    newProductCardSlide.dataset.chgProductOldPrice = arrBestseller[i].attributes.oldPrice;
+    newProductCardSlide.dataset.chgProductName = arrBestseller[i].attributes.title;
     const id = newProductCardSlide.dataset.chgProductId;
-    newProductCardSlide.querySelector(".product-title__head").textContent = arrNovelty[i].attributes.title;
-    newProductCardSlide.querySelector(".product-title__author").textContent = (arrNovelty[i].attributes.authors[0]?.firstName ?? "") + " " +  (arrNovelty[i].attributes.authors[0]?.lastName ?? "");
-    newProductCardSlide.querySelector(".product-img").src = `img\\books\\novelty\\${id}.jpg`;
-    newProductCardSlide.querySelector(".product-img").alt = `${arrNovelty[i].attributes.title}`;
-    newProductCardSlide.querySelector(".product-price__old").textContent = arrNovelty[i].attributes.oldPrice + " ₽";
-    newProductCardSlide.querySelector(".product-price__value").textContent = arrNovelty[i].attributes.price + " ₽";
-    newProductCardSlide.querySelector(".product-card-price-discount").textContent = arrNovelty[i].attributes.discount + "%";
+    newProductCardSlide.querySelector(".product-title__head").textContent = arrBestseller[i].attributes.title;
+    newProductCardSlide.querySelector(".product-title__author").textContent = (arrBestseller[i].attributes.authors[0]?.firstName ?? "") + " " +  (arrBestseller[i].attributes.authors[0]?.lastName ?? "");
+    newProductCardSlide.querySelector(".product-img").src = `img\\books\\bestseller\\${id}.jpg`;
+    newProductCardSlide.querySelector(".product-img").alt = `${arrBestseller[i].attributes.title}`;
+    newProductCardSlide.querySelector(".product-price__old").textContent = arrBestseller[i].attributes.oldPrice + " ₽";
+    newProductCardSlide.querySelector(".product-price__value").textContent = arrBestseller[i].attributes.price + " ₽";
+    newProductCardSlide.querySelector(".product-card-price-discount").textContent = arrBestseller[i].attributes.discount + "%";
 }
-const swiperNovelty = new Swiper('.swiper-novelty',{
+const swiperBestsellers = new Swiper('.swiper-bestseller',{
     loop: 1,
     slidesPerView: 1,
     slidesPerGroup: 1,

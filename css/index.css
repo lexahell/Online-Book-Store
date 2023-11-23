@@ -257,7 +257,6 @@
 .swiper{
     position: relative;
 }
-
 .container-sw .swiper .swiper-button-next::after{
     right: -3px;
     font-size: 30px!important;
@@ -295,6 +294,20 @@
     color: var(--purple);
     top: 50%;
     border: none;
+}
+@media (max-width: 500px){
+    .title-sw{
+        font-size: 20px!important;
+        line-height: 40px;
+        letter-spacing: .02em;
+    }
+    .all-sw{
+        margin-left: 10px;
+        font-size: 14px!important;
+        font-weight: 600;
+        display: flex;
+        align-items: end;
+    }
 }
 @media (max-width: 768px){
     .swiper-button-prev {
