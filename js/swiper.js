@@ -18,3 +18,4 @@ const swiper = new Swiper('.sw-image', {
   },
 
 });
+// localStorage.clear(); 
