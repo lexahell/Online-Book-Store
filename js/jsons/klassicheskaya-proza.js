@@ -1,4 +1,4 @@
-export const klassicheskayaProza = {
+const klassicheskayaProza = {
     "data": [
         {
             "attributes": {
@@ -2721,3 +2721,4 @@ export const klassicheskayaProza = {
         }
     }
 }
+export default klassicheskayaProza;

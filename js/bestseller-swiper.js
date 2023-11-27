@@ -5,7 +5,7 @@ const countSlides  = 24;
 for(let i = 0; i < countSlides; i++){
     const newProductCardSlideString = `
     <div class="swiper-slide slider-item">
-        <article class="product-card-slider" data-chg-product-id="" data-chg-product-price="" data-chg-product-status="" data-chg-product-name="" data-chg-product-old-price="">
+        <article class="product-card-slider" data-chg-product-id="" data-chg-product-price="" data-chg-product-status="" data-chg-product-name="" data-chg-product-old-price="" data-chg-favourites-status="false">
             <a href="" class="product-img-container">
                 <img src="" class="product-img" alt="">
             </a>
@@ -49,6 +49,7 @@ for(let i = 0; i < countSlides; i++){
     newProductCardSlide.dataset.chgProductOldPrice = arrBestseller[i].attributes.oldPrice;
     newProductCardSlide.dataset.chgProductName = arrBestseller[i].attributes.title;
     const id = newProductCardSlide.dataset.chgProductId;
+    
     newProductCardSlide.querySelector(".product-title__head").textContent = arrBestseller[i].attributes.title;
     newProductCardSlide.querySelector(".product-title__author").textContent = (arrBestseller[i].attributes.authors[0]?.firstName ?? "") + " " +  (arrBestseller[i].attributes.authors[0]?.lastName ?? "");
     newProductCardSlide.querySelector(".product-img").src = `img\\books\\bestseller\\${id}.jpg`;
@@ -56,6 +57,27 @@ for(let i = 0; i < countSlides; i++){
     newProductCardSlide.querySelector(".product-price__old").textContent = arrBestseller[i].attributes.oldPrice + " ₽";
     newProductCardSlide.querySelector(".product-price__value").textContent = arrBestseller[i].attributes.price + " ₽";
     newProductCardSlide.querySelector(".product-card-price-discount").textContent = arrBestseller[i].attributes.discount + "%";
+    // if (localStorage.getItem(id)){
+    //     const svg1 = `
+    // <svg  height="16px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    //     <g data-name="Layer 54" id="Layer_54">
+    //         <path
+    //         class="cls-1"
+    //         d="M16,28.72a3,3,0,0,1-2.13-.88L3.57,17.54a8.72,8.72,0,0,1-2.52-6.25,8.06,8.06,0,0,1,8.14-8A8.06,8.06,0,0,1,15,5.68l1,1,.82-.82h0a8.39,8.39,0,0,1,11-.89,8.25,8.25,0,0,1,.81,12.36L18.13,27.84A3,3,0,0,1,16,28.72ZM9.15,5.28A6.12,6.12,0,0,0,4.89,7a6,6,0,0,0-1.84,4.33A6.72,6.72,0,0,0,5,16.13l10.3,10.3a1,1,0,0,0,1.42,0L27.23,15.91A6.25,6.25,0,0,0,29,11.11a6.18,6.18,0,0,0-2.43-4.55,6.37,6.37,0,0,0-8.37.71L16.71,8.8a1,1,0,0,1-1.42,0l-1.7-1.7a6.28,6.28,0,0,0-4.4-1.82Z"
+    //     />
+    //     </g>
+    // </svg>
+    // `;
+    //     const svg2 = `
+    // <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg height="512px" id="Layer_1" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M340.8,83C307,83,276,98.8,256,124.8c-20-26-51-41.8-84.8-41.8C112.1,83,64,131.3,64,190.7c0,27.9,10.6,54.4,29.9,74.6  L245.1,418l10.9,11l10.9-11l148.3-149.8c21-20.3,32.8-47.9,32.8-77.5C448,131.3,399.9,83,340.8,83L340.8,83z"/></svg>
+    // `
+    //     const btn = newProductCardSlide.querySelector(".favourite-button");
+    //     btn.classList.add('favourite-button-active');
+    //     btn.querySelector("svg").remove();
+    //     btn.insertAdjacentHTML('afterbegin', svg2);
+    //     btn.closest('.product-card-slider').dataset.chgFavouritesStatus = "true";
+    //     localStorage.setItem(btn.closest('.product-card-slider').dataset.chgProductId, button.closest('.product-card-slider').outerHTML);
+    // }
 }
 const swiperBestsellers = new Swiper('.swiper-bestseller',{
     loop: 1,
@@ -99,49 +121,3 @@ const swiperBestsellers = new Swiper('.swiper-bestseller',{
     },
 });
 
-const actionButtons = document.querySelectorAll(".action-button");
-const favouriteButtons = document.querySelectorAll(".favourite-button");
-actionButtons.forEach(button =>{
-    let isActive = false;
-    button.addEventListener('click', ()=>{
-        if (!isActive){
-            isActive = true;
-            button.classList.add('action-button-active');
-            button.textContent = 'Оформить';
-            button.closest('.product-card-slider').dataset.chgProductStatus = "preOrder";
-        } else{
-            document.location='../Кладезь/html/cart.html';
-        }
-    });
-});
-favouriteButtons.forEach(button =>{
-    let isActive = false;
-    const svg1 = `
-    <svg  height="16px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-        <g data-name="Layer 54" id="Layer_54">
-            <path
-            class="cls-1"
-            d="M16,28.72a3,3,0,0,1-2.13-.88L3.57,17.54a8.72,8.72,0,0,1-2.52-6.25,8.06,8.06,0,0,1,8.14-8A8.06,8.06,0,0,1,15,5.68l1,1,.82-.82h0a8.39,8.39,0,0,1,11-.89,8.25,8.25,0,0,1,.81,12.36L18.13,27.84A3,3,0,0,1,16,28.72ZM9.15,5.28A6.12,6.12,0,0,0,4.89,7a6,6,0,0,0-1.84,4.33A6.72,6.72,0,0,0,5,16.13l10.3,10.3a1,1,0,0,0,1.42,0L27.23,15.91A6.25,6.25,0,0,0,29,11.11a6.18,6.18,0,0,0-2.43-4.55,6.37,6.37,0,0,0-8.37.71L16.71,8.8a1,1,0,0,1-1.42,0l-1.7-1.7a6.28,6.28,0,0,0-4.4-1.82Z"
-        />
-        </g>
-    </svg>
-    `;
-    const svg2 = `
-    <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg height="512px" id="Layer_1" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M340.8,83C307,83,276,98.8,256,124.8c-20-26-51-41.8-84.8-41.8C112.1,83,64,131.3,64,190.7c0,27.9,10.6,54.4,29.9,74.6  L245.1,418l10.9,11l10.9-11l148.3-149.8c21-20.3,32.8-47.9,32.8-77.5C448,131.3,399.9,83,340.8,83L340.8,83z"/></svg>
-    `
-    button.addEventListener('click', ()=>{
-        if (!isActive){
-            isActive = true;
-            button.classList.add('favourite-button-active');
-            button.querySelector("svg").remove();
-            button.insertAdjacentHTML('afterbegin', svg2);
-            button.closest('.product-card-slider').dataset.chgFavouritesStatus = "true";
-        } else{
-            button.classList.remove('favourite-button-active')
-            button.querySelector("svg").remove();
-            button.insertAdjacentHTML('afterbegin', svg1);
-            button.closest('.product-card-slider').dataset.chgFavouritesStatus = "false";
-            isActive = false;
-        }
-    });
-});

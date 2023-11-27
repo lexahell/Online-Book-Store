@@ -158,7 +158,6 @@ section{
     font-weight: 600px;
 }
 
-
 @media (max-width: 700px){
     .box{
         display: flex;
