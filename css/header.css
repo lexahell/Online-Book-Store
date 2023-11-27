@@ -245,6 +245,7 @@ header .contaier {
   text-align: center;
   margin-top: -16px;
   right: -4px;
+  display: none;
 }
 #header-favourites:hover svg * {
   fill: var(--purple);
@@ -341,13 +342,13 @@ header .contaier {
     text-align: center;
     margin-top: -16px;
     right: -4px;
+    transition: all 0.3s ease-in;
   }
   .catalog{
     margin-right: 5px;
     display: flex;
     justify-content: center;
     align-self: center;
-    /* border-radius: 50%; */
     height: 42px;
     padding: 0px 0px 15px 0px;
   }
