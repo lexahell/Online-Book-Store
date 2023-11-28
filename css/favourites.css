@@ -46,6 +46,24 @@ body{
     text-overflow: ellipsis;
     word-break: break-word; 
 }
+.empty-text{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+.empty-text span{
+    padding-right: 10px;
+}
+.empty-text svg{
+    fill: var(--purple);
+    font-size: 24px;
+    height: 24px;
+    width: 24px;
+}
+.title-empty-favourites{
+    font-size: 20px;
+    height: 24px;
+}
 
 @media (max-width:1500px){
     .container-favourites{
