@@ -6,9 +6,11 @@ import comics from "./jsons/comics.js";
 import fantasy from "./jsons/fantasy.js";
 const arrJsons = [];
 arrJsons.push(bestseller,novelty, klassicheskayaProza, manga, comics, fantasy);
+const packageCategory= ["bestseller","novelty", "klassicheskayaProza", "manga", "comics", "fantasy"]
 const containerFavourites = document.querySelector(".container-favourites");
 for (let key in localStorage){
     let isFound = false;
+    let indexCategory = 0;
     for(let obj of arrJsons){
         const books = obj.data;
         for(let book of books){
@@ -98,12 +100,11 @@ for (let key in localStorage){
                 //localStorage.clear();
                 newProductCardSlide.querySelector(".product-title__head").textContent = book.attributes.title;
                 newProductCardSlide.querySelector(".product-title__author").textContent = (book.attributes.authors[0]?.firstName ?? "") + " " + (book.attributes.authors[0]?.lastName ?? "");
-                newProductCardSlide.querySelector(".product-img").src = `..\\img\\books\\novelty\\${id}.jpg`;
+                newProductCardSlide.querySelector(".product-img").src = `..\\img\\books\\${packageCategory[indexCategory]}\\${id}.jpg`;
                 newProductCardSlide.querySelector(".product-img").alt = `${book.attributes.title}`;
                 newProductCardSlide.querySelector(".product-price__old").textContent = book.attributes.oldPrice + " ₽";
                 newProductCardSlide.querySelector(".product-price__value").textContent = book.attributes.price + " ₽";
                 newProductCardSlide.querySelector(".product-card-price-discount").textContent = book.attributes.discount + "%";
-                console.log(book.id);
                 isFound=true;
                 break;
             }
@@ -111,7 +112,9 @@ for (let key in localStorage){
         if(isFound){
             break;
         }
+        indexCategory++;
     }
+    indexCategory = 0;
 }
 if (containerFavourites.querySelector("*") == null){
     containerFavourites.textContent = "В избранном пока пусто";
