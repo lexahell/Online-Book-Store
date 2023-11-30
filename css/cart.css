@@ -11,7 +11,7 @@ body{
 .cart-wrapper{
     padding:30px 8%;
     width: 100%;
-    min-height: calc(100vh - 80px);
+    min-height: calc(100vh - 110px);
 }
 .title-cart{
     border-bottom: 3px solid var(--purple-light);
@@ -30,21 +30,195 @@ body{
     align-items: center;
     height: 100%;
 }
-.empty-chest-img{
+.cart-empty-container .empty-chest-img{
     width: 150px;
     height: 150px;
 }
-.empty-title-cart{
+.cart-empty-container .empty-title-cart{
     font-size: 20px;
     height: 24px;
 }
-.empty-text-cart{
+.cart-empty-container .empty-text-cart{
     font-size: 18px;
 }
 @media(max-width:1024px){
     .cart-wrapper{
         padding:30px 8%;
-        width: 100%;
-        min-height: calc(100vh - 102px);
+        min-height: calc(100vh - 132px);
     }
+}
+
+
+.cart-content{
+    grid-column-gap: 54px;
+    display: grid;
+    grid-template-columns: 1fr 408px;
+    margin-bottom: 64px;
+    width: 100%; 
+}
+
+.cart-product-container{
+    border-bottom: 2px solid #edf3f7;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 36px;
+    padding-bottom: 36px;
+    position: relative;
+}
+.cart-product-content{
+    display: flex;
+    flex: 1;
+}
+.cart-img-container{
+    display: block;
+    height: 138px;
+    margin-right: 24px;
+    max-width: 92px;
+    width: 100%;
+}
+.cart-img{
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    width: 100%;
+}
+
+.cart-product-block{
+    display: flex;
+    flex: 1;
+    flex-wrap: nowrap;
+    position: relative; 
+}
+.cart-product-description-block{
+    margin-bottom: 12px;
+    margin-right: auto;
+}
+.cart-product-description{
+    cursor: pointer;
+    margin-right: auto;
+    transition: color 0.2s ease;
+    width: 100%;
+    color:#0d0c22;
+}
+.cart-product-description:hover .cart-product-title__head{
+    color: var(--purple);
+}
+.cart-product-title__head{
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #0d0c22;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+}
+.cart-product-title__author{
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: #707783;
+    display: -webkit-box;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    overflow: hidden;
+    padding-top: 6px;
+    text-overflow: ellipsis;
+    word-break: break-word;
+}
+
+.cart-product-counter-container{
+    flex: 0 0 108px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 0;
+
+}
+.cart-counter{
+    align-items: stretch;
+    background-color: #fff;
+    border: 1.5px solid  var(--purple);
+    border-radius: 24px;
+    display: flex;
+    height: 32px;
+    overflow: hidden;
+    margin: auto;
+    max-width: 95px;
+    position: relative;
+    width: fit-content;
+}
+.count-minus{
+    cursor: pointer;
+    background-color: #fff;
+    border: 0;
+    color: #0d0c22;
+    flex-shrink: 0;
+    font-family: inherit;
+    font-size: 16px;
+    height: 100%;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    text-align: center;
+    transition: background-color .2s,color .2s,opacity .2s;
+    width: 32px;
+}
+.count{
+    border: none;
+    color: inherit;
+    flex-grow: 1;
+    font-size: 16px;
+    font-weight: 400;
+    height: 100%;
+    min-width: 28px;
+    outline: none;
+    padding: 0;
+    text-align: center;
+}
+.count-plus{
+    cursor: pointer;
+    background-color: #fff;
+    border: 0;
+    color: #0d0c22;
+    flex-shrink: 0;
+    font-family: inherit;
+    font-size: 16px;
+    height: 100%;
+    padding: 0;
+    text-align: center;
+    transition: background-color .2s,color .2s,opacity .2s;
+    width: 32px;
+}
+
+.product-card-price{
+    align-items: flex-end;
+    display: flex;
+    justify-content: space-between;
+    min-height: 46px;
+    margin-bottom: 12px;
+}
+.product-price {
+    align-items: flex-start;
+    display: flex;
+    flex-flow: column;
+}
+.product-price .product-price__old{
+    font-size: 12px;
+    line-height: 18px;
+    color: #707783;
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    white-space: nowrap;
+    text-decoration: line-through;
+    text-decoration-color: #f34a57;
+}
+.product-price .product-price__value{
+    color: #f34a57;
+    font-weight: 600;
+    font-family: sans-serif;
+    white-space: nowrap;
 }
