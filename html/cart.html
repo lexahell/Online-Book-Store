@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="../css/header.css"/>
     <link type="image/png" sizes="96x96" rel="icon" href="../img/фавиконка.png"/>
+    <link rel="stylesheet" href="../css/header.css"/>
+    <link rel="stylesheet" href="../css/footer.css"/>
+    <link rel="stylesheet" href="../css/cart.css">
     <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
-  
+    <script type="module" src="../js/Listeners.js" defer></script>
 </head>
 <body>
   <header>
@@ -142,8 +144,69 @@
       </div>
     </div>
   </header>
-      <main>
-        <h1>Корзина пуста</h1>
-      </main>
+  <main>
+    <div class="cart-container">
+      <div class="cart-wrapper">
+        <h2 class="title-cart">Корзина</h2>
+        <div class="cart-empty-container">
+          <img class="empty-chest-img" src="../img/empty-chest.png" alt="">
+          <h3 class="empty-title-cart"> В корзине пока пусто</h3>
+          <p class="empty-text-cart">Воспользуйтесь <a href="">Каталогом</a> или<br> поиском, чтобы найти товары</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+
+  <footer class="footer">
+    <div class="container">
+      <div class="sec aboutus">
+        <h2>О нас</h2>
+        <p>
+          Кладезь - это не просто магазин книг, это место, где истории оживают и мечты становятся реальностью. Наш магазин основан на страсти к чтению и стремлении поделиться этим вдохновением с миром.
+        </p>
+        <div class="social">
+          <a class="social__icon telegram" href="#">
+            <i class="fab fa-telegram"></i>
+          </a>
+          <a class="social__icon vk" href="#">
+            <i class="fab fa-vk"></i>
+          </a>
+          <a class="social__icon youtube" href="#">
+            <i class="fab fa-youtube"></i>
+          </a>
+        </div>
+      </div>
+      <div class="sec quicklinks support">
+        <h2>Поддержка</h2>
+        <ul>
+          <li><a href="#">FAQ</a></li>
+          <li><a href="#">Политика конфиденциальности</a></li>
+          <li><a href="#">Помощь</a></li>
+        </ul>
+      </div>
+      <div class="sec quicklinks shop">
+        <h2>Магазин</h2>
+        <ul>
+          <li><a href="#">Мужчинам</a></li>
+          <li><a href="#">Женщинам</a></li>
+          <li><a href="#">Детям</a></li>
+        </ul>
+      </div>
+      <div class="sec contact">
+        <h2>Служба поддержки</h2>
+        <ul class="info">
+          <li>
+            <span><i class="fa-solid fa-phone"></i></span>
+            <p><a href="tel:+89999999999">+8 999 999 9999</a></p>
+          </li>
+          <li>
+            <span><i class="fa-solid fa-envelope"></i></span>
+            <p><a href="mailto:pochta@mail.ru">pochta@mail.ru</></p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>

@@ -1,7 +1,6 @@
 body{
     display: flex;
     flex-direction: column;
-
 }
 
 .fav-container{
@@ -17,11 +16,12 @@ body{
 }
 
 .title-fav{
+    border-bottom: 3px solid var(--purple-light);
     color: #0d0c22;
     font-size: 32px;
     line-height: 40px;
     letter-spacing: .02em;
-    margin-bottom: 40px;    
+    margin-bottom: 30px;    
     text-transform: uppercase;
 }
 .container-favourites{
