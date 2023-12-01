@@ -240,6 +240,9 @@
     padding: 0;
     transition: color .2s ease, background-color .2s ease;
 }
+.favourite-button:hover{
+    background-color: #f2e8fe;
+}
 .favourite-button svg{
     fill: var(--purple);
     font-size: 24px;
