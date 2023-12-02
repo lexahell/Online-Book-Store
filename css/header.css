@@ -185,7 +185,7 @@ header .contaier {
   position: fixed;
   width: 100%;
   height: calc(100vh);
-  overflow-y: scroll;
+  overflow-y: hidden;
   z-index: 2;
   background-color: #ffffff;
   transition: top 0.2s ease-in-out;

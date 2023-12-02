@@ -251,7 +251,6 @@
 
 }
 .favourite-button-active svg{
-    z-index: 10;
     fill: #f91155;
     font-size: 26px;
     height: 26px;

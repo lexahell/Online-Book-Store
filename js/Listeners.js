@@ -82,3 +82,18 @@ actionButtons.forEach((button) => {
     }
   });
 });
+
+const menu = document.querySelector(".menu");
+const catalogBtn = document.querySelector('.catalog');
+catalogBtn.addEventListener('click', () =>{
+  if(menu.classList.contains("menu-hidden")){
+    menu.classList.remove("menu-hidden");
+  }else{
+    menu.classList.add("menu-hidden");
+  }
+});
+
+const btnClearLocaleStorage = document.querySelector(".clearLocaleStorage");
+btnClearLocaleStorage.addEventListener('click',() =>{
+  localStorage.clear();
+})
