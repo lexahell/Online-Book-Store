@@ -4,8 +4,216 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Каталог</title>
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <!-- <link rel="stylesheet" href="../css/favourites.css"> -->
+    <link
+      type="image/png"
+      sizes="96x96"
+      rel="icon"
+      href="../img/фавиконка.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    />
+    <script src="../js/Listeners.js" defer></script>
 </head>
 <body>
+    <header>
+        <div class="contaier">
+          <a class="logo-container" href="../index.html">
+            <img
+              class="logo-img"
+              src="../img/free-icon-treasure-chest-4230567.png"
+              alt=""
+            />
+            <h1>Кладезь</h1>
+          </a>
+          <nav class="header-nav">
     
+            <button class="catalog ">
+                <div class="catalog-burger">
+                  <span id="line1"></span>
+                  <span id="line2"></span>
+                  <span id="line3"></span>
+                </div>
+                <span class="catalog-text">Каталог</span>
+              </button>
+            <div class="header-search-block">
+              <form action="." class="header-search-form">
+                <div class="search-field">
+                  <input
+                    type="search"
+                    placeholder="Найти..."
+                    maxlength="100"
+                    class="search-field-input"
+                  />
+                  <button
+                    type="submit"
+                    aria-label="Искать"
+                    class="header-search-button"
+                  >
+                    <i class="fa fa-search"></i>
+                  </button>
+                </div>
+              </form>
+            </div>
+          </nav>
+          <div class="header-controls">
+            <a id="header-profile" href="../html/login.html">
+              <?xml version="1.0" ?>
+              <svg
+                fill="none"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <circle
+                  cx="12"
+                  cy="8"
+                  r="5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                />
+                <path
+                  d="M20 21C20 16.5817 16.4183 13 12 13C7.58172 13 4 16.5817 4 21"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                />
+                <path
+                  d="M20 21C20 16.5817 16.4183 13 12 13C7.58172 13 4 16.5817 4 21"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                />
+              </svg>
+            </a>
+    
+            <a id="header-favourites" href="../html/favorites.html">
+              <?xml version="1.0" ?>
+              <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                <g data-name="Layer 54" id="Layer_54">
+                  <path
+                    class="cls-1"
+                    d="M16,28.72a3,3,0,0,1-2.13-.88L3.57,17.54a8.72,8.72,0,0,1-2.52-6.25,8.06,8.06,0,0,1,8.14-8A8.06,8.06,0,0,1,15,5.68l1,1,.82-.82h0a8.39,8.39,0,0,1,11-.89,8.25,8.25,0,0,1,.81,12.36L18.13,27.84A3,3,0,0,1,16,28.72ZM9.15,5.28A6.12,6.12,0,0,0,4.89,7a6,6,0,0,0-1.84,4.33A6.72,6.72,0,0,0,5,16.13l10.3,10.3a1,1,0,0,0,1.42,0L27.23,15.91A6.25,6.25,0,0,0,29,11.11a6.18,6.18,0,0,0-2.43-4.55,6.37,6.37,0,0,0-8.37.71L16.71,8.8a1,1,0,0,1-1.42,0l-1.7-1.7a6.28,6.28,0,0,0-4.4-1.82Z"
+                  />
+                </g>
+              </svg>
+              <span id="count-favourites">0</span>
+            </a>
+            <a id="header-cart" href="../html/cart.html">
+              <?xml version="1.0" ?>
+              <svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M184,184H69.8L41.9,30.6A8,8,0,0,0,34.1,24H16"
+                  fill="none"
+                  stroke="#000"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="16"
+                />
+                <circle
+                  cx="80"
+                  cy="204"
+                  fill="none"
+                  r="20"
+                  stroke="#000"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="16"
+                />
+                <circle
+                  cx="184"
+                  cy="204"
+                  fill="none"
+                  r="20"
+                  stroke="#000"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="16"
+                />
+                <path
+                  d="M62.5,144H188.1a15.9,15.9,0,0,0,15.7-13.1L216,64H48"
+                  fill="none"
+                  stroke="#000"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="16"
+                />
+              </svg>
+              <span id="count-item-in-cart">0</span>
+            </a>
+          </div>
+        </div>
+      </header>
+      <div class="menu menu-hidden">
+        <a href="./catalog.html?category=bestseller">Бестселлеры</a>
+        <a href="./catalog.html?category=comics">Комиксы</a>
+        <a href="./catalog.html?category=fantasy">Фантастика</a>
+        <a href="./catalog.html?category=klassicheskaya-proza">Классическая литература</a>
+        <a href="./catalog.html?category=manga">Манга</a>
+        <a href="./catalog.html?category=novelty">Новинки</a>
+      </div>
+
+
+
+
+
+
+
+
+    <footer class="footer">
+        <div class="container">
+          <div class="sec aboutus">
+            <h2>О нас</h2>
+            <p>
+              Кладезь - это не просто магазин книг, это место, где истории оживают и мечты становятся реальностью. Наш магазин основан на страсти к чтению и стремлении поделиться этим вдохновением с миром.
+            </p>
+            <div class="social">
+              <a class="social__icon telegram" href="#">
+                <i class="fab fa-telegram"></i>
+              </a>
+              <a class="social__icon vk" href="#">
+                <i class="fab fa-vk"></i>
+              </a>
+              <a class="social__icon youtube" href="#">
+                <i class="fab fa-youtube"></i>
+              </a>
+            </div>
+          </div>
+          <div class="sec quicklinks support">
+            <h2>Выполнил</h2>
+            <ul>
+              <li>Григорьев А.А.</li>
+              <li>ИКБО-16-22</li>
+            </ul>
+          </div>
+          <div class="sec quicklinks shop">
+            <h2>Магазин</h2>
+            <ul>
+              <li><a href="#">Мужчинам</a></li>
+              <li><a href="#">Женщинам</a></li>
+              <li><a href="#">Детям</a></li>
+            </ul>
+          </div>
+          <div class="sec contact">
+            <h2>Служба поддержки</h2>
+            <ul class="info">
+              <li>
+                <span><i class="fa-solid fa-phone"></i></span>
+                <p><a href="tel:+89999999999">+8 999 999 9999</a></p>
+              </li>
+              <li>
+                <span><i class="fa-solid fa-envelope"></i></span>
+                <p><a href="mailto:pochta@mail.ru">pochta@mail.ru</а></p>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </footer>
 </body>
 </html>

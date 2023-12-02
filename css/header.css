@@ -179,6 +179,16 @@ header .contaier {
   border-radius: 1.5px;
   height: 2px;
 }
+.catalog-active #line1{
+  transform: rotate(45deg);
+}
+.catalog-active #line2{
+  display: none;
+}
+.catalog-active #line3{
+  transform:  translateY(-4.8px) rotate(-45deg);
+}
+
 .menu{
   display: flex;
   flex-direction: column;
@@ -200,6 +210,7 @@ header .contaier {
   top: -100vh;
 }
 .menu a{
+  color: var(--purple);
   font-size: 30px;
   padding: 10px;
   border-bottom: 1px solid var(--purple);

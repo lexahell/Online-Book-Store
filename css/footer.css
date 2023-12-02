@@ -51,6 +51,9 @@ footer .container .quicklinks {
 
 footer .container .quicklinks ul li {
   list-style: none;
+  color: var(--purple);
+  text-decoration: none;
+  margin-bottom: 10px;
 }
 footer .container .quicklinks ul li a {
   color: var(--purple);

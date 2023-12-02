@@ -88,7 +88,9 @@ const catalogBtn = document.querySelector('.catalog');
 catalogBtn.addEventListener('click', () =>{
   if(menu.classList.contains("menu-hidden")){
     menu.classList.remove("menu-hidden");
+    catalogBtn.classList.add('catalog-active');
   }else{
+    catalogBtn.classList.remove('catalog-active');
     menu.classList.add("menu-hidden");
   }
 });
