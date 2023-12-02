@@ -6,10 +6,9 @@ import comics from "./jsons/comics.js";
 import fantasy from "./jsons/fantasy.js";
 const arrJsons = [];
 arrJsons.push(bestseller,novelty, klassicheskayaProza, manga, comics, fantasy);
-const packageCategory= ["bestseller","novelty", "klassicheskayaProza", "manga", "comics", "fantasy"]
+const packageCategory= ["bestseller","novelty", "klassicheskayaProza", "manga", "comics", "fantasy"];
 const containerFavourites = document.querySelector(".container-favourites");
 for (let key in localStorage){
-    console.log(key);
     let isFound = false;
     let indexCategory = 0;
     for(let obj of arrJsons){
@@ -88,7 +87,7 @@ for (let key in localStorage){
                             `
                             );
                 }
-                        // меняем кнопку если товар в корзине
+                // добавляем
                 const actionButton = newProductCardSlide.querySelector(".action-button");
                 if (localStorage.getItem(`book_in_cart_${id}`)) {
                     actionButton.classList.add("action-button-active");

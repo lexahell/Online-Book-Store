@@ -72,7 +72,7 @@ actionButtons.forEach((button) => {
       button.classList.add("action-button-active");
       button.textContent = "Оформить";
       button.closest(".product-card-slider").dataset.chgProductStatus = "preOrder";
-      localStorage.setItem(`book_in_cart_${id}`, "1");
+      localStorage.setItem(`book_in_cart_${id}`, `1`);
       localStorage.setItem("countInCart", `${+localStorage.getItem("countInCart")+ 1}`);
       countItemInCart.textContent = localStorage.getItem("countInCart");
       countItemInCart.style.display = "block";
