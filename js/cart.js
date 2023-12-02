@@ -123,6 +123,7 @@ for (let key in localStorage) {
 				cartProductContainer.querySelector(".cart-img").alt = `${book.attributes.title}`;
 				cartProductContainer.querySelector(".product-price__old").textContent = book.attributes.oldPrice + " ₽";
 				cartProductContainer.querySelector(".product-price__value").textContent = book.attributes.price + " ₽";
+				cartProductContainer.querySelector(".count").textContent = localStorage.getItem(`book_in_cart_${id}`);
 				// cartProductContainer.querySelector(".product-card-price-discount").textContent = book.attributes.discount + "%";
 				isFound=true;
 				break;
@@ -189,5 +190,57 @@ deleteButtons.forEach(btn => {
 		localStorage.removeItem(`book_in_cart_${cartProductContainer.dataset.chgProductId}`);
 		localStorage.setItem("countInCart", `${+localStorage.getItem("countInCart")- 1}`)
 		cartProductContainer.remove();
+	});
+});
+
+
+/*
+<div class="cart-product-counter-container">
+	<div class="cart-counter">
+		<button class="count-minus">–</button>
+		<button class="count">1</button>
+		<button class="count-plus">+</button>
+	</div>
+</div>
+*/
+//Количество одинаковых товаров
+const cartProductContainers = document.querySelectorAll(".cart-product-container");
+cartProductContainers.forEach((item)=>{
+	const minusBtn = item.querySelector(".count-minus");
+	const count = item.querySelector(".count");
+	const plusBtn = item.querySelector(".count-plus");
+	minusBtn.addEventListener("click",()=>{
+		if (+count.textContent != 1){
+			count.textContent = +count.textContent - 1;
+			console.log();
+			const id = item.dataset.chgProductId;
+			localStorage.setItem(`book_in_cart_${id}`, +localStorage.getItem(`book_in_cart_${id}`) - 1);
+			localStorage.setItem("countInCart", +localStorage.getItem("countInCart") - 1);
+			
+			amount -= +item.dataset.chgProductPrice;
+			item.querySelector(".product-price__value").textContent =  `${+parseInt(item.querySelector(".product-price__value").textContent) - +item.dataset.chgProductPrice} ₽`;
+
+			amountWithoutDiscount -= +item.dataset.chgProductOldPrice;
+			item.querySelector(".product-price__old").textContent =  `${+parseInt(item.querySelector(".product-price__old").textContent) - +item.dataset.chgProductOldPrice}  ₽`;
+
+			amountDiscount = amountWithoutDiscount - amount;
+			renderAmount();
+		}
+	});
+	plusBtn.addEventListener("click",()=>{
+		if (+count.textContent != 99){
+			count.textContent = +count.textContent + 1;
+			const id = item.closest(".cart-product-container").dataset.chgProductId;
+			localStorage.setItem(`book_in_cart_${id}`, +localStorage.getItem(`book_in_cart_${id}`) + 1);
+			localStorage.setItem("countInCart", +localStorage.getItem("countInCart") + 1);
+			amount += +item.dataset.chgProductPrice;
+			item.querySelector(".product-price__value").textContent =  `${+parseInt(item.querySelector(".product-price__value").textContent) + +item.dataset.chgProductPrice} ₽`;
+
+			amountWithoutDiscount += +item.dataset.chgProductOldPrice;
+			item.querySelector(".product-price__old").textContent =  `${+parseInt(item.querySelector(".product-price__old").textContent) + +item.dataset.chgProductOldPrice}  ₽`;
+			
+			amountDiscount = amountWithoutDiscount - amount;
+			renderAmount();
+		}
 	});
 });
