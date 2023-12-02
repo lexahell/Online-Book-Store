@@ -27,6 +27,7 @@ const svg2 = `
 `;
 
 favouriteButtons.forEach((button) => {
+  if(!button.closest(".product-card-slider")) return;
   button.addEventListener("click", () => {
     const id = button.closest(".product-card-slider").dataset.chgProductId;
     if (
@@ -77,15 +78,7 @@ actionButtons.forEach((button) => {
       countItemInCart.textContent = localStorage.getItem("countInCart");
       countItemInCart.style.display = "block";
     } else {
-      // localStorage.removeItem(`book_in_cart_${id}`);
-      // button.closest(".product-card-slider").dataset.chgProductStatus = "canBuy";
-      // button.classList.remove("action-button-active");
       document.location = "../Кладезь/html/cart.html";
-      // localStorage.setItem("countInCart", `${+localStorage.getItem("countInCart")- 1}`);
-      // countItemInCart.textContent = localStorage.getItem("countInCart");
-      // if (countItemInCart.textContent == 0){
-      //   countItemInCart.style.display = "none"; 
-      // }
     }
   });
 });

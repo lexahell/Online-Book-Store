@@ -167,17 +167,45 @@ header .contaier {
   /* color: hsla(0, 0%, 100%, .9); */
   color: white;
 }
-.catalog-burer {
+.catalog-burger {
   display: flex;
   flex-direction: column;
   gap: 3px;
   /* margin-right: 5px; */
 }
-.catalog-burer span {
+.catalog-burger span {
   background-color: hsla(0, 0%, 100%, 0.9);
   width: 15px;
   border-radius: 1.5px;
   height: 2px;
+}
+.menu{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  width: 100%;
+  height: calc(100vh);
+  overflow-y: scroll;
+  z-index: 2;
+  background-color: #ffffff;
+  transition: top 0.2s ease-in-out;
+  gap: 10px;
+  padding-top: 50px;
+  padding-left: 5%;  
+  padding-right: 5%;
+  top: 80px;
+}
+.menu-hidden{
+  transition: top 0.2s ease-in-out;
+  top: -100vh;
+}
+.menu a{
+  font-size: 30px;
+  padding: 10px;
+  border-bottom: 1px solid var(--purple);
+}
+.menu a:hover{
+  background-color: #dbf9f9;
 }
 
 /* catalog end */
@@ -401,7 +429,7 @@ header .contaier {
     height: 42px;
     width: 42px;
   }
-  .catalog-burer{
+  .catalog-burger{
     margin-top: 15px;
   }
   .catalog-text{
