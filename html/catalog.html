@@ -6,6 +6,10 @@
     <title>Каталог</title>
     <link rel="stylesheet" href="../css/header.css">
     <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/index.css" />
+    <link rel="stylesheet" href="../css/favourites.css"/> 
+    <link rel="stylesheet" href="../css/catalog.css"/> 
+
     <!-- <link rel="stylesheet" href="../css/favourites.css"> -->
     <link
       type="image/png"
@@ -18,6 +22,7 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
     />
     <script src="../js/Listeners.js" defer></script>
+    <script type="module" src="../js/favourites.js" defer></script>
 </head>
 <body>
     <header>
@@ -153,14 +158,45 @@
       <div class="menu menu-hidden">
         <a href="./catalog.html?category=bestseller">Бестселлеры</a>
         <a href="./catalog.html?category=comics">Комиксы</a>
-        <a href="./catalog.html?category=fantasy">Фантастика</a>
+        <a href="./catalog.html?category=fantasy">Фентези</a>
         <a href="./catalog.html?category=klassicheskaya-proza">Классическая литература</a>
         <a href="./catalog.html?category=manga">Манга</a>
         <a href="./catalog.html?category=novelty">Новинки</a>
       </div>
 
 
-
+      <main>
+        <div class="fav-container">
+          <div class="fav-wrapper">
+            <h2 class="title-fav">Каталог</h2>
+            <div class="category-container">
+                <div class="category-list">
+                    <button class="category bestseller">
+                        <span>Бестселлеры</span>
+                    </button>
+                    <button class="category comics">
+                        <span>Комиксы</span>
+                    </button>
+                    <button class="category fantasy">
+                        <span>Фентези</span>
+                    </button>
+                    <button class="category klassicheskaya-proza">
+                        <span>Классическая литература</span>
+                    </button>
+                    <button class="category manga">
+                        <span>Манга</span>
+                    </button>
+                    <button class="category novelty">
+                        <span>Новинки</span>
+                    </button>
+                </div>
+            </div>
+            <div class="container-favourites">
+              
+            </div>
+          </div>
+        </div>
+      </main>
 
 
 

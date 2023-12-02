@@ -1,0 +1,10 @@
+.category-container{
+    width: 100%;
+    height: 60px;
+}
+.category-list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid var(--purple-light);
+}
