@@ -198,15 +198,6 @@ deleteButtons.forEach(btn => {
 });
 
 
-/*
-<div class="cart-product-counter-container">
-	<div class="cart-counter">
-		<button class="count-minus">–</button>
-		<button class="count">1</button>
-		<button class="count-plus">+</button>
-	</div>
-</div>
-*/
 //Количество одинаковых товаров
 const cartProductContainers = document.querySelectorAll(".cart-product-container");
 cartProductContainers.forEach((item)=>{

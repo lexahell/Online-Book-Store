@@ -91,7 +91,6 @@ for (let i = 0; i < countSlides; i++) {
         actionButton.closest(".product-card-slider").dataset.chgProductStatus = "canBuy";
     }
 
-    //localStorage.clear();
     newProductCardSlide.querySelector(".product-title__head").textContent = arrNovelty[i].attributes.title;
     newProductCardSlide.querySelector(".product-title__author").textContent = (arrNovelty[i].attributes.authors[0]?.firstName ?? "") + " " + (arrNovelty[i].attributes.authors[0]?.lastName ?? "");
     newProductCardSlide.querySelector( ".product-img").src = `img\\books\\novelty\\${id}.jpg`;
