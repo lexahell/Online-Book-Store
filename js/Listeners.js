@@ -78,7 +78,11 @@ actionButtons.forEach((button) => {
       countItemInCart.textContent = localStorage.getItem("countInCart");
       countItemInCart.style.display = "block";
     } else {
-      document.location = "../Кладезь/html/cart.html";
+      if(button.closest(".swiper")){
+        document.location = "html/cart.html";
+      }else{
+        document.location = "cart.html";
+      }
     }
   });
 });
