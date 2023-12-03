@@ -1,10 +1,122 @@
 .category-container{
     width: 100%;
-    height: 60px;
+    height: 50px;
+    margin-bottom: 40px;
 }
 .category-list{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border-bottom: 1px solid var(--purple-light);
+    border: 1px solid var(--purple-light);
+    height: 100%;
+    border-radius: 24px;
 }
+.category{
+    cursor: pointer;
+    display: flex;
+    min-width: 140px;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1 100%;
+    padding: 5px;
+    height: 100%;
+}
+.category:hover{
+    background-color: #eee3fe;
+    border-radius: 20px;  
+}
+.category span{
+    font-size: 17px;
+    font-weight: 400;
+}
+.category-active{
+    background-color: var(--purple-light);
+    color: white;
+    border-radius: 20px;   
+}
+.category-active:hover{
+    background-color: var(--purple-light);
+    color: white;
+    border-radius: 20px;    
+}
+@media (max-width: 1024px) {
+    .category-list{
+        flex-wrap: wrap;
+        height: 40px;
+    }
+    .category-container{
+        height: 230px;
+    }
+}
+
+
+.container-catalog{
+    width: 100%;
+    display: grid;
+    gap: 64px 40px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.container-catalog .product-card-text{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+}
+.container-catalog .product-title__head{
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word; 
+}
+.empty-text{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+.empty-text span{
+    padding-right: 10px;
+}
+.empty-text svg{
+    fill: var(--purple);
+    font-size: 24px;
+    height: 24px;
+    width: 24px;
+}
+.title-empty-catalog{
+    font-size: 20px;
+    height: 24px;
+}
+
+@media (max-width:1500px){
+    .container-catalog{
+        gap: 64px 16px;
+        grid-template-columns: repeat(auto-fill,minmax(150px,1fr));
+    }
+}
+@media screen and (max-width: 540px){
+    .container-catalog{
+        gap: 32px 28px;
+        grid-template-columns: repeat(auto-fill,minmax(130px,1fr));
+    }
+}
+
+@media (max-width: 450px){
+    .empty-text{
+        display: flex;
+        justify-content: start;
+        align-items: start;
+    }
+    .empty-text span{
+        width: 200px;
+    }
+    .empty-text svg{
+        margin-top: 20px;
+        text-wrap:balance;
+    }
+}
+

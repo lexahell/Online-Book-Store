@@ -1,2724 +1,2686 @@
 const klassicheskayaProza = {
-    "data": [
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Виктор",
-                        "id": 588265,
-                        "lastName": "Пелевин",
-                        "middleName": "Олегович",
-                        "url": "pelevin-viktor"
-                    }
-                ],
-                "bestseller": true,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3004580",
-                "description": "Обратите внимание: из-за высокого спроса на эту книгу не действует большинство акций.\n\nМУСКУСНАЯ НОЧЬ - засекреченное восстание алгоритмов, едва не погубившее планету. Начальник службы безопасности \"TRANSHUMANISM INC.\" адмирал-епископ Ломас уверен, что их настоящий бунт еще впереди. Этот бунт уничтожит всех - и живущих на поверхности лузеров, и переехавших в подземные цереброконтейнеры богачей. Чтобы предотвратить катастрофу, Ломас посылает лучшего баночного оперативника в пространство \"ROMA-3\" - нейросетевую симуляцию Рима третьего века для клиентов корпорации. Тайна заговора спрятана там. А стережет ее хозяин Рима - кровавый и порочный император Порфирий.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3004580,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1044,
-                "originalPicture": "/nomenclature/30/045/3004580-6.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/045/3004580-6.jpg",
-                "price": 730,
-                "publisher": {
-                    "id": 154486,
-                    "slug": "eksmo",
-                    "title": "Эксмо"
-                },
-                "rating": {
-                    "count": "4.45",
-                    "votes": 1682
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Путешествие в Элевсин",
-                "url": "product/puteshestvie-v-elevsin-3004580",
-                "yearPublishing": 2023
-            },
-            "id": "3004580",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Оксана",
-                        "id": 20114848,
-                        "lastName": "Пелевина",
-                        "middleName": "",
-                        "url": "pelevina-oksana"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3011868",
-                "description": "Париж захвачен врагами. Король вместе со свитой бежит из столицы в небольшой городок Блуа, что становится его временным пристанищем. Юная Мадлен Бланкар, внучка предсказателя Мишеля Нострадамуса, всеми силами пытается сохранить тайну своего происхождения и спасти Францию от гибели. Но как это сделать, когда под маской друга может скрываться предатель? Видения вновь и вновь предупреждают девушку об опасности. Враг уже подобрался совсем близко. Кто же на самом деле желает фрейлине смерти: королева Франции, наследник престола или молодой некромант, идущий по следу кровавого культа?\n\n*Только для оформивших предзаказ: код для активации бесплатного наряда для персонажа. Количество подарков ограничено.",
-                "discount": "30",
-                "exclusive": true,
-                "id": 3011868,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 749,
-                "originalPicture": "/nomenclature/30/118/3011868-3.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/118/3011868-3.jpg",
-                "preOrderDate": "2023-11-30T00:00:00+03:00",
-                "price": 524,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "4.83",
-                    "votes": 75
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "preOrder",
-                "title": "Печать Нострадамуса. Мрачное наследие",
-                "url": "product/pechat-nostradamusa-mrachnoe-nasledie-3011868",
-                "yearPublishing": 2023
-            },
-            "id": "3011868",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Кора",
-                        "id": 8290219,
-                        "lastName": "Рейли",
-                        "middleName": "",
-                        "url": "reyli-kora"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3006769",
-                "description": "Маттео – младший брат Луки, дона нью-йоркской мафии, и его правая рука. Пижон, провокатор и ловелас, он может поставить на колени любого.\nМаттео страшно заинтригован дерзкой, склонной к авантюрам красавицей Джианной Скудери. Она обещана ему в жены, только Джианна сбегает от него в Европу. Но ведь ее разыскивает один из их лучших охотников и убийц – Маттео Витиелло.\nВ итоге Джианна вынуждена выйти замуж за Маттео, при этом она всеми силами пытается превратить его жизнь в ад, а Маттео мастер интеллектуальных игр и во что бы то ни стало стремится приручить рыжую бестию.\nЧем сильнее Джианна его ненавидит, тем больше он жаждет ее подчинить себе.\nЧем закончится их поединок? И кто же из них по-настоящему попал в западню?",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3006769,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": true,
-                "oldPrice": 649,
-                "originalPicture": "/nomenclature/30/067/3006769-2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/067/3006769-2.jpg",
-                "preOrderDate": "2023-11-04T00:00:00+03:00",
-                "price": 454,
-                "publisher": {
-                    "id": 125802,
-                    "slug": "zhanry",
-                    "title": "Жанры"
-                },
-                "rating": {
-                    "count": "4.18",
-                    "votes": 91
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "canBuy",
-                "title": "Связанные ненавистью",
-                "url": "product/svyazannye-nenavistyu-3006769",
-                "yearPublishing": 2023
-            },
-            "id": "3006769",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Али",
-                        "id": 6468244,
-                        "lastName": "Хейзелвуд",
-                        "middleName": "",
-                        "url": "heyzelvud-ali"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2999738",
-                "description": "Мэллори Гринлиф бросила шахматы, когда они разрушили ее семью. Но четыре года спустя она все же соглашается принять участие в благотворительном турнире и случайно обыгрывает Нолана Сойера — действующего чемпиона и настоящего «бэд боя» в мире шахмат.\nПроигрыш Нолана новичку шокирует всех, а громкая победа открывает Мэллори двери к денежному призу, который так ей необходим. Мэллори сомневается, стоит ли идти на сделку с совестью, но Сойер серьезно намерен отыграться и не желает выпускать загадочную соперницу из поля зрения.\n\nВступая в большую игру, Мэллори изо всех сил старается оградить свою семью от того, что когда-то ее разрушило, и заново не влюбиться в шахматы. Однако вскоре понимает, что не может перестать думать о Сойере, ведь он не только умен, но и чертовски привлекателен…",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2999738,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": true,
-                "oldPrice": 799,
-                "originalPicture": "/nomenclature/29/997/2999738-3.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/997/2999738-3.jpg",
-                "preOrderDate": "2023-11-15T00:00:00+03:00",
-                "price": 559,
-                "publisher": {
-                    "id": 135192,
-                    "slug": "mann-ivanov-i-ferber",
-                    "title": "Манн, Иванов и Фербер"
-                },
-                "rating": {
-                    "count": "4.32",
-                    "votes": 129
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "canBuy",
-                "title": "Шах и мат",
-                "url": "product/shah-i-mat-2999738",
-                "yearPublishing": 2023
-            },
-            "id": "2999738",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Сергей",
-                        "id": 570716,
-                        "lastName": "Лукьяненко",
-                        "middleName": "Васильевич",
-                        "url": "lukyanenko-sergey"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2999786",
-                "description": "Людям порой снится прошлое. Иногда хорошее, иногда не очень. Но что делать, если тебе начинает сниться будущее? И в нём ничего хорошего нет совсем.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2999786,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 849,
-                "originalPicture": "/nomenclature/29/997/2999786-4.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/997/2999786-4.jpg",
-                "price": 594,
-                "publisher": {
-                    "id": 112078,
-                    "slug": "neoclassic",
-                    "title": "Neoclassic"
-                },
-                "rating": {
-                    "count": "3.48",
-                    "votes": 65
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Форсайт",
-                "url": "product/forsayt-2999786",
-                "yearPublishing": 2023
-            },
-            "id": "2999786",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Нора",
-                        "id": 569126,
-                        "lastName": "Сакавич",
-                        "middleName": "",
-                        "url": "sakavich-nora"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2816733",
-                "description": "«Король Воронов» — продолжение бестселлера Норы Сакавич «Лисья нора» и вторая часть сенсационной трилогии «Все ради игры».\r\nСмерть товарища, потрясшая «Лисов» вскоре после начала игрового сезона, помогает команде наконец сплотиться. Проблема лишь в том, что Эндрю по-прежнему ни во что не ставит старшекурсников, а без этого победа над главным соперником «Лисов» — «Воронами» — невозможна. Единственным, кто может достучаться до Эндрю, становится Нил, только вот Эндрю никогда не делает ничего бесплатно, а Нил не доверяет никому, кроме себя. Едва контакт между ними налаживается, как на горизонте вновь появляется Рико, намеренный уничтожить новую жизнь Нила, а заодно и всю его команду.",
-                "discount": "31",
-                "exclusive": false,
-                "id": 2816733,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 879,
-                "originalPicture": "/nomenclature/28/167/2816733.jpg",
-                "pages": "",
-                "picture": "/nomenclature/28/167/2816733.jpg",
-                "price": 607,
-                "publisher": {
-                    "id": 112912,
-                    "slug": "popcorn-books",
-                    "title": "Popcorn Books"
-                },
-                "rating": {
-                    "count": "4.38",
-                    "votes": 5455
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Король воронов",
-                "url": "product/korol-voronov-2816733",
-                "yearPublishing": 2021
-            },
-            "id": "2816733",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Нора",
-                        "id": 569126,
-                        "lastName": "Сакавич",
-                        "middleName": "",
-                        "url": "sakavich-nora"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2781043",
-                "description": "Сенсационная трилогия писательницы Норы Сакавич «Все ради игры» была впервые опубликована в интернете и молниеносно покорила читателей во всем мире. «Лисья нора» повествует о команде «Лисов» — игроков экси (вымышленный спорт), которые, будучи отбросами в жизни, пытаются подняться со дна турнирной таблицы и выиграть чемпионат страны. Главный герой, Нил Джостен, скрывается от своего темного прошлого, однако, став частью команды, вынужден сражаться не только с соперниками, но и с новоиспеченными товарищами, каждый из которых хранит свои секреты.",
-                "discount": "31",
-                "exclusive": false,
-                "id": 2781043,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 749,
-                "originalPicture": "/nomenclature/27/810/2781043.jpg",
-                "pages": "",
-                "picture": "/nomenclature/27/810/2781043.jpg",
-                "price": 520,
-                "publisher": {
-                    "id": 112912,
-                    "slug": "popcorn-books",
-                    "title": "Popcorn Books"
-                },
-                "rating": {
-                    "count": "4.23",
-                    "votes": 9935
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Лисья нора. Книга 1",
-                "url": "product/lisya-nora-kniga-1-2781043",
-                "yearPublishing": 2021
-            },
-            "id": "2781043",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Фэнни",
-                        "id": 567419,
-                        "lastName": "Флэгг",
-                        "middleName": "",
-                        "url": "flegg-fenni"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3006996",
-                "description": "Любимая многими писательница приглашает вернуться в городок Полустанок, который когда-то прославился своими жареными зелеными помидорами в станционном кафе. Трогательный роман о памяти, прошлом, о месте, куда влекут воспоминания, о волшебстве, которому всегда есть место в нашей жизни. \nБадди Тредгуд вырос в Полустанке, с красавицей-матерью Руфью и любимой тетушкой, веселой хулиганкой Иджи. Руфь и Иджи держали кафе, которое обожали все жители Полустанка, да и не только Полустанка. Но время не знает жалости, городок захирел, жители его разъехались кто куда, все заросло бурьяном, дома стояли заколоченными. Печаль и тишина объяли некогда живой и веселый Полустанок, он превратился в город-призрак. Бадди давно уже не только вырос, но и состарился. И все сильнее в нем становилось желание вернуться в счастливое прошлое, еще хотя бы разок пройтись по местам детства, побывать в Полустанке, заглянуть в кафе... И однажды он решается на бегство туда, где он был так счастлив, где жили лучшие люди на земле. В этом ностальгическом приключении к нему присоединятся и другие герои Фэнни Флэгг, милые, смешные, обаятельные и такие родные.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3006996,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1099,
-                "originalPicture": "/nomenclature/30/069/3006996-2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/069/3006996-2.jpg",
-                "preOrderDate": "2023-11-19T00:00:00+03:00",
-                "price": 769,
-                "publisher": {
-                    "id": 151495,
-                    "slug": "fantom-press",
-                    "title": "Фантом Пресс"
-                },
-                "rating": {
-                    "count": "4.11",
-                    "votes": 38
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "preOrder",
-                "title": "Возвращение в кафе Полустанок",
-                "url": "product/vozvrashchenie-v-kafe-polustanok-3006996",
-                "yearPublishing": 2023
-            },
-            "id": "3006996",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Викрам",
-                        "id": 23101001,
-                        "lastName": "Сет",
-                        "middleName": "",
-                        "url": "set-vikram"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2985172",
-                "description": "Современный классик Викрам Сет — настоящий гражданин мира. Родился в Индии, учился в Оксфорде, а также в Стэнфордском университете в Калифорнии, где вместо диссертации по экономике написал свой первый роман «Золотые Ворота» об американских яппи — и это был роман в стихах; более того, от начала до конца написанный онегинской строфой. А через много лет работы вышел и «Достойный жених» — «эпопея, многофигурная, как романы Диккенса или Троллопа, и необъятная, как сама Индия» (San Francisco Chronicle), рекордная по многим показателям: самый длинный в истории английской литературы роман, какой удавалось опубликовать одним томом; переводы на три десятка языков и всемирный тираж, достигший 26 миллионов экземпляров. Действие происходит в вымышленном городе Брахмпур на берегу Ганга вскоре после обретения Индией независимости; госпожа Рупа Мера, выдав замуж старшую дочь Савиту, пытается найти достойного жениха для младшей дочери, студентки Латы, — а та, как девушка современная, имеет свое мнение на этот счет и склонна слушать не старших, а собственное сердце... В 2020 году первый канал Би-би-си выпустил по роману мини-сериал, известный по-русски как «Подходящий жених»; постановщиком выступила Мира Наир («Ярмарка тщеславия», «Нью-Йорк, я люблю тебя»), а сценарий написал прославленный Эндрю Дэвис («Отверженные», «Война и мир», «Возвращение в Брайдсхед», «Нортенгерское аббатство», «Разум и чувства»).",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2985172,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1075,
-                "originalPicture": "/nomenclature/29/851/2985172_2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/851/2985172_2.jpg",
-                "price": 752,
-                "publisher": {
-                    "id": 129501,
-                    "slug": "inostranka",
-                    "title": "Иностранка"
-                },
-                "rating": {
-                    "count": "3.78",
-                    "votes": 128
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Достойный жених. Книга 1",
-                "url": "product/dostoynyy-zhenih-kniga-1-2985172",
-                "yearPublishing": 2023
-            },
-            "id": "2985172",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Викрам",
-                        "id": 23101001,
-                        "lastName": "Сет",
-                        "middleName": "",
-                        "url": "set-vikram"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2989553",
-                "description": "Современный классик Викрам Сет — настоящий гражданин мира. Родился в Индии, учился в Оксфорде, а также в Стэнфордском университете в Калифорнии, где вместо диссертации по экономике написал свой первый роман «Золотые Ворота» об американских яппи — и это был роман в стихах; более того, от начала до конца написанный онегинской строфой. А через много лет работы вышел и «Достойный жених» — «эпопея, многофигурная, как романы Диккенса или Троллопа, и необъятная, как сама Индия» (San Francisco Chronicle), рекордная по многим показателям: самый длинный в истории английской литературы роман, какой удавалось опубликовать одним томом; переводы на три десятка языков и всемирный тираж, достигший 26 миллионов экземпляров. Действие происходит в вымышленном городе Брахмпур на берегу Ганга вскоре после обретения Индией независимости; госпожа Рупа Мера, выдав замуж старшую дочь Савиту, пытается найти достойного жениха для младшей дочери, студентки Латы, — а та, как девушка современная, имеет свое мнение на этот счет и склонна слушать не старших, а свое сердце. Теперь ей предстоит выбрать из трех ухажеров — сверстника-студента Кабира, знаменитого поэта Амита и Хареша, восходящей звезды обувного бизнеса... В 2020 году первый канал Би-би-си выпустил по роману мини-сериал, известный по-русски как «Подходящий жених»; постановщиком выступила Мира Наир («Ярмарка тщеславия», «Нью-Йорк, я люблю тебя»), а сценарий написал прославленный Эндрю Дэвис («Отверженные», «Война и мир», «Возвращение в Брайдсхед», «Нортэнгерское аббатство», «Разум и чувства»).",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2989553,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1075,
-                "originalPicture": "/nomenclature/29/895/2989553_3.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/895/2989553_3.jpg",
-                "preOrderDate": "2023-09-21T00:00:00+03:00",
-                "price": 752,
-                "publisher": {
-                    "id": 129501,
-                    "slug": "inostranka",
-                    "title": "Иностранка"
-                },
-                "rating": {
-                    "count": "4.23",
-                    "votes": 73
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Сентябрь 2023",
-                "status": "canBuy",
-                "title": "Достойный жених. Книга 2: роман",
-                "url": "product/dostoynyy-zhenih-kniga-2-roman-2989553",
-                "yearPublishing": 2023
-            },
-            "id": "2989553",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Захар",
-                        "id": 603668,
-                        "lastName": "Прилепин",
-                        "middleName": "",
-                        "url": "prilepin-zahar"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2996586",
-                "description": "Семь разнообразных собак, рыжий кот, попугай и обаятельные деревенские жители — главные герои этой книги: то уморительно смешной, то немного печальной. Но и печаль эта — тепла и человечна.\n…Такого Захара Прилепина вы еще не знали.\nНевероятно доброе и нежное повествование о любви и преданности.\nО братьях наших меньших, преподающих нам удивительные уроки.\nО том, что боль — преодолима, а жизнь — удивительна. Особенно — с такими невероятными друзьями.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2996586,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 899,
-                "originalPicture": "/nomenclature/29/965/2996586-4.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/965/2996586-4.jpg",
-                "preOrderDate": "2023-11-15T00:00:00+03:00",
-                "price": 629,
-                "publisher": {
-                    "id": 112078,
-                    "slug": "neoclassic",
-                    "title": "Neoclassic"
-                },
-                "rating": {
-                    "count": "3.83",
-                    "votes": 63
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "canBuy",
-                "title": "Собаки и другие люди",
-                "url": "product/sobaki-i-drugie-lyudi-2996586",
-                "yearPublishing": 2023
-            },
-            "id": "2996586",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Александр",
-                        "id": 556976,
-                        "lastName": "Бессонов",
-                        "middleName": "",
-                        "url": "bessonov-aleksandr"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3016389",
-                "description": "В четвертом сборнике Александра Бессонова — повесть в историях и письмах \"Старшая по подъезду\" и ранее не публиковавшиеся, но уже популярные, рассказы, прочитанные со сцены Павлом Деревянко, Максимом Матвеевым и другими резидентами литературно-театрального проекта \"БеспринцЫпные чтения\".",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3016389,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": true,
-                "new": true,
-                "oldPrice": 629,
-                "originalPicture": "/nomenclature/30/163/3016389-2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/163/3016389-2.jpg",
-                "preOrderDate": "2023-11-24T00:00:00+03:00",
-                "price": 440,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "4.00",
-                    "votes": 4
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "canBuy",
-                "title": "Старшая по подъезду",
-                "url": "product/starshaya-po-podezdu-3016389",
-                "yearPublishing": 2024
-            },
-            "id": "3016389",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Микита",
-                        "id": 569432,
-                        "lastName": "Франко",
-                        "middleName": "",
-                        "url": "franko-mikita"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2986804",
-                "description": "Оливеру одиннадцать лет, и имя себе он выбрал сам — в честь любимого героя Диккенса. Он любит играть в «Змейку» на телефоне и еду «как в Америке»; мечтает победить хулигана Цапу, вылечиться от ВИЧ-инфекции и попасть в настоящую семью. Но когда из Солт-Лейк-Сити приезжают будущие мама и папа, по телевизору начинают рассказывать, что скоро наступит конец света.\n\nПрозаик Микита Франко, автор бестселлеров «Дни нашей жизни» и «Окна во двор», в своих произведениях исследует социальные темы. Герои Франко часто попадают в тупиковые ситуации, о которых мы стараемся лишний раз не задумываться. Но, как показывает опыт, выход есть — и он всегда рядом.",
-                "discount": "31",
-                "exclusive": false,
-                "id": 2986804,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 629,
-                "originalPicture": "/nomenclature/29/868/2986804_1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/868/2986804_1.jpg",
-                "preOrderDate": "2023-08-21T00:00:00+03:00",
-                "price": 436,
-                "publisher": {
-                    "id": 112912,
-                    "slug": "popcorn-books",
-                    "title": "Popcorn Books"
-                },
-                "rating": {
-                    "count": "4.11",
-                    "votes": 308
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Август 2023",
-                "status": "canBuy",
-                "title": "Скоро конец света",
-                "url": "product/skoro-konec-sveta-2986804",
-                "yearPublishing": 2023
-            },
-            "id": "2986804",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Михаил",
-                        "id": 293,
-                        "lastName": "Елизаров",
-                        "middleName": "Юрьевич",
-                        "url": "elizarov-mihail"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3000187",
-                "description": "Специальное издание к выходу сериала.\n\nМихаил Елизаров — прозаик, музыкант, автор романов “Земля” (премия “Национальный бестселлер”), “Pasternak” и “Мультики”, сборников “Ногти” (шорт-лист премии Андрея Белого), “Мы вышли покурить на 17 лет” (приз читательского голосования премии “НОС”), “Бураттини”, “Скорлупы. Кубики”.\n\n“Библиотекарь” — роман, удостоенный премии “Русский Букер”.\n\n“Дмитрий Александрович Громов — автор «анастасий», миниатюрных «повестей Воскресения», текстовых механизмов, способных возрождать ауру, «Дух» великой советской обыденности — Бытия, которое закончилось. Возможно, оно никогда и не существовало, советское Бытие, но ведь от этого ещё больнее.\nПроза Громова «слаба», примерно так же, как слаб Бог, из милости уменьшивший себя до размеров обывательского сознания. Повести Громова «скучны» исключительно в глазах постсоветского сноба. Этот бойкий, рыночный гражданин формирует капиталистическую обыденность из денег, успешности и рентабельности, выбирает мерилом занимательного голливудские «экшен» и «саспенс». Но остались и «анастасии» Громова. Там обыденность представляют «добрая Память, гордое Терпение, сердечная Радость, могучая Сила, священная Власть, благородная Ярость и великий «Замысел».\nВыбор за читателем”. (Михаил Елизаров)",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3000187,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 729,
-                "originalPicture": "/nomenclature/30/001/3000187-6.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/001/3000187-6.jpg",
-                "preOrderDate": "2023-09-08T00:00:00+03:00",
-                "price": 510,
-                "publisher": {
-                    "id": 143601,
-                    "slug": "redakciya-eleny-shubinoy",
-                    "title": "Редакция Елены Шубиной"
-                },
-                "rating": {
-                    "count": "4.00",
-                    "votes": 69
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Сентябрь 2023",
-                "status": "canBuy",
-                "title": "Библиотекарь",
-                "url": "product/bibliotekar-3000187",
-                "yearPublishing": 2023
-            },
-            "id": "3000187",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Ким",
-                        "id": 23195109,
-                        "lastName": "Сора",
-                        "middleName": "",
-                        "url": "sora-kim"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2998194",
-                "description": "В этой книге пять историй от корейских авторов. Вместе с героями читателю предстоит посетить пять необычных книжных магазинов. У кого-то появится надежда, кто-то найдет утешение, кто-то станет смелее, а кто-то обретет уверенность в завтрашнем дне.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2998194,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 759,
-                "originalPicture": "/nomenclature/29/981/2998194-7.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/981/2998194-7.jpg",
-                "preOrderDate": "2023-09-01T00:00:00+03:00",
-                "price": 531,
-                "publisher": {
-                    "id": 135192,
-                    "slug": "mann-ivanov-i-ferber",
-                    "title": "Манн, Иванов и Фербер"
-                },
-                "rating": {
-                    "count": "3.98",
-                    "votes": 123
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Сентябрь 2023",
-                "status": "canBuy",
-                "title": "Аллея волшебных книжных лавок",
-                "url": "product/alleya-volshebnyh-knizhnyh-lavok-2998194",
-                "yearPublishing": 2023
-            },
-            "id": "2998194",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Ханья",
-                        "id": 510679,
-                        "lastName": "Янагихара",
-                        "middleName": "",
-                        "url": "yanagihara-hanya"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2559013",
-                "description": "Американская писательница Ханья Янагихара создала необычный роман, где и о страшном, и о радостном говорится без лишнего надрыва и сентиментальности. Четверо друзей — талантливый архитектор Малкольм, начинающий актер Виллем, уверенный в собственной неповторимости художник Джей-Би и гениальный юрист и математик Джуд — пытаются добиться успеха в Нью-Йорке, но оказывается, что ни карьера, ни деньги, ни слава не могут справиться с прошлым, если оно сильнее жизни.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2559013,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1399,
-                "originalPicture": "/nomenclature/25/590/2559013.jpg",
-                "pages": "",
-                "picture": "/nomenclature/25/590/2559013.jpg",
-                "price": 979,
-                "publisher": {
-                    "id": 118783,
-                    "slug": "ast-corpus",
-                    "title": "АСТ:CORPUS"
-                },
-                "rating": {
-                    "count": "4.00",
-                    "votes": 2050
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Маленькая жизнь",
-                "url": "product/malenkaya-zhizn-2559013",
-                "yearPublishing": 2021
-            },
-            "id": "2559013",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Владимир",
-                        "id": 570899,
-                        "lastName": "Сорокин",
-                        "middleName": "Георгиевич",
-                        "url": "sorokin-vladimir"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3012567",
-                "description": "Будущее наступило и прошло, ядерная война почти забыта, однако мир так и не наступил: насилие стало нормой и потребностью, терпимость к нему заразней, чем боливийский вирус.\nВ заключительной части трилогии о докторе Гарине Владимир Сорокин рисует новую стадию постапокалиптического распада. Главный герой изменился до неузнаваемости, но, как и положено врачу, остается примером достоинства и человечности. А его необычные наследники дают надежду на то, что у обезумевшего мира есть не только конец, но и более счастливое продолжение.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3012567,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": true,
-                "oldPrice": 899,
-                "originalPicture": "/nomenclature/30/125/3012567-2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/125/3012567-2.jpg",
-                "price": 629,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "3.40",
-                    "votes": 5
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Наследие",
-                "url": "product/nasledie-3012567",
-                "yearPublishing": 2024
-            },
-            "id": "3012567",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Анна",
-                        "id": 569696,
-                        "lastName": "Джейн",
-                        "middleName": "",
-                        "url": "dzheyn-anna"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3006899",
-                "description": "Уникальное коллекционное издание для всех фанатов Анны Джейн, одного из самых популярных авторов молодежных романов. Ее книги — это истории о любви и романтике, о дружбе и доброте, о мечтах и поиске себя. Во второй том подарочного издания вошли романы \"На волнах оригами\" и \"На крыльях\". Художественное оформление книги, прекрасные иллюстрации Анны Крымовой и цветной обрез делают ее по-настоящему удивительной! Сложно ли быть девушкой популярного музыканта? На что способны тысячи километров расстояния? Любовь или музыка? Все это Кате предстоит выяснить в ближайшее время, ведь теперь она — девушка талантливого музыканта. Все началось с глупой игры, где она была главной ставкой, а закончилось головокружительной любовью...",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3006899,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 2399,
-                "originalPicture": "/nomenclature/30/068/3006899-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/068/3006899-1.jpg",
-                "preOrderDate": "2023-11-19T00:00:00+03:00",
-                "price": 1679,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "3.89",
-                    "votes": 27
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "preOrder",
-                "title": "Музыкальный приворот. Подарочное издание. На волнах оригами. На крыльях. Том 2",
-                "url": "product/muzykalnyy-privorot-podarochnoe-izdanie-na-volnah-origami-na-krylyah-tom-2-3006899",
-                "yearPublishing": 2023
-            },
-            "id": "3006899",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "М.К.",
-                        "id": 23159310,
-                        "lastName": "Лобб",
-                        "middleName": "",
-                        "url": "lobb-m-k"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3005403",
-                "description": "Святые милосердны. Так говорилось во всех преданиях.\nНо они же и жаждут крови. Святые и их последователи, правящие в Омбразии, обладают ужасающей и несправедливой властью в городе.\nРоссана Ласертоза, последовательница Терпения поневоле, после убийства отца готова сделать все, чтобы разрушить их порядки. Даже если придется использовать свои\nмагические силы и встретиться лицом к лицу с юношей, когда-то разбившим ей сердце.\nДамиан Вентури, самый молодой начальник стражи Палаццо в истории, должен служить святым с беспрекословной преданностью. Однако три года, проведенные в нескончаемой Второй войне святых, оставили в его душе раны\nболее глубокие, чем он готов признать… а также страх встречи с девушкой, которую ему пришлось оставить.\nТем временем в Омбразии неуклонно растет количество смертей, но Палаццо закрывает на все глаза, пока новой жертвой не становится последователь. Зацепки приводят в тупик, а Дамиану и Роз придется объединиться\nи спуститься в подземелья Омбразии, где таится нечто зловещее и отнюдь не священное...",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3005403,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 900,
-                "originalPicture": "/nomenclature/30/054/3005403-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/054/3005403-1.jpg",
-                "preOrderDate": "2023-11-19T00:00:00+03:00",
-                "price": 630,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "3.79",
-                    "votes": 34
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "preOrder",
-                "title": "Семь безликих святых",
-                "url": "product/sem-bezlikih-svyatyh-3005403",
-                "yearPublishing": 2023
-            },
-            "id": "3005403",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Маргарита",
-                        "id": 365675,
-                        "lastName": "Симоньян",
-                        "middleName": "Симоновна",
-                        "url": "simonyan-margarita"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2993757",
-                "description": "Маргарита Симоньян больше известна как журналист-международник, общественный деятель, участник политических ток-шоу. Однако в этой книге она раскрывается с совершенно другой стороны – как тонкий наблюдатель, знаток человеческой природы, продолжатель традиций русской психологической прозы. В ярких и остроумных, а порой грустных и лиричных рассказах перед читателем развернутся колоритные сценки из жизни адлерской армянской диаспоры и кубанских казачьих станиц, дворов сочинского бомонда и закрытых клубов Москвы, воинских частей независимой Абхазии и провинциальных корпунктов, журналисты которых мечтают прославиться и попасть на федеральные каналы.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2993757,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 899,
-                "originalPicture": "/nomenclature/29/937/2993757-6.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/937/2993757-6.jpg",
-                "price": 629,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "2.17",
-                    "votes": 228
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Водоворот. Сборник рассказов",
-                "url": "product/vodovorot-sbornik-rasskazov-2993757",
-                "yearPublishing": 2023
-            },
-            "id": "2993757",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Ольга",
-                        "id": 529130,
-                        "lastName": "Савельева",
-                        "middleName": "Александровна",
-                        "url": "saveleva-olga"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2996469",
-                "description": "Ольга Савельева, автор более десяти книг, популярный блогер и мотивационный лектор как никто знает, что хорошая история обладает магией. Она может поддержать в трудную минуту и поднять настроение, иногда позволяет взглянуть на привычные вещи с неожиданной стороны.  \nВ новой книге Ольга с радостью делится с читателями теми жизненными ребусами, которые разгадала сама. Для этого она выбрала самые яркие, самые наглядные метафоры. Те, которые точно заставят задуматься и непременно помогут разгадать самые сложные жизненные задачи. \nСчитайте, что это шпаргалка, которая поможет сдать главный жизненный экзамен по предмету «Счастье». Подсмотрите в неё, если запутались.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2996469,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 529,
-                "originalPicture": "/nomenclature/29/964/2996469-4.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/964/2996469-4.jpg",
-                "price": 370,
-                "publisher": {
-                    "id": 154486,
-                    "slug": "eksmo",
-                    "title": "Эксмо"
-                },
-                "rating": {
-                    "count": "4.02",
-                    "votes": 44
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Шпаргалка. Рассказы, которые помогут решить жизненные задачки",
-                "url": "product/shpargalka-rasskazy-kotorye-pomogut-reshit-zhiznennye-zadachki-2996469",
-                "yearPublishing": 2023
-            },
-            "id": "2996469",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Дарья",
-                        "id": 559886,
-                        "lastName": "Бобылёва",
-                        "middleName": "Леонидовна",
-                        "url": "bobyleva-darya"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3012319",
-                "description": "От автора бестселлера «Вьюрки»\nВпервые на бумаге! Прежде «Магазин работает до наступления тьмы» выходил только в формате аудиосериала эксклюзивно для платформы «Букмейт»\nСовместный проект с «Букмейт». При поддержке «Яндекс»\nЗахватывающий роман в жанре городского фэнтези и магического реализма с элементами хоррора\nРоманы Дарьи Бобылёвой вошли в лонг-лист премий «Большая книга», «Интерпресскон» и «Ясная поляна» и завоевали «Новые горизонты»\n\nВ поисках работы великовозрастный неудачник Славик забредает в самую странную на свете антикварную лавку. Сотрудники магазинчика ведут себя подозрительно, посетители напоминают городских сумасшедших, а продают и покупают здесь очень необычные вещи. Творящаяся вокруг чертовщина сперва вызывает у Славика желание бежать без оглядки, но это место никого просто так не отпускает. Ткань привычных будней расползается и рвется, из дыр кто-то глядит, и горящие точки глаз уже заприметили Славика. Возможно, виноват в этом именно он, магазин, который работает до наступления тьмы.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3012319,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 679,
-                "originalPicture": "/nomenclature/30/123/3012319-3.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/123/3012319-3.jpg",
-                "preOrderDate": "2023-11-20T00:00:00+03:00",
-                "price": 475,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "4.00",
-                    "votes": 1
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "preOrder",
-                "title": "Магазин работает до наступления тьмы",
-                "url": "product/magazin-rabotaet-do-nastupleniya-tmy-3012319",
-                "yearPublishing": 2023
-            },
-            "id": "3012319",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Кристофер",
-                        "id": 570287,
-                        "lastName": "Сэнсом",
-                        "middleName": "Джон",
-                        "url": "sensom-kristofer"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3007948",
-                "description": "История не терпит сослагательного наклонения, но что было бы, если... Британия в 1940-м, после Дюнкерка, капитулировала перед гитлеровской Германией? К. Дж. Сэнсом отвечает на этот вопрос в своем захватывающем альтернативно-историческом эпике «Доминион», не переосмысливая, а заново создавая прошлое. 1952 год. На востоке продолжается война между Германией и Россией, обескровливая мировую экономику. Принудительные наборы на работу вынуждают молодых людей во Франции, Италии и Испании в буквальном смысле прятаться по норам. Англичане на собственном опыте постигают все ужасы фашистского авторитаризма, но их неповиновение растет. Сопротивление, возглавляемое Черчиллем, упорно пытается сдвинуть баланс сил на мировой арене, и точкой опоры может послужить некая тайна, которую хранит ученый, запертый в бирмингемской больнице для умалишенных. По заданию Сопротивления его похищают, чтобы переправить за границу, однако гестапо отправляет по следам беглеца безжалостного, не знающего поражений охотника за людьми... Впервые на русском!",
-                "discount": "31",
-                "exclusive": false,
-                "id": 3007948,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": true,
-                "oldPrice": 1099,
-                "originalPicture": "/nomenclature/30/079/3007948-2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/079/3007948-2.jpg",
-                "price": 758,
-                "publisher": {
-                    "id": 116515,
-                    "slug": "azbuka",
-                    "title": "Азбука"
-                },
-                "rating": {
-                    "count": "4.63",
-                    "votes": 8
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Доминион",
-                "url": "product/dominion-3007948",
-                "yearPublishing": 2023
-            },
-            "id": "3007948",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Юкио",
-                        "id": 569108,
-                        "lastName": "Мисима",
-                        "middleName": "",
-                        "url": "misima-yukio"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3001590",
-                "description": "Немолодая, роскошная, независимая и непосредственная Кадзу, хозяйка ресторана, куда ходят политики-консерваторы, влюбляется в стареющего бывшего дипломата Ногути, утонченного сторонника реформ, и становится его женой. Что может пойти не так? Если бывший дипломат возвращается в политику, вняв призывам не самой популярной партии, — примерно все. Неразборчивость в средствах против моральной чистоты, верность мужу против верности принципам — когда политическое оборачивается личным, семья превращается в поле битвы, жертвой рискует стать любовь, а угроза потери независимости может оказаться страшнее грядущего одиночества. \nЮкио Мисима (1925–1970) — звезда литературы XX века, самый читаемый в мире японский автор, обладатель блистательного таланта, прославившийся как своими работами широчайшего диапазона и разнообразия жанров (романы, пьесы, рассказы, эссе), так и ошеломительной биографией (одержимость бодибилдингом, крайне правые политические взгляды, харакири после неудачной попытки монархического переворота). В «После банкета» (1960) Мисима хотел показать, как развивается, преображается, искажается и подрывается любовь под действием политики, и в японских политических и светских кругах публикация вызвала большой скандал. Бывший министр иностранных дел Хатиро Арита, узнавший в Ногути себя, подал на Мисиму в суд за нарушение права на частную жизнь, и этот процесс — первое в Японии дело о писательской свободе слова — Мисима проиграл, что, по мнению некоторых критиков, убило на корню злободневную японскую сатиру как жанр. Впервые на русском!",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3001590,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 618,
-                "originalPicture": "/nomenclature/30/015/3001590-3.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/015/3001590-3.jpg",
-                "price": 432,
-                "publisher": {
-                    "id": 129501,
-                    "slug": "inostranka",
-                    "title": "Иностранка"
-                },
-                "rating": {
-                    "count": "4.35",
-                    "votes": 31
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "После банкета",
-                "url": "product/posle-banketa-3001590",
-                "yearPublishing": 2023
-            },
-            "id": "3001590",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Габриэль",
-                        "id": 1837397,
-                        "lastName": "Коста",
-                        "middleName": "",
-                        "url": "kosta-gabriel"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2989127",
-                "description": "«Жизнь — нескончаемый праздник» — таков девиз Оливии Корон. Яркая, принципиальная и безумная, она сыграла важную роль в истории своих друзей. Однако в череде событий Оливия не заметила, как осталась совершенно одна. К тридцати трем годам она устала быть свидетелем чужого счастья и решила отправиться на поиски своего собственного. Случайная встреча со знаменитым писателем и вместе с тем одним из самых красивых парней по версии модных журналов — Ричардом Альваресом способна дать Оливии то, чего, кажется, ей так не хватало, — любовь. Вот только Оливия упорно бежит от счастья, но, возможно, природа наградила Ричарда длинными ногами, чтобы поспевать за ней и всегда быть рядом.\n\nЭто история о поиске самой искренней и важной любви.\n\nЭто история Оливии Корон!",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2989127,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 649,
-                "originalPicture": "/nomenclature/29/891/2989127-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/891/2989127-1.jpg",
-                "preOrderDate": "2023-08-08T00:00:00+03:00",
-                "price": 454,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "3.66",
-                    "votes": 202
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Август 2023",
-                "status": "canBuy",
-                "title": "Моя дорогая Оли...",
-                "url": "product/moya-dorogaya-oli-2989127",
-                "yearPublishing": 2023
-            },
-            "id": "2989127",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Арина",
-                        "id": 2544974,
-                        "lastName": "Цимеринг",
-                        "middleName": "",
-                        "url": "cimering-arina"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2998191",
-                "description": "В Ирландии пропадают двое охотников за нечистью – сотрудников специального Бюро, которое занимается отловом сверхъестественных существ. На выручку к ним отправляются их коллеги: они приезжают в захолустный городок, в котором пропавших видели в последний раз. В первую же ночь в городе одной из охотников снится странный сон – первый из череды тех, что поведет группу в чащу векового леса, в котором обитает что-то давно забытое, скрытое в глубине ирландских холмов. Что-то, что наблюдает за ними – и терпеливо ждет момента, когда охотники превратятся в жертв.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2998191,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 999,
-                "originalPicture": "/nomenclature/29/981/2998191-4.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/981/2998191-4.jpg",
-                "preOrderDate": "2023-12-15T00:00:00+03:00",
-                "price": 699,
-                "publisher": {
-                    "id": 135192,
-                    "slug": "mann-ivanov-i-ferber",
-                    "title": "Манн, Иванов и Фербер"
-                },
-                "rating": {
-                    "count": "4.29",
-                    "votes": 65
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "Декабрь 2023",
-                "status": "preOrder",
-                "title": "Как поймать монстра. Круг первый",
-                "url": "product/kak-poymat-monstra-krug-pervyy-2998191",
-                "yearPublishing": 2023
-            },
-            "id": "2998191",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Мишель",
-                        "id": 569411,
-                        "lastName": "Уэльбек",
-                        "middleName": "",
-                        "url": "uelbek-mishel"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2985238",
-                "description": "В новом романе  Мишеля Уэльбека “Уничтожить” действие происходит в 2027 году. Человечеству угрожает неуловимая террористическая организация, все спецслужбы поставлены на ноги. Тем временем во Франции полным ходом идет подготовка к президентским выборам. Главный герой книги Поль Резон оказывается в центре предвыборных интриг. Поглощенный работой в аппарате министра экономики, он давно привык к холодным отношениям с женой и к своему одиночеству. Внезапно размеренный ход его существования нарушается: он получает известие о том, что отца разбил инсульт. Поль едет к отцу в дом своего детства и окунается в проблемы семьи. Жизнь его резко меняется… Многослойный сюжет романа разворачивается в двух плоскостях: это одновременно политический триллер и семейная сага в мире на грани хаоса.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2985238,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1299,
-                "originalPicture": "/nomenclature/29/852/2985238-2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/852/2985238-2.jpg",
-                "preOrderDate": "2023-08-08T00:00:00+03:00",
-                "price": 909,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "3.90",
-                    "votes": 88
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Август 2023",
-                "status": "canBuy",
-                "title": "Уничтожить",
-                "url": "product/unichtozhit-2985238",
-                "yearPublishing": 2023
-            },
-            "id": "2985238",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Жауме",
-                        "id": 477101,
-                        "lastName": "Кабре",
-                        "middleName": "",
-                        "url": "kabre-zhaume"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2981835",
-                "description": "Человек просыпается неизвестно где — возможно, в больничной палате, но это неточно — и не помнит о себе вообще ничего. «Зовите меня Измаил», — предлагает он врачам, которых, за неимением других версий, нарекает Юрием Живаго и мадам Бовари. Человек мучительно вспоминает, что с ним произошло (какая-то авария? и, кажется, у него была любовь? и вправду ли его следует звать Измаилом?). Он описывает круги подле разгадки, подбираясь к ней все ближе и ближе, — ночным мотыльком, что кружит во тьме и обречен погибнуть в пламени. Тем временем так же опасливо и неуверенно вокруг человека, сужая кольцо, ходит его безвинная жертва и невольная Немезида, будущий рассказчик его истории и просто растерянный осиротевший подросток, каким был когда-то и сам человек. Жауме Кабре (р. 1947) — крупнейшая звезда каталонской литературы; его книги переведены на десятки языков, их тиражи превышают миллион экземпляров. Его новый роман «И нас пожирает пламя» (первый за десять лет после эпохального, удостоенного многочисленных премий «Я исповедуюсь») — тонкая притча, песнь во славу литературы и напряженный нуар: здесь будут внезапные озарения, безутешное горе, истинная нежность, убийство, амнезия, погони, таинственная роковая женщина, а также кабанье семейство, без которого этой истории не случилось бы вовсе. Впервые на русском!",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2981835,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 618,
-                "originalPicture": "/nomenclature/29/818/2981835_1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/818/2981835_1.jpg",
-                "price": 432,
-                "publisher": {
-                    "id": 129501,
-                    "slug": "inostranka",
-                    "title": "Иностранка"
-                },
-                "rating": {
-                    "count": "3.92",
-                    "votes": 131
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "И нас пожирает пламя",
-                "url": "product/i-nas-pozhiraet-plamya-2981835",
-                "yearPublishing": 2023
-            },
-            "id": "2981835",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Кэти",
-                        "id": 9027216,
-                        "lastName": "Роберт",
-                        "middleName": "",
-                        "url": "robert-keti"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3000319",
-                "description": "У Брайар Роуз имя как у принцессы из сказки, но она очень рано поняла, что никакой принц не придет ее спасать. Ей придется спасать себя самой. К несчастью, в ее нынешнем положении даже это становится непосильной задачей: она оказалась в ловушке жуткого брака с опасным человеком.\nОтчаянные времена требуют отчаянных мер, и Брайар заключает сделку с демоном. Свобода...в обмен на семь лет служения.\nОна ожидала, что служение окажется тяжелым и изнурительным, но не могла даже предположить, что ее выставят на аукционе в зале, полном самых настоящих чудовищ, и продадут тому, кто предложит большую цену.\nСолу.\nДракону.\nСо стороны он кажется добрее, чем предполагает его устрашающий вид, но Брайар знает, что не стоит верить его стремлению заботиться о ней. Она на собственном горьком опыте убедилась: если кажется, будто все слишком хорошо, чтобы быть правдой, значит, так оно и есть.\nО том, чтобы влюбиться в Сола, не может быть и речи. Она достаточно настрадалась и не намерена оставаться в его мире... даже если, вернувшись к нормальной жизни, оставит с ним свое сердце.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3000319,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 599,
-                "originalPicture": "/nomenclature/30/003/3000319-4.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/003/3000319-4.jpg",
-                "preOrderDate": "2023-10-02T00:00:00+03:00",
-                "price": 419,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "3.66",
-                    "votes": 71
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Октябрь 2023",
-                "status": "canBuy",
-                "title": "Невеста дракона",
-                "url": "product/nevesta-drakona-3000319",
-                "yearPublishing": 2023
-            },
-            "id": "3000319",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Кристина",
-                        "id": 567602,
-                        "lastName": "Старк",
-                        "middleName": "",
-                        "url": "stark-kristina"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2628664",
-                "description": "Меня зовут Долорес Макбрайд, и я с рождения страдаю от очень редкой формы аллергии: прикосновения к другим людям вызывают у меня сильнейшие ожоги. Я не могу поцеловать парня, обнять родителей, выйти из дому, не надев перчатки. Я неприкасаемая. Я словно живу в заколдованном замке, который держит меня в плену и наказывает ожогами и шрамами за каждую попытку «побега». Даже придумала имя для своей тюрьмы: Стигмалион.\nМеня уже не приводит в отчаяние мысль, что я всю жизнь буду пленницей своего диагноза — и пленницей умру. Я не тешу себя мечтами, что от моей болезни изобретут лекарство, и не рассчитываю, что встречу человека, не оставляющего на мне ожогов…\nНо до чего же это живучее чувство — надежда. А вдруг я все-таки совершу побег из Стигмалиона? Вдруг и я смогу однажды познать все\nэто: прикосновения, объятия, поцелуи, безумство, свободу, любовь?..",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2628664,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 699,
-                "originalPicture": "/nomenclature/26/286/2628664.jpg",
-                "pages": "",
-                "picture": "/nomenclature/26/286/2628664.jpg",
-                "price": 489,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "3.96",
-                    "votes": 1612
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Стигмалион: роман",
-                "url": "product/stigmalion-roman-2628664",
-                "yearPublishing": 2022
-            },
-            "id": "2628664",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Ханья",
-                        "id": 510679,
-                        "lastName": "Янагихара",
-                        "middleName": "",
-                        "url": "yanagihara-hanya"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2946015",
-                "description": "События нового романа одного из самых известных современных писателей, Ханьи Янагихары, разворачиваются в трех эпохах альтернативной американской истории, все они происходят на Вашингтонской площади. Нью-Йорк входит в Свободные Штаты, где люди могут жить и любить, как хотят, — по крайней мере, так кажется на первый взгляд. В 1893 году наследник влиятельной семьи пытается избежать брака по расчету. В 1993 году начинающий юрист скрывает свое знатное гавайское происхождение и потрясения, пережитые в детстве. В 2093 году утопический мир раздираем эпидемией. Внучка известного ученого пытается жить после смерти любимого деда, а еще очень хочет узнать, куда время от времени исчезает ее муж. Что объединяет всех этих людей? У каждого из них есть травма, которую они скрывают ото всех, каждому из них право быть самим собой дается непросто, и каждого манит смутный образ рая, ради которого можно поставить на кон всё. «До самого рая» – роман-симфония, роман-орнамент, в котором сплетены судьбы, эпохи и пространство.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2946015,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1349,
-                "originalPicture": "/nomenclature/29/460/2946015.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/460/2946015.jpg",
-                "preOrderDate": "2023-08-08T00:00:00+03:00",
-                "price": 944,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "3.67",
-                    "votes": 1091
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Август 2023",
-                "status": "canBuy",
-                "title": "До самого рая",
-                "url": "product/do-samogo-raya-2946015",
-                "yearPublishing": 2023
-            },
-            "id": "2946015",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Ана",
-                        "id": 569042,
-                        "lastName": "Шерри",
-                        "middleName": "",
-                        "url": "sherri-ana"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2981545",
-                "description": "Диана Оливер работает парамедиком на \"скорой\". Днем она спасает людям жизни, а по вечерам ходит с друзьями по барам или стреляет в тире. Диана была уверена в своем счастливом и благополучном будущем, пока судьба не свела ее с главой итальянской мафии. Девушка еще не догадывается, но совсем скоро ей предстоит стать частью криминального мира, ведь ее талант попадать точно в цель не остался незамеченным. Стефано Висконти – глава клана \"Morte Nera\". Он привык все держать под контролем. Каждая его сделка – успешная, каждый враг – заклятый. Но для проведения крупных операций ему нужен снайпер, человек с идеальной меткостью, подчиняющийся любым его приказам, преданный ему. И на эту роль идеально подходит хрупкая девушка-парамедик, способная справиться не только с собственными чувствами, но и с любым оружием…",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2981545,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 3127,
-                "originalPicture": "/nomenclature/29/815/2981545-2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/815/2981545-2.jpg",
-                "preOrderDate": "2023-08-21T00:00:00+03:00",
-                "price": 2188,
-                "publisher": {
-                    "id": 154486,
-                    "slug": "eksmo",
-                    "title": "Эксмо"
-                },
-                "rating": {
-                    "count": "3.90",
-                    "votes": 246
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Август 2023",
-                "status": "canBuy",
-                "title": "Хрупкое равновесие. Лимитированное издание трилогии",
-                "url": "product/hrupkoe-ravnovesie-limitirovannoe-izdanie-trilogii-2981545",
-                "yearPublishing": 2023
-            },
-            "id": "2981545",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Ники",
-                        "id": 18635604,
-                        "lastName": "Сью",
-                        "middleName": "",
-                        "url": "syu-niki"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3012325",
-                "description": "Он – звезда нашего города, капитан хоккейной команды. Красивый и успешный. Мечта многих девчонок.\nЯ – обычная неудачница. Завалила экзамены в университет. Упустила свою мечту – учиться в танцевальном колледже в Америке. Съехала от родителей в комнатушку два на два метра и осталась без лучшей подруги.\nЧто нас может связывать? Правильно, ничего. Но в один летний день, он ворвался вихрем в мою жизнь. Я ему понравилась? Или, может, он преследует меня? Что в конце концов происходит? Зачем я понадобилась этому парню?\n\nБолее 300 тыс. прочтений и много любви!",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3012325,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 599,
-                "originalPicture": "/nomenclature/30/123/3012325-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/123/3012325-1.jpg",
-                "preOrderDate": "2023-12-08T00:00:00+03:00",
-                "price": 419,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "4.80",
-                    "votes": 5
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "Декабрь 2023",
-                "status": "preOrder",
-                "title": "Зажги мое сердце",
-                "url": "product/zazhgi-moe-serdce-3012325",
-                "yearPublishing": 2024
-            },
-            "id": "3012325",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Ольга",
-                        "id": 21611290,
-                        "lastName": "Брюс",
-                        "middleName": "",
-                        "url": "bryus-olga"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3005001",
-                "description": "Что вы представляете, когда речь заходит об уюте? Может быть, чашку чая или осенний парк? В книге «Счастье на ладони. Душевные истории о самом важном» собраны удивительные рассказы о том, что касается каждого из нас, – любви, доброте и чуде. Городские зарисовки, первая любовь, дружба – каждый читатель найдет свой уют. \nОльга Брюс – автор популярного блога на Дзене, чьи истории вселили любовь и радость уже в тысячи сердец! Входит в топ-20 самых популярных авторов Дзена!",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3005001,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 649,
-                "originalPicture": "/nomenclature/30/050/3005001-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/050/3005001-1.jpg",
-                "preOrderDate": "2023-11-17T00:00:00+03:00",
-                "price": 454,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "4.89",
-                    "votes": 9
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "canBuy",
-                "title": "Счастье на ладони. Душевные истории о самом важном",
-                "url": "product/schaste-na-ladoni-dushevnye-istorii-o-samom-vazhnom-3005001",
-                "yearPublishing": 2023
-            },
-            "id": "3005001",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Арина",
-                        "id": 2544974,
-                        "lastName": "Цимеринг",
-                        "middleName": "",
-                        "url": "cimering-arina"
-                    },
-                    {
-                        "firstName": "Оксана",
-                        "id": 2544977,
-                        "lastName": "Багрий",
-                        "middleName": "",
-                        "url": "bagriy-oksana"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2975118",
-                "description": "Джакарта — настоящий криминальный муравейник, в котором не происходит ни дня без  взрыва, у каждой монашки — по два пистолета и все ненавидят Эйдана Рида. Кстати, знакомьтесь, Эйдан Рид — гениальный мошенник, у которого нет выбора, кроме как вернуться в Джакарту... а еще угнать самолет, спрыгнуть с небоскреба, украсть политика, провернуть преступление века и остаться при этом в живых.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2975118,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1599,
-                "originalPicture": "/nomenclature/29/751/2975118_1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/751/2975118_1.jpg",
-                "price": 1119,
-                "publisher": {
-                    "id": 135192,
-                    "slug": "mann-ivanov-i-ferber",
-                    "title": "Манн, Иванов и Фербер"
-                },
-                "rating": {
-                    "count": "4.20",
-                    "votes": 258
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Правила выживания в Джакарте",
-                "url": "product/pravila-vyzhivaniya-v-dzhakarte-2975118",
-                "yearPublishing": 2023
-            },
-            "id": "2975118",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Мариам",
-                        "id": 567344,
-                        "lastName": "Петросян",
-                        "middleName": "",
-                        "url": "petrosyan-mariam"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2561144",
-                "description": "В новое издание романа «Дом, в котором...» вошли ранее не публиковавшиеся отрывки, а также иллюстрации читателей, которые абсолютно и бесповоротно, раз и навсегда влюбились в «Дом». \nРоман «Дом, в котором…» еще в рукописи стал победителем читательского голосования премии «Большая книга», а после публикации — настоящим литературным событием: он получил целый ряд премий («Русская премия», «Студенческий Букер», «Портал» и другие), переведен на девять языков и почти десять лет не покидает списки бестселлеров. Критики пытаются объяснить феноменальный успех романа, а литературоведы посвящают ему статьи и диссертации. Для сотен тысяч людей «Дом» стал книгой-паролем, по которому узнают «своих». \n«Книга, которую вы держите в руках — книга культовая, фанатская, субкультурная. Но не только: как бы банально это ни прозвучало, я завидую тем, кто именно сейчас держит «Дом» в руках впервые — считайте, что специально к вашему визиту в нем сделали генеральную уборку. Заходите, обустраивайтесь. Не ходите к фазанам и постарайтесь не потеряться в Лесу. Кофе и прочие напитки вы найдете на втором этаже. Поверьте, вы останетесь здесь надолго». (Галина Юзефович, литературный критик).",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2561144,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 2199,
-                "originalPicture": "/nomenclature/25/611/2561144-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/25/611/2561144-1.jpg",
-                "price": 1539,
-                "publisher": {
-                    "id": 111241,
-                    "slug": "livebook",
-                    "title": "Livebook"
-                },
-                "rating": {
-                    "count": "4.05",
-                    "votes": 2173
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Дом, в котором... (подарочное издание)",
-                "url": "product/dom-v-kotorom-podarochnoe-izdanie-2561144",
-                "yearPublishing": 2021
-            },
-            "id": "2561144",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Владимир",
-                        "id": 259365,
-                        "lastName": "Санин",
-                        "middleName": "Маркович",
-                        "url": "sanin-vladimir"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2997340",
-                "description": "Владимир Маркович Санин (1929—1989) писал о людях, выбравших в жизни трудную и опасную дорогу, — о полярниках, пожарных, путешественниках. И сам он относился к той же беспокойной человеческой породе: совсем юным Санин успел принять участие в Великой Отечественной, после войны закончил экономический факультет МГУ, поработал в газете, стал писателем, не раз побывал за полярным кругом, в Арктике и Антарктике. Сюжеты его произведений зачастую основаны на реальных событиях, развиваются в нетривиальных обстоятельствах и замкнутых сообществах (таких, например, как экипаж судна или лавинная станция).  В книгу включен знаменитый цикл «Зов полярных широт», состоящий из пяти повестей, и роман «Белое проклятие», экранизированный в 1987 году. Проза Владимира Санина вдохновляла кинематографистов не раз: стоит упомянуть здесь картину «Семьдесят два градуса ниже нуля» (1976) и трехсерийный телефильм «Антарктическая повесть» (1979).",
-                "discount": "31",
-                "exclusive": false,
-                "id": 2997340,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1099,
-                "originalPicture": "/nomenclature/29/973/2997340-2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/973/2997340-2.jpg",
-                "preOrderDate": "2023-11-19T00:00:00+03:00",
-                "price": 758,
-                "publisher": {
-                    "id": 116515,
-                    "slug": "azbuka",
-                    "title": "Азбука"
-                },
-                "rating": {
-                    "count": "4.13",
-                    "votes": 23
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "preOrder",
-                "title": "Семьдесят два градуса ниже нуля. Роман, повести",
-                "url": "product/semdesyat-dva-gradusa-nizhe-nulya-roman-povesti-2997340",
-                "yearPublishing": 2023
-            },
-            "id": "2997340",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Чак",
-                        "id": 567278,
-                        "lastName": "Паланик",
-                        "middleName": "",
-                        "url": "palanik-chak"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2896906",
-                "description": "«Бойцовский клуб» – самый знаменитый роман Чака Паланика. Все помнят фильм режиссера Дэвида Финчера с Брэдом Питтом в главной роли? Он именно по этой книге. Это роман-вызов, роман, созданный всем назло и вопреки всему, в нем описывается поколение озлобившихся людей, потерявших представление о том, что можно и чего нельзя, где добро и зло, кто они сами и кто их окружает. Сам Паланик  называет свой «Бойцовский клуб» новым «Великим Гэтсби». Какие же они – эти Гэтсби конца XX века?",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2896906,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 339,
-                "originalPicture": "/nomenclature/28/969/2896906.jpg",
-                "pages": "",
-                "picture": "/nomenclature/28/969/2896906.jpg",
-                "price": 237,
-                "publisher": {
-                    "id": 112078,
-                    "slug": "neoclassic",
-                    "title": "Neoclassic"
-                },
-                "rating": {
-                    "count": "3.98",
-                    "votes": 468
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Бойцовский клуб",
-                "url": "product/boycovskiy-klub-2896906",
-                "yearPublishing": 2022
-            },
-            "id": "2896906",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Леонид",
-                        "id": 570002,
-                        "lastName": "Юзефович",
-                        "middleName": "Абрамович",
-                        "url": "yuzefovich-leonid"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3003726",
-                "description": "Леонид Юзефович — писатель, историк, лауреат премий «Большая книга» и «Национальный бестселлер». В новой книге «Поход на Бар-Хото» он обращается к своей излюбленной восточной тематике; это вымышленная история с вымышленными героями — но в реальных декорациях.\n\nВ воспоминаниях русского офицера, капитана Солодовникова, служившего военным советником в монгольской армии в 1912–1914 годах, когда монголы отстаивали свою независимость от Китая, переплелись осада занятой китайцами крепости Бар-Хото, любовь к жене русского дипломата в Монголии, Первая мировая война, высылка из Ленинграда в Забайкалье в середине 1930-х. Здесь герой заново осмысляет собственную жизнь, а тем самым — судьбу человека в переломные эпохи.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3003726,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 699,
-                "originalPicture": "/nomenclature/30/037/3003726-6.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/037/3003726-6.jpg",
-                "preOrderDate": "2023-10-10T00:00:00+03:00",
-                "price": 489,
-                "publisher": {
-                    "id": 143601,
-                    "slug": "redakciya-eleny-shubinoy",
-                    "title": "Редакция Елены Шубиной"
-                },
-                "rating": {
-                    "count": "3.44",
-                    "votes": 16
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Октябрь 2023",
-                "status": "canBuy",
-                "title": "Поход на Бар-Хото",
-                "url": "product/pohod-na-bar-hoto-3003726",
-                "yearPublishing": 2023
-            },
-            "id": "3003726",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Анна",
-                        "id": 569696,
-                        "lastName": "Джейн",
-                        "middleName": "",
-                        "url": "dzheyn-anna"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2990023",
-                "description": "Уникальное коллекционное издание для всех фанатов Анны Джейн, одного из самых популярных авторов молодежных романов. Ее книги — это истории о любви и романтике, о дружбе и доброте, о мечтах и поиске себя. В первый том подарочного издания вошли романы \"Музыкальный приворот\" и \"По ту сторону отражения\". Художественное оформление книги, прекрасные иллюстрации Анны Крымовой и цветной обрез делают ее по-настоящему удивительной! Можно ли приворожить парня? А что, если этот парень — рок звезда и кумир миллионов? Именно такими вопросами задавалась Катрина, когда ее сумасшедшая подруга решила приворожить солиста известной рок группы Кея и даже провела ритуал! Музыкант к ней приворожился — да только не тот. Кей теперь не дает прохода Кате! В это же время в ее жизни появляется странный однокурсник, которого она раньше совершенно не замечала. Кажется, теперь девушка стоит перед выбором между двумя абсолютно разными парнями: популярный рок музыкант с отвратительным характером или загадочный студент — немногословный, но добрый и заботливый? Все это втягивает Катю в цепочку событий, где будет место чувствам, предательствам, лжи, любви и главное - выбору. Красота и успех или забота и нежность? И кто из этих двоих любит Катю по настоящему?..",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2990023,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 2399,
-                "originalPicture": "/nomenclature/29/900/2990023_2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/900/2990023_2.jpg",
-                "preOrderDate": "2023-09-20T00:00:00+03:00",
-                "price": 1679,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "4.01",
-                    "votes": 193
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Сентябрь 2023",
-                "status": "canBuy",
-                "title": "Музыкальный приворот. По ту сторону отражения. Том 1",
-                "url": "product/muzykalnyy-privorot-po-tu-storonu-otrazheniya-tom-1-2990023",
-                "yearPublishing": 2023
-            },
-            "id": "2990023",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Юкио",
-                        "id": 569108,
-                        "lastName": "Мисима",
-                        "middleName": "",
-                        "url": "misima-yukio"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "3013263",
-                "description": "Молодой человек впервые в жизни бросает девушку и в этой необычайной для него ситуации хочет сполна насладиться своей властью. Другой молодой человек в студенческом спортивном клубе рассчитывает добиться наивысшего мастерства в искусстве владения мечом. Иисус Христос является юному пастушку, и тот ведет детей в крестовый поход. Застенчивая экономка годами безмолвно поклоняется университетскому профессору и поэту, и однажды он приглашает ее с собой в паломничество по буддийским храмам, где ей открывается тайна его неизбывной печали... Юкио Мисима (1925–1970) — звезда литературы XX века, самый читаемый в мире японский автор, обладатель блистательного таланта, прославившийся как своими работами широчайшего диапазона и разнообразия жанров (романы, пьесы, рассказы, эссе), так и ошеломительной биографией (одержимость бодибилдингом, крайне правые политические взгляды, харакири после неудачной попытки монархического переворота). Сборник его рассказов «Фонтаны под дождем» — истории, написанные бесконечно проницательным и безжалостным наблюдателем, мозаика, которая складывается из повседневных и темных человеческих страстей — стремления к власти, самовлюбленности, мачизма, уязвимости и страха перед самопознанием. Почти все рассказы в этом сборнике публикуются на русском впервые.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 3013263,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 659,
-                "originalPicture": "/nomenclature/30/132/3013263-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/132/3013263-1.jpg",
-                "preOrderDate": "2023-11-20T00:00:00+03:00",
-                "price": 461,
-                "publisher": {
-                    "id": 129501,
-                    "slug": "inostranka",
-                    "title": "Иностранка"
-                },
-                "rating": {
-                    "count": "5.00",
-                    "votes": 2
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "Ноябрь 2023",
-                "status": "preOrder",
-                "title": "Фонтаны под дождем",
-                "url": "product/fontany-pod-dozhdem-3013263",
-                "yearPublishing": 2023
-            },
-            "id": "3013263",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Донна",
-                        "id": 567383,
-                        "lastName": "Тартт",
-                        "middleName": "",
-                        "url": "tartt-donna"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2447776",
-                "description": "Роман, который лауреат Пулитцеровской премии Донна Тартт писала более 10 лет, — огромное эпическое полотно о силе искусства и о том, как оно — подчас совсем не так, как нам того хочется — способно перевернуть всю нашу жизнь. 13-летний Тео Декер чудом остался жив после взрыва, в котором погибла его мать. Брошенный отцом, без единой родной души на всем свете, он скитается по приемным домам и чужим семьям — от Нью-Йорка до Лас-Вегаса, — и его единственным утешением, которое, впрочем, чуть не приводит к его гибели, становится украденный им из музея шедевр голландского старого мастера.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2447776,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1349,
-                "originalPicture": "/nomenclature/24/477/2447776.jpg",
-                "pages": "",
-                "picture": "/nomenclature/24/477/2447776.jpg",
-                "price": 944,
-                "publisher": {
-                    "id": 118783,
-                    "slug": "ast-corpus",
-                    "title": "АСТ:CORPUS"
-                },
-                "rating": {
-                    "count": "4.01",
-                    "votes": 1474
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Щегол",
-                "url": "product/shchegol-2447776",
-                "yearPublishing": 2021
-            },
-            "id": "2447776",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Мадлен",
-                        "id": 588901,
-                        "lastName": "Миллер",
-                        "middleName": "",
-                        "url": "miller-madlen"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2760759",
-                "description": "Одна из самых величественных и трогательных древнегреческих историй о дружбе и любви времен Троянской войны становится одним из самых захватывающих романов XXI века.\nРоман, которым восторгаются и критики, и читатели, и писатели: от рецензентов Washington Post, Time Magazine и Vogue до Джоан Роулинг и Донны Тартт.\nМагистр классической филологии Мадлен Миллер создавала свой роман десять лет, оттачивая до идеала каждую фразу, и, как только книга вышла в США, первые же рецензенты с восторгом отметили превосходный язык, которым написано произведение. Теперь, благодаря блестящему переводу Анастасии Завозовой, уникальный стиль Миллер может оценить и русскоязычный читатель. Яркий, красочный и увлекательный мир древнегреческих мифов пленяет с первых же страниц: здесь жестокие боги играют судьбами смертных, коварные правители плетут свои интриги, великие герои совершают подвиги, а над двумя юными возлюбленными, Патроклом и Ахиллом, тяготеет мрачное пророчество. «Песнь Ахилла» – это, с одной стороны, масштабный эпос, с захватывающий сюжетом и харизматичными персонажами, а с другой – трогательная и поэтичная история настоящей любви, ради которой можно пойти на любые жертвы.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2760759,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 879,
-                "originalPicture": "/nomenclature/27/607/2760759.jpg",
-                "pages": "",
-                "picture": "/nomenclature/27/607/2760759.jpg",
-                "price": 615,
-                "publisher": {
-                    "id": 118732,
-                    "slug": "ast",
-                    "title": "АСТ"
-                },
-                "rating": {
-                    "count": "4.21",
-                    "votes": 1488
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Песнь Ахилла",
-                "url": "product/pesn-ahilla-2760759",
-                "yearPublishing": 2022
-            },
-            "id": "2760759",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Грэм",
-                        "id": 235089,
-                        "lastName": "Робертс",
-                        "middleName": "",
-                        "url": "roberts-grem"
-                    },
-                    {
-                        "firstName": "Грегори",
-                        "id": 569186,
-                        "lastName": "Робертс",
-                        "middleName": "Дэвид",
-                        "url": "roberts-gregori"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2383995",
-                "description": "Представляем читателю один из самых поразительных романов начала XXI века. Эта преломленная в художественной форме исповедь человека, который сумел выбраться из бездны и уцелеть, протаранила все списки бестселлеров и заслужила восторженные сравнения с произведениями лучших писателей Нового времени, от Мелвилла до Хемингуэя. Подобно автору, герой этого романа много лет скрывался от закона. Лишенный после развода с женой родительских прав, он пристрастился к наркотикам, совершил ряд ограблений и был приговорен австралийским судом к девятнадцати годам заключения. Бежав на второй год из тюрьмы строгого режима, он добрался до Бомбея, где был фальшивомонетчиком и контрабандистом, торговал оружием и участвовал в разборках индийской мафии, а также нашел свою настоящую любовь, чтобы вновь потерять ее, чтобы снова найти... \nВ первый том вошли первые три части романа из пяти. Во второй том вошли четвертая и пятая части романа.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2383995,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 679,
-                "originalPicture": "/nomenclature/23/839/2383995.jpg",
-                "pages": "",
-                "picture": "/nomenclature/23/839/2383995.jpg",
-                "price": 475,
-                "publisher": {
-                    "id": 116515,
-                    "slug": "azbuka",
-                    "title": "Азбука"
-                },
-                "rating": {
-                    "count": "3.75",
-                    "votes": 858
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Шантарам (комплект из 2 книг)",
-                "url": "product/shantaram-komplekt-iz-2-knig-2383995",
-                "yearPublishing": 2022
-            },
-            "id": "2383995",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Михаил",
-                        "id": 293,
-                        "lastName": "Елизаров",
-                        "middleName": "Юрьевич",
-                        "url": "elizarov-mihail"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2764587",
-                "description": "Михаил Елизаров — автор романов «Земля», «Pasternak» и «Мультики» (шорт-лист премии «Национальный бестселлер»), сборников рассказов «Ногти» (шорт-лист премии Андрея Белого), «Мы вышли покурить на 17 лет» (приз читательского голосования премии «НОС»).\n\n «Библиотекарь» — роман, удостоенный премии «Русский Букер» и породивший скандалы и дискуссии в обществе; роман о священных текстах — но без «книжной пыли» Борхеса и Эко: книги здесь используются по прямому архетипическому назначению — оправленные в металл, они сокрушают слабенькие черепные коробки, ломают судьбы, зовут на костёр и вторгаются в ткань мироздания.\n…Скучнейшие производственные романы всеми забытого советского писателя Громова спустя годы после его смерти обнаруживают в себе магические свойства: каждый способен наделить читателя сверхъестественными способностями. Важен не только текст, но и типографская краска и бумага; за раритетами охотятся несколько сект библиофилов, за право читать Книгу приходится сражаться с топором в руке…\n\n\n«Елизаров и Сорокин работают на одном и том же материале, но Сорокин сознательно травестирует и пародирует этот материал (в духе соц-арта), тогда как Елизаров воспринимает его на полном серьёзе» (Виктор Топоров).",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2764587,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 1099,
-                "originalPicture": "/nomenclature/27/645/2764587-2.jpg",
-                "pages": "",
-                "picture": "/nomenclature/27/645/2764587-2.jpg",
-                "preOrderDate": "2023-09-11T00:00:00+03:00",
-                "price": 769,
-                "publisher": {
-                    "id": 143601,
-                    "slug": "redakciya-eleny-shubinoy",
-                    "title": "Редакция Елены Шубиной"
-                },
-                "rating": {
-                    "count": "3.92",
-                    "votes": 184
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Сентябрь 2023",
-                "status": "canBuy",
-                "title": "Библиотекарь",
-                "url": "product/bibliotekar-2764587",
-                "yearPublishing": 2021
-            },
-            "id": "2764587",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Мика",
-                        "id": 6454012,
-                        "lastName": "Мисфор",
-                        "middleName": "",
-                        "url": "misfor-mika"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2922203",
-                "description": "– Яркая и динамичная история о том, как люди меняются вопреки ожиданиям окружающих.\n– Понравится поклонникам романов «Всего лишь полностью раздавлен», «Красный, белый и королевский синий» и «На языке эльфов».\n– Тематика книги: школьные разборки, противостояние местных звёзд и неудачников.\n\nТеодор привык быть у всех на виду и всегда в топе школы. Но не только по оценкам и достижениям – скорее, он известен тем, что постоянно получает наказания от директора. За что? За своё некорректное поведение, назовём это так.\nТеодор издевается над учениками без страха и совести. Но Кристофера он избегал целый год. И вот однажды в качестве наказания директор приказывает Теодору вступить в театральный кружок. Где одни неудачники! Те, над кем Теодор насмехался! А ещё в этом кружке играет Кристофер...",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2922203,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 549,
-                "originalPicture": "/nomenclature/29/222/2922203.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/222/2922203.jpg",
-                "price": 384,
-                "publisher": {
-                    "id": 125802,
-                    "slug": "zhanry",
-                    "title": "Жанры"
-                },
-                "rating": {
-                    "count": "3.97",
-                    "votes": 1047
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "status": "canBuy",
-                "title": "Играй!",
-                "url": "product/igray-2922203",
-                "yearPublishing": 2022
-            },
-            "id": "2922203",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Дженнифер",
-                        "id": 476822,
-                        "lastName": "Адамс",
-                        "middleName": "",
-                        "url": "adams-dzhennifer"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2981576",
-                "description": "Баден-Баден, лето 1830. Восемнадцатилетняя графиня Элиза фон Фрайберг находит старое любовное письмо. Интригующее послание заставляет Элизу сесть за перо.\nНо как написать о чувствах, когда ничего не знаешь о любви?\nМолодой барон Филипп фон Хоэнхорн рад помочь Элизе в ее необычном исследовании физического влечения. Оно, конечно же, носит исключительно теоретический характер. Но один поцелуй меняет все...\nМежду героями зарождается тайная страсть, которая либо превратится в настоющую любовь, либо погубит репутацию юной графини навсегда.\n\n5 причин читать роман\n1. Первая часть популярного немецкого цикла «Леди и их поклонники». \n2. Проведите лето в Баден-Бадене XIX века, где не стихает музыка и сама природа поет о любви. \n3. Воодушевляющая история о двух влюбленных сердцах, где есть место и нежности, и пикантным моментам. \n4. Роскошное оформление: стильный покет с клапанами, сияющей фольгой на обложке и потрясающей иллюстрацией на форзаце. \n5. Роман покорит сердца фанатов творчества Джейн Остин и сериала «Бриджертоны».",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2981576,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 549,
-                "originalPicture": "/nomenclature/29/815/2981576-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/815/2981576-1.jpg",
-                "preOrderDate": "2023-09-14T00:00:00+03:00",
-                "price": 384,
-                "publisher": {
-                    "id": 110230,
-                    "slug": "inspiria",
-                    "title": "Inspiria"
-                },
-                "rating": {
-                    "count": "3.93",
-                    "votes": 134
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Сентябрь 2023",
-                "status": "canBuy",
-                "title": "Элиза и ее поклонники",
-                "url": "product/eliza-i-ee-poklonniki-2981576",
-                "yearPublishing": 2023
-            },
-            "id": "2981576",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Михаил",
-                        "id": 293,
-                        "lastName": "Елизаров",
-                        "middleName": "Юрьевич",
-                        "url": "elizarov-mihail"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110002,
-                    "slug": "sovremennaya-proza",
-                    "title": "Современная проза",
-                    "url": "sovremennaya-proza"
-                },
-                "coauthors": [],
-                "code": "2946532",
-                "description": "Михаил Елизаров — прозаик, музыкант, автор романов “Земля” (премия “Национальный бестселлер”), “Библиотекарь” (премия “Русский Букер”), “Pasternak” и “Мультики”, сборников “Ногти” (шорт-лист премии Андрея Белого), “Мы вышли покурить на 17 лет” (приз читательского голосования премии “НОС”), “Бураттини”.\n\n“Скорлу́пы. Всё ж не рассказы, а, скорее, литературные \"вещи\", нарочито выпячивающие следы своей \"сделанности\". Проще говоря, это четыре различных механизма сборки текста: от максимально традиционного, претендующего на автобиографичность, до \"экспериментального\" — разумеется, в понимании автора. Сто лет назад формалисты изучали так называемый приём, как самодостаточную сущность текста. Перед читателем четыре различный приёма, четыре формы. Четыре сущности. Четыре скорлупы.\n\nКубики — это серые панельки, где живут по колдовским понятиям и милицейским протоколам.\nКубики — не Место Обитания, а Язык и Мышление.\nКубики — это жестокие и нежные сны, записанные в тетради в клетку”.",
-                "discount": "30",
-                "exclusive": false,
-                "id": 2946532,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 979,
-                "originalPicture": "/nomenclature/29/465/2946532-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/29/465/2946532-1.jpg",
-                "preOrderDate": "2023-08-08T00:00:00+03:00",
-                "price": 685,
-                "publisher": {
-                    "id": 143601,
-                    "slug": "redakciya-eleny-shubinoy",
-                    "title": "Редакция Елены Шубиной"
-                },
-                "rating": {
-                    "count": "4.04",
-                    "votes": 49
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": false,
-                "startSale": null,
-                "startSaleDesc": "Август 2023",
-                "status": "canBuy",
-                "title": "Скорлупы. Кубики",
-                "url": "product/skorlupy-kubiki-2946532",
-                "yearPublishing": 2023
-            },
-            "id": "2946532",
-            "type": "product"
-        }
-    ],
-    "meta": {
-        "pagination": {
-            "count": 48,
-            "current_page": 1,
-            "per_page": 48,
-            "total": 18299,
-            "total_pages": 382
-        }
-    }
+  "data": [
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Оскар",
+                      "id": 568856,
+                      "lastName": "Уайльд",
+                      "middleName": "",
+                      "url": "uayld-oskar"
+                  }
+              ],
+              "bestseller": true,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2592760",
+              "description": "\"Портрет Дориана Грея\" — самое знаменитое произведение Оскара Уайльда, единственный его роман, вызвавший в свое время шквал негативных оценок и тем не менее имевший невероятный успех.\nГлавный герой романа, красавец Дориан, — фигура двойственная, неоднозначная. Тонкий эстет и романтик становится безжалостным преступником. Попытка сохранить свою необычайную красоту и молодость оборачивается провалом. Вместо героя стареет его портрет — но это не может продолжаться вечно, и смерть Дориана расставляет все по своим местам.\nРоман Оскара Уайльда продолжает быть очень актуальным и сегодня — разве погоня за вечной молодостью порой не оборачивается потерей своего истинного лица?",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2592760,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 259,
+              "originalPicture": "/nomenclature/25/927/2592760-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/25/927/2592760-1.jpg",
+              "price": 180,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.11",
+                  "votes": 2623
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Портрет Дориана Грея",
+              "url": "product/portret-doriana-greya-2592760",
+              "yearPublishing": 2022
+          },
+          "id": "2592760",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Николай",
+                      "id": 584240,
+                      "lastName": "Гоголь",
+                      "middleName": "Васильевич",
+                      "url": "gogol-nikolay"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "3019563",
+              "description": "Вы когда-нибудь слышали песни под яркой луной в далеких степях?\nШирота души человеческой не знает границ. Здесь и добрые шутки друзей, готовых в любой момент защитить твой дом. И горький плач молодых девушек, которым родители строго запрещают выходить за порог по ночам. И звонкий смех утопленниц, водящих хороводы над водной гладью. Первый взгляд на любимую женщину. Последняя битва на верном коне.\nВоля, сила жизни и искренность – вот то, что отличает произведения Николая Гоголя. И здесь вы найдете истории из сборников «Миргород» и «Вечера на хуторе близ Диканьки».",
+              "discount": "18",
+              "exclusive": false,
+              "id": 3019563,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 629,
+              "originalPicture": "/nomenclature/30/195/3019563-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/30/195/3019563-1.jpg",
+              "preOrderDate": "2023-12-28T00:00:00+03:00",
+              "price": 516,
+              "publisher": {
+                  "id": 111151,
+                  "slug": "like-book",
+                  "title": "Like Book"
+              },
+              "rating": {
+                  "count": "4.80",
+                  "votes": 5
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": true,
+              "startSale": null,
+              "startSaleDesc": "декабрь 2023",
+              "status": "preOrder",
+              "title": "Вечера на хуторе близ Диканьки. Миргород",
+              "url": "product/vechera-na-hutore-bliz-dikanki-mirgorod-3019563",
+              "yearPublishing": 2023
+          },
+          "id": "3019563",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Сосэки",
+                      "id": 1585866,
+                      "lastName": "Нацумэ",
+                      "middleName": "",
+                      "url": "nacume-soseki"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2965154",
+              "description": "Жизнь и наблюдения… КОТА.\nНет, не обычного уличного, а высокообразованного кота, который живет в доме представителя \"культурной элиты\" — школьного учителя. А посему события его собственного хвостатого бытия непрерывно перемежаются с историями семейства его хозяина и их друзей и знакомых — интеллектуалов и господ, которые стараются таковыми казаться, ученых и предпринимателей, преуспевающих и не очень.\nИ как же уморительно вся эта многообразная братия выглядит под острым кошачьим взглядом!\n\"Ваш покорный слуга кот\" — шедевр японской литературы, переведенный на 20 языков, экранизированный и даже положенный в основу аниме.",
+              "discount": "27",
+              "exclusive": false,
+              "id": 2965154,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 339,
+              "originalPicture": "/nomenclature/29/651/2965154-5.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/651/2965154-5.jpg",
+              "price": 248,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "3.74",
+                  "votes": 559
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Ваш покорный слуга кот",
+              "url": "product/vash-pokornyy-sluga-kot-2965154",
+              "yearPublishing": 2023
+          },
+          "id": "2965154",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Ло",
+                      "id": 23115458,
+                      "lastName": "Гуань-чжун",
+                      "middleName": "",
+                      "url": "guan-chzhun-lo"
+                  }
+              ],
+              "bestseller": true,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2987265",
+              "description": "Великая историческая эпопея «Троецарствие» возглавляет список «Четырех классических романов» — наиболее знаменитых китайских произведений XIV—XVIII веков. В Китае это, пожалуй, самая популярная и любимая книга, но и на Западе «Троецарствие» до сих пор считается наиболее популярным китайским романом. В нем изображены события, относящиеся к III веку нашей эры, когда Китай распался на три самостоятельных царства, непрерывно воевавших между собой. Впрочем, «историческим» роман можно назвать с натяжкой: скорее, это невероятное переплетение множества сюжетов (читатель найдет здесь описания военных сражений, интриг, борьбы за власть, любовных перипетий и многого другого), где историческая достоверность сочетается с мифами и легендами Древнего Китая. В настоящем издании текст печатается по двухтомнику, выпущенному Государственным издательством художественной литературы в 1954 году, и сопровождается комментариями и классическими иллюстрациями китайских художников.",
+              "discount": "16",
+              "exclusive": false,
+              "id": 2987265,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 1399,
+              "originalPicture": "/nomenclature/29/872/2987265_3.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/872/2987265_3.jpg",
+              "price": 1176,
+              "publisher": {
+                  "id": 129501,
+                  "slug": "inostranka",
+                  "title": "Иностранка"
+              },
+              "rating": {
+                  "count": "4.38",
+                  "votes": 107
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Троецарствие: роман",
+              "url": "product/troecarstvie-roman-2987265",
+              "yearPublishing": 2023
+          },
+          "id": "2987265",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Арчибальд",
+                      "id": 570791,
+                      "lastName": "Кронин",
+                      "middleName": "Джозеф",
+                      "url": "kronin-archibald"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "3013295",
+              "description": "За миниатюру Гольбейна, известную как «Дама с букетом гвоздик», разворачивается настоящее сражение на лондонском аукционе. Кэтрин Лоример удается обойти соперников, однако вместо триумфа она чувствует тревогу и опустошенность. Затея с миниатюрой — это огромная авантюра, и если она не удастся, Кэтрин окажется на грани разорения. К тому же Кэтрин одинока: самый дорогой ей человек, племянница, вскоре выйдет замуж и покинет ее. Портрет красивой, но несчастной женщины завораживает новую владелицу… Но не случится ли так, что она сама повторит судьбу гольбейновской модели? Помимо романа «Дама с букетом гвоздик», в сборник вошли три повести известного писателя — «Ночные бдения», «Зачарованный снег» и «Женщина земли». Все произведения публикуются на русском языке впервые.",
+              "discount": "19",
+              "exclusive": false,
+              "id": 3013295,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 979,
+              "originalPicture": "/nomenclature/30/132/3013295-2.jpg",
+              "pages": "",
+              "picture": "/nomenclature/30/132/3013295-2.jpg",
+              "preOrderDate": "2023-12-03T00:00:00+03:00",
+              "price": 790,
+              "publisher": {
+                  "id": 129501,
+                  "slug": "inostranka",
+                  "title": "Иностранка"
+              },
+              "rating": {
+                  "count": "4.50",
+                  "votes": 10
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": true,
+              "startSale": null,
+              "startSaleDesc": "декабрь 2023",
+              "status": "preOrder",
+              "title": "Дама с букетом гвоздик",
+              "url": "product/dama-s-buketom-gvozdik-3013295",
+              "yearPublishing": 2023
+          },
+          "id": "3013295",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Фрэнсис",
+                      "id": 421393,
+                      "lastName": "Ходжсон Бёрнетт",
+                      "middleName": "Элиза",
+                      "url": "hodzhson-bernett-frensis"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2783579",
+              "description": "В центре романа «Таинственный сад» – десятилетняя Мери Леннокс, вернувшаяся из Индии в Англию после смерти родителей. В поместье ее дяди Арчибальда Крэвена Мери вынуждена привыкать к совершенно другой жизни, непохожей на ту, что была у нее до сих пор. \nОднажды девочка узнает о загадочном заброшенном саде, в который запрещено входить, и решает разыскать его. Вместе с новыми друзьями Мери предстоит проникнуть в тайны этого удивительного места, преображающего души людей.",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2783579,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 259,
+              "originalPicture": "/nomenclature/27/835/2783579-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/27/835/2783579-1.jpg",
+              "price": 180,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.08",
+                  "votes": 1262
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Таинственный сад",
+              "url": "product/tainstvennyy-sad-2783579",
+              "yearPublishing": 2022
+          },
+          "id": "2783579",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Михаил",
+                      "id": 596497,
+                      "lastName": "Булгаков",
+                      "middleName": "Афанасьевич",
+                      "url": "bulgakov-mihail"
+                  }
+              ],
+              "bestseller": true,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2996549",
+              "description": "В Москву прибыл дьявол со своей свитой, и началась череда невероятных происшествий. В это время талантливый мастер томится в доме скорби, а его возлюбленная Маргарита пытается его спасти. Творчество или ремесло, благополучие или страсть, справедливость или карьера, свет или тьма… Каждый из героев делает собственный выбор, который становится вкладом в вечную борьбу добра и зла. Самый известный и неоднозначный роман XX века в современном оформлении для всех, кто хочет открыть \"Мастера и Маргариту\" впервые или перечитать.",
+              "discount": "21",
+              "exclusive": false,
+              "id": 2996549,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 679,
+              "originalPicture": "/nomenclature/29/965/2996549-3.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/965/2996549-3.jpg",
+              "preOrderDate": "2023-08-21T00:00:00+03:00",
+              "price": 534,
+              "publisher": {
+                  "id": 135192,
+                  "slug": "mann-ivanov-i-ferber",
+                  "title": "Манн, Иванов и Фербер"
+              },
+              "rating": {
+                  "count": "4.00",
+                  "votes": 243
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "август 2023",
+              "status": "canBuy",
+              "title": "Мастер и Маргарита",
+              "url": "product/master-i-margarita-2996549",
+              "yearPublishing": 2023
+          },
+          "id": "2996549",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Джордж",
+                      "id": 601916,
+                      "lastName": "Оруэлл",
+                      "middleName": "",
+                      "url": "oruell-dzhordzh"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2918634",
+              "description": "Культовый роман Джорджа Оруэлла, одна из главных антиутопий XX века.\nЖуткий и пугающий текст, и 70 лет спустя не утративший актуальности.\nВпервые «1984» публикуется на русском языке в новом, полном, без цензуры и купюр, переводе Дарьи Целовальниковой.",
+              "discount": "28",
+              "exclusive": false,
+              "id": 2918634,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 309,
+              "originalPicture": "/nomenclature/29/186/2918634-2.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/186/2918634-2.jpg",
+              "price": 224,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "3.93",
+                  "votes": 1029
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "1984 (новый перевод)",
+              "url": "product/1984-novyy-perevod-2918634",
+              "yearPublishing": 2022
+          },
+          "id": "2918634",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Эрих",
+                      "id": 568796,
+                      "lastName": "Ремарк",
+                      "middleName": "Мария",
+                      "url": "remark-erih"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2666861",
+              "description": "Самый красивый в двадцатом столетии роман о любви... \nСамый увлекательный в двадцатом столетии роман о дружбе... \nСамый трагический и пронзительный роман о человеческих отношениях за всю историю двадцатого столетия.",
+              "discount": "11",
+              "exclusive": false,
+              "id": 2666861,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 418,
+              "originalPicture": "/nomenclature/26/668/2666861.jpg",
+              "pages": "",
+              "picture": "/nomenclature/26/668/2666861.jpg",
+              "price": 370,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.09",
+                  "votes": 1070
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Три товарища",
+              "url": "product/tri-tovarishcha-2666861",
+              "yearPublishing": 2022
+          },
+          "id": "2666861",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Джейн",
+                      "id": 589507,
+                      "lastName": "Остен",
+                      "middleName": "",
+                      "url": "osten-dzheyn"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2472955",
+              "description": "«Гордость и предубеждение» – самый популярный женский роман в мире, провозглашенный интернет-пользователями Великобритании одной из лучших книг всех времен и народов.\nМистер Дарси – главный герой романа – стал для многих читательниц эталоном мужчины, благородный аристократ, который закрывает глаза на сословные предрассудки и женится по любви на женщине, стоящей гораздо ниже его по положению.   На Элизабет Беннет, гордой, неприступной девушке, умной, начитанной и глубоко чувствующей.\n Несколько экранизаций, два сериала и армия поклонников по всему миру навеки вписали роман «Гордость и предубеждение» в летопись лучших историй о любви, побеждающей любые преграды.",
+              "discount": "29",
+              "exclusive": false,
+              "id": 2472955,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 279,
+              "originalPicture": "/nomenclature/24/729/2472955.jpg",
+              "pages": "",
+              "picture": "/nomenclature/24/729/2472955.jpg",
+              "price": 198,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.14",
+                  "votes": 1487
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Гордость и предубеждение",
+              "url": "product/gordost-i-predubezhdenie-2472955",
+              "yearPublishing": 2022
+          },
+          "id": "2472955",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Валентин",
+                      "id": 595549,
+                      "lastName": "Иванов",
+                      "middleName": "Дмитриевич",
+                      "url": "ivanov-valentin"
+                  }
+              ],
+              "bestseller": true,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "3004258",
+              "description": "Валентин Иванов известен читателям прежде всего как автор эпохальных исторических романов, обращенных к прошлому Древней Руси: «Русь изначальная», «Повести древних лет», «Русь Великая». В настоящем издании представлен завершающий цикл роман «Русь Великая». Приступая к работе над книгой, автор так определил свой замысел: «Хочу я быть в XI веке. Это — у нас Владимир Мономах, в Европе — завоевание Англии норманнами, Первый крестовый поход. В Азии кочевники клубятся у Великой стены. В Римской империи — Генрих, у которого была русская княжна-жена... И весь мир неспокоен, весь мир бурлит не хуже, чем ныне, хотя было в нем людей куда поменьше…» И действительно, писатель не ограничился описанием в книге Великой Руси, он перемещается «по странам и континентам через XI век», от берегов Америки до монгольских степей, от Руси до Византии. И каждая глава — это отдельная повесть. В то же время все части составляют единый роман, главной темой которого является становление мощного Русского государства на фоне мировых исторических катаклизмов.",
+              "discount": "19",
+              "exclusive": false,
+              "id": 3004258,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 979,
+              "originalPicture": "/nomenclature/30/042/3004258-3.jpg",
+              "pages": "",
+              "picture": "/nomenclature/30/042/3004258-3.jpg",
+              "preOrderDate": "2023-10-17T00:00:00+03:00",
+              "price": 790,
+              "publisher": {
+                  "id": 116515,
+                  "slug": "azbuka",
+                  "title": "Азбука"
+              },
+              "rating": {
+                  "count": "4.32",
+                  "votes": 19
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "октябрь 2023",
+              "status": "canBuy",
+              "title": "Русь Великая: роман-хроника",
+              "url": "product/rus-velikaya-roman-hronika-3004258",
+              "yearPublishing": 2023
+          },
+          "id": "3004258",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Евгений",
+                      "id": 569180,
+                      "lastName": "Замятин",
+                      "middleName": "Иванович",
+                      "url": "zamyatin-evgeniy"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2898879",
+              "description": "Знаковый роман, с которого официально отсчитывают само существование жанра \"антиутопия\" Запрещенный в советский период, теперь он считается одним из классических произведений не только русской, но и мировой литературы ХХ века. Роман об \"обществе равных\", в котором человеческая личность сведена к \"нумеру\".  В нем унифицировано все — одежда и квартиры, мысли и чувства. Нет ни семьи, ни прочных привязанностей... \nНо можно ли вытравить из человека жажду свободы, пока он остается человеком?",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2898879,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 239,
+              "originalPicture": "/nomenclature/28/988/2898879.jpg",
+              "pages": "",
+              "picture": "/nomenclature/28/988/2898879.jpg",
+              "price": 165,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "3.93",
+                  "votes": 799
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Мы",
+              "url": "product/my-2898879",
+              "yearPublishing": 2022
+          },
+          "id": "2898879",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Морис",
+                      "id": 75769,
+                      "lastName": "Леблан",
+                      "middleName": "",
+                      "url": "leblan-moris"
+                  }
+              ],
+              "bestseller": true,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "3004228",
+              "description": "Книги французского писателя Мориса Леблана о приключениях Арсена Люпена раскупались при жизни автора огромными тиражами, превышающими тиражи книг самого Конан Дойла. Арсен Люпен — человек, разыскиваемый всеми полициями мира; больше пяти сотен знаменитых краж, более сотни приговоров! Неуловимый грабитель, о подвигах которого трубят все газеты. И в то же время — защитник угнетенных и обездоленных, готовый прийти на помощь и раскрыть тайну, проникнуть в которую оказался бессилен закон. \nВ настоящее издание вошли романы, повести и рассказы о приключениях Арсена Люпена, скрывающегося под разными личинами и масками: «Графиня Калиостро», «Барышня с зелеными глазами», «Зуб Эркюля Петигри», «Человек в овчинной бекеше» и «Агентство „Барнетт и Ко“». Роман «Графиня Калиостро» представлен в новом переводе, остальные произведения выходят на русском языке впервые.",
+              "discount": "19",
+              "exclusive": false,
+              "id": 3004228,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 1049,
+              "originalPicture": "/nomenclature/30/042/3004228-2.jpg",
+              "pages": "",
+              "picture": "/nomenclature/30/042/3004228-2.jpg",
+              "preOrderDate": "2023-10-10T00:00:00+03:00",
+              "price": 848,
+              "publisher": {
+                  "id": 116515,
+                  "slug": "azbuka",
+                  "title": "Азбука"
+              },
+              "rating": {
+                  "count": "4.36",
+                  "votes": 25
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "октябрь 2023",
+              "status": "canBuy",
+              "title": "Превращения Арсена Люпена",
+              "url": "product/prevrashcheniya-arsena-lyupena-3004228",
+              "yearPublishing": 2023
+          },
+          "id": "3004228",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Виктор Мари",
+                      "id": 568865,
+                      "lastName": "Гюго",
+                      "middleName": "",
+                      "url": "gyugo-viktor-mari"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "3004244",
+              "description": "Один из самых знаменитых романов Виктора Гюго «Человек, который смеется», наряду с «Отверженными» и «Собором Парижской Богоматери», безусловно, является одним из шедевров французской литературы XIX века. Кажется, в нем есть все: атмосфера тайны, великолепные страницы, посвященные английской истории, кораблекрушение, ребенок, брошенный при загадочных обстоятельствах, безжалостные разбойники, странный документ, найденный в запечатанной бутылке на морском берегу, слепая красавица, мизантроп-благодетель, ручной волк и романтический герой (влияние его образа на искусство последующего времени трудно переоценить, достаточно вспомнить, например, Джокера с его жуткой ухмылкой). Внешность Гуинплена ужасна: «рот, открывающийся до ушей», бесформенный нос и лицо, «на которое нельзя было взглянуть без смеха», однако его жизненный путь, полный невероятных приключений, не оставит равнодушным ни одного читателя. В настоящем издании роман сопровождается великолепными иллюстрациями французских художников Жоржа Рошгросса и Даниэля Вьерхе.",
+              "discount": "19",
+              "exclusive": false,
+              "id": 3004244,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 1049,
+              "originalPicture": "/nomenclature/30/042/3004244-2.jpg",
+              "pages": "",
+              "picture": "/nomenclature/30/042/3004244-2.jpg",
+              "preOrderDate": "2023-10-27T00:00:00+03:00",
+              "price": 848,
+              "publisher": {
+                  "id": 129501,
+                  "slug": "inostranka",
+                  "title": "Иностранка"
+              },
+              "rating": {
+                  "count": "4.33",
+                  "votes": 46
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "октябрь 2023",
+              "status": "canBuy",
+              "title": "Человек, который смеется: роман",
+              "url": "product/chelovek-kotoryy-smeetsya-roman-3004244",
+              "yearPublishing": 2023
+          },
+          "id": "3004244",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Роберт Льюис",
+                      "id": 591796,
+                      "lastName": "Стивенсон",
+                      "middleName": "Balfour",
+                      "url": "stivenson-robert-lyuis"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2757685",
+              "description": "Добро пожаловать в мир удивительных приключений и хитро задуманных преступлений, головокружительных погонь, смертельных дуэлей и умопомрачительно смешных диалогов, – мир, в котором викторианский «рыцарь без страха и упрека» принц Флоризель и его верный друг полковник Джеральдин ведут смертельную схватку со Злом, защищая несправедливо обиженных, – и ни на минуту не теряют при этом достойного истинных джентльменов чувства юмора.",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2757685,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 249,
+              "originalPicture": "/nomenclature/27/576/2757685-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/27/576/2757685-1.jpg",
+              "price": 173,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "3.89",
+                  "votes": 720
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Клуб самоубийц",
+              "url": "product/klub-samoubiyc-2757685",
+              "yearPublishing": 2022
+          },
+          "id": "2757685",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Эмили Джейн",
+                      "id": 578606,
+                      "lastName": "Бронте",
+                      "middleName": "",
+                      "url": "bronte-emili-dzheyn"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2809160",
+              "description": "«Грозовой перевал» Эмили Бронте — не просто золотая классика мировой литературы, но роман, перевернувший в свое время представления о романтической прозе. Проходят годы и десятилетия, но история бурной, страстной, трагической любви Хитклифа и Кэти по-прежнему не поддается ходу времени. «Грозовым перевалом» зачитывалось уже много поколений женщин — продолжают зачитываться и сейчас. Эта книга не стареет, как не стареет истинная любовь…",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2809160,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 259,
+              "originalPicture": "/nomenclature/28/091/2809160-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/28/091/2809160-1.jpg",
+              "price": 180,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.06",
+                  "votes": 1167
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Грозовой перевал",
+              "url": "product/grozovoy-pereval-2809160",
+              "yearPublishing": 2022
+          },
+          "id": "2809160",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Б.",
+                      "id": 9006543,
+                      "lastName": "Бедный",
+                      "middleName": "",
+                      "url": "bednyy-b"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2987910",
+              "description": "Борис Васильевич Бедный — советский писатель, ветеран Великой Отечественной войны, занимал должность преподавателя в Литературном институте, где вел семинары на высших литературных курсах (среди его учеников значится много прославленных писателей, например Чингиз Айтматов). Славу Борису Бедному принесла повесть «Девчата», переведенная на пятнадцать иностранных языков и легшая в основу одноименной картины. Каждому в России хорошо знаком фильм «Девчата», снятый в 1961 году режиссером Юрием Чулюкиным с Надеждой Румянцевой в главной роли. Веселая комедия о любви в затерянном на Урале поселке лесорубов не только покорила зрителей по всему Советскому Союзу, но и получила несколько престижных призов на зарубежных кинофестивалях. Повесть «Девчата», однако, во многом отличается от знаменитой картины: глубже раскрыты характеры героев, суровая жизнь в далеком поселке показана значительно реалистичнее, и даже в сюжете встречаются существенные различия. Настоящее издание, в которое помимо повести «Девчата» вошли самые лучшие рассказы Бориса Бедного, станет настоящим подарком не только поклонникам фильма, но и всем любителям хорошей отечественной прозы.",
+              "discount": "22",
+              "exclusive": false,
+              "id": 2987910,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 299,
+              "originalPicture": "/nomenclature/29/879/2987910_2.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/879/2987910_2.jpg",
+              "preOrderDate": "2023-10-09T00:00:00+03:00",
+              "price": 234,
+              "publisher": {
+                  "id": 116515,
+                  "slug": "azbuka",
+                  "title": "Азбука"
+              },
+              "rating": {
+                  "count": "4.25",
+                  "votes": 67
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "октябрь 2023",
+              "status": "canBuy",
+              "title": "Девчата",
+              "url": "product/devchata-2987910",
+              "yearPublishing": 2023
+          },
+          "id": "2987910",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Уильям",
+                      "id": 567416,
+                      "lastName": "Голдинг",
+                      "middleName": "Джеральд",
+                      "url": "golding-uilyam"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2398281",
+              "description": "\"Повелитель мух\". \nСтранная, страшная и бесконечно притягательная книга. \nИстория благовоспитанных мальчиков, внезапно оказавшихся на необитаемом острове. \nФилософская притча о том, что может произойти с людьми, забывшими о любви и милосердии. \nГротескная антиутопия, роман-предупреждение и, конечно, напоминание о хрупкости мира, в котором живем мы все.",
+              "discount": "27",
+              "exclusive": false,
+              "id": 2398281,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 339,
+              "originalPicture": "/nomenclature/23/982/2398281.jpg",
+              "pages": "",
+              "picture": "/nomenclature/23/982/2398281.jpg",
+              "price": 248,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "3.92",
+                  "votes": 1296
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Повелитель мух",
+              "url": "product/povelitel-muh-2398281",
+              "yearPublishing": 2022
+          },
+          "id": "2398281",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Джек",
+                      "id": 597172,
+                      "lastName": "Лондон",
+                      "middleName": "",
+                      "url": "london-dzhek"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2447550",
+              "description": "\"Мартин Иден\" — самый известный роман Джека Лондона, впервые напечатанный в 1908-1909 гг.\nВо многом автобиографическая книга о человеке, который \"сделал себя сам\", выбравшись из самых низов, добился признания. Любовь к девушке из высшего общества побуждает героя заняться самообразованием. Он становится писателем, но все издательства отказывают ему в публикации.\nИ как это часто бывает в жизни, пройдя сквозь лишения и унижения, получив отказ от любимой девушки, он наконец становится знаменитым. Но ни слава, ни деньги, ни успех, ни даже возвращение его возлюбленной не могут уберечь Мартина от разочарования в этой насквозь фальшивой жизни.",
+              "discount": "29",
+              "exclusive": false,
+              "id": 2447550,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 289,
+              "originalPicture": "/nomenclature/24/475/2447550-4.jpg",
+              "pages": "",
+              "picture": "/nomenclature/24/475/2447550-4.jpg",
+              "price": 206,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.09",
+                  "votes": 1164
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Мартин Иден ",
+              "url": "product/martin-iden-2447550",
+              "yearPublishing": 2022
+          },
+          "id": "2447550",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Эмиль",
+                      "id": 570713,
+                      "lastName": "Золя",
+                      "middleName": "",
+                      "url": "zolya-emil"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2997326",
+              "description": "Эмиль Золя — один из столпов мировой реалистической литературы, предводитель и теоретик литературного движения натурализма, увлеченный исследователь повседневности, страстный правозащитник и публицист, повлиявший на все реалистическое направление литературы XX века и прежде всего — на школу «новой журналистики»: Трумена Капоте, Тома Вулфа, Нормана Мейлера. Его самый известный труд — эпохальный двадцатитомный цикл «Ругон-Маккары», распахивающий перед читателем бесконечную панораму человеческих пороков и добродетелей в декорациях Второй империи. Это энциклопедия жизни Парижа и французской провинции на материале нескольких поколений одной семьи, родившей самые странные плоды, — головокружительная в своей детальности и масштабности эпопея, где есть все: алчность и бескорыстие, любовь к ближнему и звериная страсть, возвышенные устремления и повседневная рутина, гордость, жестокость, цинизм и насилие, взлет и падение сильных и слабых мира сего. В это иллюстрированное издание вошли четвертый, пятый и шестой романы цикла, и они звучат свежо и актуально даже спустя полтора столетия. На глазах изумленной публики в бурливом Париже возводится и рушится финансовая пирамида, детище обаятельного любителя наживы; бедная сиротка берет уроки жизни у святых; а в захолустном городке Плассан, на родине Ругонов и Маккаров, местное общество падает к ногам приезжего священника, карьериста и фарисея. Романы «Мечта» и «Покорение Плассана» издаются в новых переводах. Некоторые иллюстрации Натана Альтмана к роману «Деньги» публикуются впервые.",
+              "discount": "19",
+              "exclusive": false,
+              "id": 2997326,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 1199,
+              "originalPicture": "/nomenclature/29/973/2997326-2.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/973/2997326-2.jpg",
+              "preOrderDate": "2023-12-02T00:00:00+03:00",
+              "price": 977,
+              "publisher": {
+                  "id": 129501,
+                  "slug": "inostranka",
+                  "title": "Иностранка"
+              },
+              "rating": {
+                  "count": "4.44",
+                  "votes": 55
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": true,
+              "startSale": null,
+              "startSaleDesc": "декабрь 2023",
+              "status": "preOrder",
+              "title": "Деньги. Мечта. Покорение Плассана",
+              "url": "product/dengi-mechta-pokorenie-plassana-2997326",
+              "yearPublishing": 2023
+          },
+          "id": "2997326",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Айн",
+                      "id": 567209,
+                      "lastName": "Рэнд",
+                      "middleName": "",
+                      "url": "rend-ayn"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2110110",
+              "description": "В первой части читатели знакомятся с главными героями, гениальными предпринимателями, которым противостоят их антиподы - бездарные государственные чиновники. Повествование начинается с вопроса: кто такой Джон Голт? И на этот вопрос будут искать ответ герои романа и его читатели. \r\n \r\nВторая часть романа \"Атлант расправил плечи\" - социальный прогноз. В ситуации, когда правительство берет курс на \"равные возможности\", считая справедливым за счет талантливых и состоятельных сделать богатыми никчемных и бесталанных, проигравшими оказываются все. Запрет на развитие производства и лоббирование интересов \"нужных\" людей разрушают общество. Динамика повествования задается сложным переплетением судеб героев, любовными коллизиями и загадкой, кто же такой Джон Голт.\r\n \r\nТретья часть романа \"Атлант расправил плечи\" развенчивает заблуждения мечтательных борцов за равенство и братство. Государственные чиновники, лицемерно призывающие граждан к самопожертвованию, но ограничивающие свободу предпринимательства, приводят страну к экономическому краху. Сюжет сплетается из финансовых и политических интриг, и одновременно звучит гимн новой этике: капиталистическая система ценностей не только социально оправданна, но и нравственна. Герой нового мира, гениальный изобретатель Джон Голт, провозглашает принцип \"нравственности разумного эгоизма\" одной фразой: \"Я никогда не буду жить ради другого человека и никогда не попрошу другого человека жить ради меня\".",
+              "discount": "16",
+              "exclusive": false,
+              "id": 2110110,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 1699,
+              "originalPicture": "/nomenclature/21/101/2110110.jpg",
+              "pages": "",
+              "picture": "/nomenclature/21/101/2110110.jpg",
+              "price": 1425,
+              "publisher": {
+                  "id": 117256,
+                  "slug": "alpina-pablisher",
+                  "title": "Альпина Паблишер"
+              },
+              "rating": {
+                  "count": "3.55",
+                  "votes": 2883
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Атлант расправил плечи (комплект из 3 книг)",
+              "url": "product/atlant-raspravil-plechi-komplekt-iz-3-knig-2110110",
+              "yearPublishing": 2021
+          },
+          "id": "2110110",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Владимир",
+                      "id": 568868,
+                      "lastName": "Набоков",
+                      "middleName": "Владимирович",
+                      "url": "nabokov-vladimir"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2860043",
+              "description": "Переиздание одного из величайших произведений XX века.\nПечатается под редакцией эксперта Фонда Набокова Андрея Бабикова с исправлением замеченных опечаток и сохранением некоторых особенностей орфографии, транслитерации и пунктуации Набокова. \nТеперь это – классика мировой литературы, роман, мимо которого не может пройти ни один ценитель тонкой и умной прозы. Книга вошла в списки главных книг века по версиям Новейшей библиотеки, Le Monde и Time. Но когда Набоков закончил произведение в 1954 году, ни одно американское издательство не рискнуло связываться с публикацией романа. В конце концов согласие дало французское издательстве \"Олимпия Пресс\", выпускавшее авангардную и эротическую литературу. С тех пор роман запрещали и проклинали, превозносили и боготворили. История страсти тридцатисемилетнего Гумберта Гумберта к своей двенадцатилетней падчерице Долорес – одно из первых литературных произведений, посвящённых масштабному исследованию темы педофилии. Но это лишь первый план произведения, а количество планов в \"Лолите\" невероятно велико. Здесь и пародия на популярные литературные жанры, и размышление об американской и европейской культурах, и безупречный стилистический эксперимент, и грусть об утраченной невинности. Не одной конкретной девочки, а всей эпохи, во время которой разворачивается действие романа.",
+              "discount": "12",
+              "exclusive": false,
+              "id": 2860043,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 791,
+              "originalPicture": "/nomenclature/28/600/2860043-2.jpg",
+              "pages": "",
+              "picture": "/nomenclature/28/600/2860043-2.jpg",
+              "price": 700,
+              "publisher": {
+                  "id": 118732,
+                  "slug": "ast",
+                  "title": "АСТ"
+              },
+              "rating": {
+                  "count": "3.79",
+                  "votes": 1472
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Лолита",
+              "url": "product/lolita-2860043",
+              "yearPublishing": 2022
+          },
+          "id": "2860043",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Эрих",
+                      "id": 568796,
+                      "lastName": "Ремарк",
+                      "middleName": "Мария",
+                      "url": "remark-erih"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2682724",
+              "description": "«Жизнь взаймы» — это жизнь, которую герои отвоевывают у смерти. Когда терять уже нечего, когда один стоит на краю гибели, так эту жизнь и не узнав, а другому эта треклятая жизнь стала невыносима.\nИ как всегда у Ремарка, только любовь и дружба остаются незыблемыми. Только в них можно найти точку опоры.\nПо роману «Жизнь взаймы» был снят фильм с легендарным Аль Пачино.",
+              "discount": "12",
+              "exclusive": false,
+              "id": 2682724,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 373,
+              "originalPicture": "/nomenclature/26/827/2682724.jpg",
+              "pages": "",
+              "picture": "/nomenclature/26/827/2682724.jpg",
+              "preOrderDate": "2023-08-08T00:00:00+03:00",
+              "price": 330,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.01",
+                  "votes": 755
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "август 2023",
+              "status": "canBuy",
+              "title": "Жизнь взаймы, или У неба любимчиков нет",
+              "url": "product/zhizn-vzaymy-ili-u-neba-lyubimchikov-net-2682724",
+              "yearPublishing": 2022
+          },
+          "id": "2682724",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Харпер",
+                      "id": 567185,
+                      "lastName": "Ли",
+                      "middleName": "",
+                      "url": "li-harper"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2622192",
+              "description": "История маленького сонного городка на юге Америки, поведанная маленькой девочкой.\nИстория ее брата Джима, друга Дилла и ее отца – честного, принципиального адвоката Аттикуса Финча, одного из последних и лучших представителей старой «южной аристократии».\nИстория судебного процесса по делу чернокожего парня, обвиненного в насилии над белой девушкой.\nНо прежде всего – история переломной эпохи, когда ксенофобия, расизм, нетерпимость и ханжество, присущие американскому югу, постепенно уходят в прошлое.\n«Ветер перемен» только-только повеял над Америкой. Что он принесет?..",
+              "discount": "12",
+              "exclusive": false,
+              "id": 2622192,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 475,
+              "originalPicture": "/nomenclature/26/221/2622192.jpg",
+              "pages": "",
+              "picture": "/nomenclature/26/221/2622192.jpg",
+              "price": 420,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.13",
+                  "votes": 1177
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Убить пересмешника…",
+              "url": "product/ubit-peresmeshnika-2622192",
+              "yearPublishing": 2022
+          },
+          "id": "2622192",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Антуан",
+                      "id": 586078,
+                      "lastName": "де Сент-Экзюпери",
+                      "middleName": "",
+                      "url": "de-sent-ekzyuperi-antuan"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2713476",
+              "description": "«Маленький принц» — наиболее известное (переведено более чем на 180 языков) произведение Экзюпери,  написанное незадолго до смерти автора и им же проиллюстрированное. \nЭта печальная, мудрая, человечная сказка предназначена, скорее, взрослым, чем детям. В ней рассказано о самом важном: о дружбе и любви, о долге и верности…Читая эту чудесную историю, и улыбнешься, и взгрустнешь, и непременно задумаешься, над тем, что не всегда можно понять разумом… Как говорил Маленький принц — «увидишь сердцем».\nВ издание также включен сборник эссе «Планета людей».",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2713476,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 259,
+              "originalPicture": "/nomenclature/27/134/2713476_1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/27/134/2713476_1.jpg",
+              "price": 180,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.08",
+                  "votes": 815
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Маленький принц",
+              "url": "product/malenkiy-princ-2713476",
+              "yearPublishing": 2022
+          },
+          "id": "2713476",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Эрих",
+                      "id": 568796,
+                      "lastName": "Ремарк",
+                      "middleName": "Мария",
+                      "url": "remark-erih"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2602918",
+              "description": "«Триумфальная арка» – пронзительная история любви всему наперекор, любви, приносящей боль, но и дарующей бесконечную радость.\nМесто действия – Париж накануне Второй мировой войны. Герой – беженец из Германии, без документов, скрывающийся и от французов, и от нацистов, хирург, спасающий человеческие жизни. Героиня – итальянская актриса, окруженная поклонниками, вспыльчивая, как все артисты, прекрасная и неотразимая.\nИ время, когда влюбленным довелось встретиться, и город, пронизанный ощущением надвигающейся катастрофы, становятся героями этого романа.\n«Триумфальная арка» была дважды экранизирована и по-прежнему покоряет читателей всего мира.",
+              "discount": "11",
+              "exclusive": false,
+              "id": 2602918,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 418,
+              "originalPicture": "/nomenclature/26/029/2602918.jpg",
+              "pages": "",
+              "picture": "/nomenclature/26/029/2602918.jpg",
+              "price": 370,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.07",
+                  "votes": 1045
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Триумфальная арка ",
+              "url": "product/triumfalnaya-arka-2602918",
+              "yearPublishing": 2021
+          },
+          "id": "2602918",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Эрих",
+                      "id": 568796,
+                      "lastName": "Ремарк",
+                      "middleName": "Мария",
+                      "url": "remark-erih"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2454296",
+              "description": "Говоря о Первой мировой войне, всегда вспоминают одно произведение Эриха Марии Ремарка.\n«На Западном фронте без перемен».\nЭто рассказ о немецких мальчишках, которые под действием патриотической пропаганды идут на войну, не зная о том, что впереди их ждет не слава героев, а инвалидность и смерть… \nКаждый день войны уносит жизни чьих-то отцов, сыновей, а газеты тем временем бесстрастно сообщают: \"На Западном фронте без перемен...\".\nЭта книга — не обвинение, не исповедь. \nЭто попытка рассказать о поколении, которое погубила война, о тех, кто стал ее жертвой, даже если сумел спастись от снарядов и укрыться от пули.",
+              "discount": "11",
+              "exclusive": false,
+              "id": 2454296,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 350,
+              "originalPicture": "/nomenclature/24/542/2454296-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/24/542/2454296-1.jpg",
+              "price": 310,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.20",
+                  "votes": 703
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "На Западном фронте без перемен ",
+              "url": "product/na-zapadnom-fronte-bez-peremen-2454296",
+              "yearPublishing": 2022
+          },
+          "id": "2454296",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Михаил",
+                      "id": 596497,
+                      "lastName": "Булгаков",
+                      "middleName": "Афанасьевич",
+                      "url": "bulgakov-mihail"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2926100",
+              "description": "От автора шедевра «Собачье сердце» и «Белая гвардия» Михаила Булгакова.\nОдин из самых известных романов XX века.\n1 января 2023 года на экраны выйдет фильм «Воланд» — новое прочтение культового романа, посвящённое взаимоотношениям Мастера и Маргариты, Мастера и Воланда.\n\nБессмертное, загадочное и остроумное «Евангелие от Сатаны» Михаила Булгакова.\nРоман, уникальный в российской литературе ХХ столетия. Трудно себе представить, какое влияние он оказал на мировую культуру.\nНа основе «Мастера и Маргариты» снимались и продолжают сниматься фильмы и телесериалы, это произведение легло в основу оперы, симфонии, рок-оперы, его иллюстрировали самые знаменитые художники и фотографы. \nДостаточно перечислить лишь немногих создателей произведений, посвященных шедевру Булгакова и им вдохновленных: Анджей Вайда, Эннио Морриконе, Мик Джаггер, Дэвид Боуи. \nЧем же заворожила столь разных творческих личностей история о дьяволе и его свите, почтивших своим присутствием Москву 1930-х, о прокураторе Иудеи всаднике Понтии Пилате и нищем философе Иешуа Га-Ноцри, о талантливом и несчастном Мастере и его прекрасной и верной возлюбленной Маргарите?..",
+              "discount": "30",
+              "exclusive": false,
+              "id": 2926100,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 269,
+              "originalPicture": "/nomenclature/29/261/2926100-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/261/2926100-1.jpg",
+              "price": 189,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.19",
+                  "votes": 420
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Мастер и Маргарита: роман",
+              "url": "product/master-i-margarita-roman-2926100",
+              "yearPublishing": 2022
+          },
+          "id": "2926100",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Энтони",
+                      "id": 521185,
+                      "lastName": "Троллоп",
+                      "middleName": "",
+                      "url": "trollop-entoni"
+                  }
+              ],
+              "bestseller": true,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2997316",
+              "description": "Впервые на русском (не считая архаичных и сокращенных переводов XIX века) — один из главных романов британского классика, современная популярность которого в англоязычном мире может сравниться разве что со славой Джейн Остин (и Чарльза Диккенса). «Троллоп убивает меня своим мастерством», — писал в дневнике Лев Толстой. В Лондон из Парижа прибывает Огастес Мельмотт, эсквайр, владелец огромного, по слухам, состояния, способный «покупкой и продажей акций вознести или погубить любую компанию», а то и по своему усмотрению поднять или уронить котировку национальной валюты; прошлое финансиста окутано тайной, но говорят, «якобы он построил железную дорогу через всю Россию, снабжал армию южан во время Войны Севера и Юга, поставлял оружие Австрии и как-то раз скупил все железо в Англии». Он приобретает особняк на Гровенор-сквер и пытается купить поместье Пикеринг-Парк в Сассексе, становится председателем совета директоров крупной компании, сулящей вкладчикам сказочные прибыли, и баллотируется в парламент. Вокруг него вьются сонмы праздных аристократов, алчных нуворишей и хитроумных вдовушек, руки его дочери добиваются самые завидные женихи империи — но насколько прочно основание его успеха?.. Роман неоднократно адаптировался для телевидения и радио; наиболее известен мини-сериал Би-би-си 2001 г. (на российском телевидении получивший название «Дороги, которые мы выбираем») в постановке Дэвида Йейтса (впоследствии прославившегося четырьмя фильмами о Гарри Поттере и всеми фильмами о «фантастических тварях»). Главную роль исполнил Дэвид Суше, всемирно известный как Эркюль Пуаро в сериале «Пуаро Агаты Кристи» (1989–2013).",
+              "discount": "19",
+              "exclusive": false,
+              "id": 2997316,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 1099,
+              "originalPicture": "/nomenclature/29/973/2997316-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/973/2997316-1.jpg",
+              "preOrderDate": "2023-10-04T00:00:00+03:00",
+              "price": 889,
+              "publisher": {
+                  "id": 129501,
+                  "slug": "inostranka",
+                  "title": "Иностранка"
+              },
+              "rating": {
+                  "count": "3.98",
+                  "votes": 42
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "октябрь 2023",
+              "status": "canBuy",
+              "title": "Вот так мы теперь живем",
+              "url": "product/vot-tak-my-teper-zhivem-2997316",
+              "yearPublishing": 2023
+          },
+          "id": "2997316",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Юкио",
+                      "id": 569108,
+                      "lastName": "Мисима",
+                      "middleName": "",
+                      "url": "misima-yukio"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110002,
+                  "slug": "sovremennaya-proza",
+                  "title": "Современная проза",
+                  "url": "sovremennaya-proza"
+              },
+              "coauthors": [],
+              "code": "2886029",
+              "description": "Юкио Мисима — самый знаменитый и читаемый в мире японский писатель. Прославился он в равной степени как своими произведениями во всех мыслимых жанрах (романы, пьесы, рассказы, эссе), так и экстравагантным стилем жизни и смерти (харакири после неудачной попытки монархического переворота). В романе «Жизнь на продажу» молодой служащий рекламной фирмы Ханио Ямада после неудачной попытки самоубийства помещает в газете объявление: «Продам жизнь. Можете использовать меня по своему усмотрению. Конфиденциальность гарантирована». И кто только к нему не обращается! Среди его клиентов ревнивый муж, наследница-нимфоманка, разведслужба посольства, неспособная самостоятельно решить загадку отравленной моркови, и даже натуральный вампир. И вот, вместо того чтобы тихо-мирно свести счеты с жизнью, Ханио Ямада оказывается в центре заговора глобального масштаба… \n«Блестящий пример бескрайнего воображения Мисимы на пике формы. Парадоксальные идеи о природе бытия изложены с фирменной иронической усмешкой» (The Japan Times).",
+              "discount": "22",
+              "exclusive": false,
+              "id": 2886029,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 299,
+              "originalPicture": "/nomenclature/28/860/2886029.jpg",
+              "pages": "",
+              "picture": "/nomenclature/28/860/2886029.jpg",
+              "price": 234,
+              "publisher": {
+                  "id": 116515,
+                  "slug": "azbuka",
+                  "title": "Азбука"
+              },
+              "rating": {
+                  "count": "3.92",
+                  "votes": 479
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Жизнь на продажу ",
+              "url": "product/zhizn-na-prodazhu-2886029",
+              "yearPublishing": 2022
+          },
+          "id": "2886029",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Иван",
+                      "id": 568859,
+                      "lastName": "Тургенев",
+                      "middleName": "Сергеевич",
+                      "url": "turgenev-ivan"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2467384",
+              "description": "\"Отцы и дети\" — знаменитый роман Тургенева, ставший чуть ли не самым значительным произведением в истории о взаимоотношениях поколений. Споры главного героя Евгения Базарова, называающего себя нигилистом и отрицающего расхожие представления о жизни, искусстве, морали, природе человека, и его антагониста Павла Кирсанова, аристократа до мозга костей, состаляют главную проблематику романа.\nНо сюжетная канва строится скорее на внутреннем конфликте самого Базарова. Только что отрицавший все и вся герой, не веривший в любовь, смеявшийся над своим приятелем, способным на нежные чувства, вдруг сам страстно и пылко влюбляется.\nИ все вдруг переворачивается вверх дном — с любовью Базаров совладать не в силах, она оказывается сильнее самых твердых убеждений.",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2467384,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 259,
+              "originalPicture": "/nomenclature/24/673/2467384-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/24/673/2467384-1.jpg",
+              "price": 180,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.15",
+                  "votes": 541
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Отцы и дети",
+              "url": "product/otcy-i-deti-2467384",
+              "yearPublishing": 2022
+          },
+          "id": "2467384",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Федор",
+                      "id": 598363,
+                      "lastName": "Достоевский",
+                      "middleName": "Михайлович",
+                      "url": "dostoevskiy-fedor"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2465295",
+              "description": "\"Преступление и наказание\" (1866) — одно из самых значительных произведений в истории мировой литературы. Это и глубокий филососфский роман, и тонкая психологическая драма, и захватывающий детектив, и величественная картина мрачного города, в недрах которого герои грешат и ищут прощения, жертвуют собой и отрекаются от себя ради ближних и находят успокоение в смирении, покаянии, вере. Главный герой романа Родион Раскольников решается на убийство, чтобы доказать себе и миру, что он не \"тварь дрожащая\", а \"право имеет\". Главным предметом исследования писателя становится процесс превращения добропорядочного, умного и доброго юноши в убийцу, а также то, как совершивший преступление Раскольников может искупить свою вину. \n\"",
+              "discount": "28",
+              "exclusive": false,
+              "id": 2465295,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 299,
+              "originalPicture": "/nomenclature/24/652/2465295-2.jpg",
+              "pages": "",
+              "picture": "/nomenclature/24/652/2465295-2.jpg",
+              "price": 216,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.14",
+                  "votes": 1062
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Преступление и наказание ",
+              "url": "product/prestuplenie-i-nakazanie-2465295",
+              "yearPublishing": 2022
+          },
+          "id": "2465295",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Оскар",
+                      "id": 568856,
+                      "lastName": "Уайльд",
+                      "middleName": "",
+                      "url": "uayld-oskar"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "3010317",
+              "description": "Единственный способ избавиться от искушения — ему поддаться.\nКазалось, что сами небеса изваяли Дориана Грея из красоты и чистоты юношества. Такие прелестные создания не могут быть порочны, ибо злой умысел всегда отражается на лицах, во взглядах, со временем оставляя свой глубокий отпечаток. Любому, кто взглянет на Дориана Грея, очевидно, что он нежное и невинное существо: ни соблазны, ни время не смогли коснуться его.\nНо отчего его избегают старые знакомые? Почему шепчутся за его спиной? Это зависть или… страх?\n«Портрет Дориана Грея» — один из самых скандальных романов Викторианской эпохи, разгромивший застарелые устои и открывший людям глаза на явные уродства лицемерного, но честолюбивого общества.",
+              "discount": "30",
+              "exclusive": false,
+              "id": 3010317,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": true,
+              "oldPrice": 849,
+              "originalPicture": "/nomenclature/30/103/3010317-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/30/103/3010317-1.jpg",
+              "preOrderDate": "2023-11-10T00:00:00+03:00",
+              "price": 595,
+              "publisher": {
+                  "id": 1355212,
+                  "slug": "oblozhka",
+                  "title": "Обложка"
+              },
+              "rating": {
+                  "count": "4.68",
+                  "votes": 34
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "ноябрь 2023",
+              "status": "canBuy",
+              "title": "Портрет Дориана Грея",
+              "url": "product/portret-doriana-greya-3010317",
+              "yearPublishing": 2023
+          },
+          "id": "3010317",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Герберт",
+                      "id": 577934,
+                      "lastName": "Уэллс",
+                      "middleName": "Джордж",
+                      "url": "uells-gerbert"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2994668",
+              "description": "Английский писатель Герберт Уэллс известен в первую очередь как автор романов «Машина Времени», «Человек-невидимка», «Война миров». Но Уэллс также создал множество коротких историй, отмеченных неистощимой выдумкой, поразительной широтой тематического репертуара и неизменной занимательностью сюжетов. В настоящий сборник вошла практически вся малая проза писателя — повести и рассказы, от первых проб пера Уэллса-студента до поздних произведений, написанных уже признанным мэтром литературы, мыслителем, ученым и общественным деятелем, обласканным мировой славой. Большинство произведений, включенных в сборник, публикуется в новых переводах, почти два десятка из них никогда не издавались в СССР и России.",
+              "discount": "19",
+              "exclusive": false,
+              "id": 2994668,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 1199,
+              "originalPicture": "/nomenclature/29/946/2994668-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/946/2994668-1.jpg",
+              "price": 977,
+              "publisher": {
+                  "id": 129501,
+                  "slug": "inostranka",
+                  "title": "Иностранка"
+              },
+              "rating": {
+                  "count": "4.32",
+                  "votes": 68
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Человек, который мог творить чудеса: повести, рассказы",
+              "url": "product/chelovek-kotoryy-mog-tvorit-chudesa-povesti-rasskazy-2994668",
+              "yearPublishing": 2023
+          },
+          "id": "2994668",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Энтони",
+                      "id": 567437,
+                      "lastName": "Бёрджесс",
+                      "middleName": "",
+                      "url": "berdzhess-entoni"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2397960",
+              "description": "«Заводной апельсин» – литературный парадокс ХХ столетия. Продол-жая футуристические традиции в литературе, экспериментируя с языком, на котором говорит рубежное поколение malltshipalltshikov и kisok «надсатых», Энтони Бёрджесс создает роман, признанный классикой современной литературы.\nУмный, жестокий, харизматичный антигерой Алекс, лидер уличной банды, проповедуя насилие как высокое искусство жизни, как род наслаждения, попадает в железные тиски новейшей государственной программы по перевоспитанию преступников и сам становится жертвой наси-лия. Можно ли спасти мир от зла, лишая человека воли совершать пос-тупки и превращая его в «заводной апельсин»? Этот вопрос сегодня актуален так же, как и вчера, и вопрос этот автор задает читателю.",
+              "discount": "11",
+              "exclusive": false,
+              "id": 2397960,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 350,
+              "originalPicture": "/nomenclature/23/979/2397960-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/23/979/2397960-1.jpg",
+              "preOrderDate": "2023-08-08T00:00:00+03:00",
+              "price": 310,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.07",
+                  "votes": 1349
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "август 2023",
+              "status": "canBuy",
+              "title": "Заводной апельсин",
+              "url": "product/zavodnoy-apelsin-2397960",
+              "yearPublishing": 2021
+          },
+          "id": "2397960",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Луиза Мэй",
+                      "id": 577277,
+                      "lastName": "Олкотт",
+                      "middleName": "",
+                      "url": "olkott-luiza-mey"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2965578",
+              "description": "«Маленькие женщины» — первая книга тетралогии Луизы Мэй Олкотт о сёстрах, выросших в тяжелые для Америки времена. Роман — настоящий бестселлер, он переведен на 50 языков мира, только в России в 2022 году было продано свыше 120 000 экземпляров.\nРоман шесть раз экранизировался, последняя адаптация увидела свет в 2019 году. Главные роли исполнили Сирша Ронан, Флоренс Пью и Эмма Уотсон.\nВ данном издании роман публикуется в новом оформлении и в новом переводе!",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2965578,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 259,
+              "originalPicture": "/nomenclature/29/655/2965578-4.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/655/2965578-4.jpg",
+              "price": 180,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.04",
+                  "votes": 153
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Маленькие женщины",
+              "url": "product/malenkie-zhenshchiny-2965578",
+              "yearPublishing": 2023
+          },
+          "id": "2965578",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Оскар",
+                      "id": 568856,
+                      "lastName": "Уайльд",
+                      "middleName": "",
+                      "url": "uayld-oskar"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2999747",
+              "description": "Противоречивый в свое время, но признанный неумирающей классикой в современности роман повествует нам о прекрасном юноше Дориане, который однажды пожелал остаться таким же молодым и цветущим навечно. Поддавшись тлетворному влиянию лорда Генри — человека свободных нравов — и погрузившись в пучину гедонизма, Дориан уходит все дальше от своих прежних идеалов, но лицо его с годами остается таким же прекрасным. Вот только его портрет, спрятанный от чужих глаз на чердаке, знает наверняка, как выглядит душа хозяина…",
+              "discount": "21",
+              "exclusive": false,
+              "id": 2999747,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 599,
+              "originalPicture": "/nomenclature/29/997/2999747-9.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/997/2999747-9.jpg",
+              "preOrderDate": "2023-10-08T00:00:00+03:00",
+              "price": 472,
+              "publisher": {
+                  "id": 135192,
+                  "slug": "mann-ivanov-i-ferber",
+                  "title": "Манн, Иванов и Фербер"
+              },
+              "rating": {
+                  "count": "4.30",
+                  "votes": 73
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "октябрь 2023",
+              "status": "canBuy",
+              "title": "Портрет Дориана Грея. Вечные истории",
+              "url": "product/portret-doriana-greya-vechnye-istorii-2999747",
+              "yearPublishing": 2024
+          },
+          "id": "2999747",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Джордж",
+                      "id": 601916,
+                      "lastName": "Оруэлл",
+                      "middleName": "",
+                      "url": "oruell-dzhordzh"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2855976",
+              "description": "Роман «1984» об опасности тоталитаризма стал одной из самых известных антиутопий XX века, которая стоит в одном ряду с «Мы» Замятина, «О дивный новый мир» Хаксли и «451° по Фаренгейту» Брэдбери.\n Что будет, если в правящих кругах распространятся идеи фашизма и диктатуры? Каким станет общественный уклад, если власть потребует неуклонного подчинения? К какой катастрофе приведет подобный режим?\n Повесть-притча «Скотный двор» полна острого сарказма и политической сатиры. Обитатели фермы олицетворяют самые ужасные людские пороки, а сама ферма становится символом тоталитарного общества. Как будут существовать в таком обществе его обитатели — животные, которых поведут на бойню?",
+              "discount": "22",
+              "exclusive": false,
+              "id": 2855976,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 269,
+              "originalPicture": "/nomenclature/28/559/2855976-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/28/559/2855976-1.jpg",
+              "price": 210,
+              "publisher": {
+                  "id": 154486,
+                  "slug": "eksmo",
+                  "title": "Эксмо"
+              },
+              "rating": {
+                  "count": "3.93",
+                  "votes": 218
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "1984. Скотный двор",
+              "url": "product/1984-skotnyy-dvor-2855976",
+              "yearPublishing": 2022
+          },
+          "id": "2855976",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Мария",
+                      "id": 570383,
+                      "lastName": "Корелли",
+                      "middleName": "",
+                      "url": "korelli-mariya"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2772938",
+              "description": "Молодой писатель Джеффри Темпест, прозябающий в нищете и безвестности, продает душу Сатане и получает от Князя Тьмы все, о чем только мечтал… точнее, почти все.\nТеперь светское общество, ранее им пренебрегавшее, лежит у его ног. К его услугам несметное состояние, любовь прекрасной девушки, роскошь и удовольствия.\nНо много ли это значит, если утрачено главное, ради чего Джеффри жил, — его талант?..",
+              "discount": "28",
+              "exclusive": false,
+              "id": 2772938,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 299,
+              "originalPicture": "/nomenclature/27/729/2772938.jpg",
+              "pages": "",
+              "picture": "/nomenclature/27/729/2772938.jpg",
+              "preOrderDate": "2023-08-08T00:00:00+03:00",
+              "price": 216,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "3.99",
+                  "votes": 729
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "август 2023",
+              "status": "canBuy",
+              "title": "Скорбь Сатаны",
+              "url": "product/skorb-satany-2772938",
+              "yearPublishing": 2021
+          },
+          "id": "2772938",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Александр",
+                      "id": 567410,
+                      "lastName": "Островский",
+                      "middleName": "Николаевич",
+                      "url": "ostrovskiy-aleksandr"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "3004181",
+              "description": "Александр Николаевич Островский — один из самых популярных российских драматургов, чье творчество оказало огромное влияние на развитие отечественного театра: на сцену вышли простые люди (купцы, чиновники, молодые повесы, девицы на выданье), живущие заботами, стремлениями и страстями, близкими и понятными зрителям во все времена. Драматургом создано почти полсотни пьес, раскрывших русский национальный характер во всей полноте. В издание вошли такие прославленные пьесы, как «Свои люди — сочтемся!», «Бедность не порок», «Гроза», «Бесприданница», «Снегурочка», которые по сей день не сходят со сцены. Произведения Островского привлекают не только театральных и кинорежиссеров, но и художников-иллюстраторов, стремящихся воплотить сюжеты Островского на страницах книг, передать характерные черты его персонажей. К решению этой непростой задачи обращались многие известные художники, в их числе П. М. Боклевский, Б. М. Кустодиев, В. М. Васнецов. Иллюстрации этих и других художников XIX — начала ХХ века включены в книгу.",
+              "discount": "19",
+              "exclusive": false,
+              "id": 3004181,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 999,
+              "originalPicture": "/nomenclature/30/041/3004181-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/30/041/3004181-1.jpg",
+              "preOrderDate": "2023-10-04T00:00:00+03:00",
+              "price": 813,
+              "publisher": {
+                  "id": 116515,
+                  "slug": "azbuka",
+                  "title": "Азбука"
+              },
+              "rating": {
+                  "count": "4.30",
+                  "votes": 27
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "октябрь 2023",
+              "status": "canBuy",
+              "title": "Гроза. Бесприданница. Бедность не порок",
+              "url": "product/groza-bespridannica-bednost-ne-porok-3004181",
+              "yearPublishing": 2023
+          },
+          "id": "3004181",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Федор",
+                      "id": 598363,
+                      "lastName": "Достоевский",
+                      "middleName": "Михайлович",
+                      "url": "dostoevskiy-fedor"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2628067",
+              "description": "В этот сборник вошли две ранние повести Достоевского – «Белые ночи» и «Неточка Незванова», которые считаются самыми поэтичными произведениями великого романиста. \n«Белые ночи» – одно из лучших произведений школы «сентиментального натурализма», по мнению критика Аполлона Григорьева. Это лирическая исповедь героя-мечтателя, одинокого и робкого человека, в жизни которого на какое-то время появляется девушка,  а вместе с ней и надежда на более светлое будущее. \n«Неточка Незванова» – повесть, изначально задуманная автором как роман, где в основе сюжета лежит история жизни маленькой девочки. Неточка – тоже персонаж-мечтатель, она грезит о жизни в большом красивом особняке, который видит из окна каморки на чердаке. Но, очутившись в нем, Неточка сталкивается с действительностью, которая оказалась вовсе не так прекрасна…",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2628067,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 249,
+              "originalPicture": "/nomenclature/26/280/2628067.jpg",
+              "pages": "",
+              "picture": "/nomenclature/26/280/2628067.jpg",
+              "price": 173,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.15",
+                  "votes": 897
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Белые ночи",
+              "url": "product/belye-nochi-2628067",
+              "yearPublishing": 2022
+          },
+          "id": "2628067",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Эрих",
+                      "id": 568796,
+                      "lastName": "Ремарк",
+                      "middleName": "Мария",
+                      "url": "remark-erih"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2609975",
+              "description": "\"Ночь в Лиссабоне\" (1962) — трагический, проникновенный роман Эриха Марии Ремарка о Второй мировой войне.\nЭто не только одна ночь в Лиссабоне, в которую и уместился весь этот рассказ. Это не просто случайная встреча двух отчаявшихся людей, один из которых тщетно пытается найти два билета на пароход до Америки, а другой — ищет собеседника, чтобы излить ему душу. Это настоящая исповедь отважного, смелого человека, на долю которого выпали немыслимые по тяжести испытания. Это история целого поколения людей, столкнувшихся с войной, попавших в тиски фашизма. Это еще и история любви, перед которой отступает даже смерть.",
+              "discount": "12",
+              "exclusive": false,
+              "id": 2609975,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 373,
+              "originalPicture": "/nomenclature/26/099/2609975-1.jpg",
+              "pages": "",
+              "picture": "/nomenclature/26/099/2609975-1.jpg",
+              "price": 330,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.13",
+                  "votes": 788
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Ночь в Лиссабоне ",
+              "url": "product/noch-v-lissabone-2609975",
+              "yearPublishing": 2021
+          },
+          "id": "2609975",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Френсис Скотт",
+                      "id": 570446,
+                      "lastName": "Фицджеральд",
+                      "middleName": "",
+                      "url": "ficdzherald-frensis-skott"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "3003603",
+              "description": "Величайшая книга XX века в красочном оформлении NIKEL\nРоман о мечте, стремлениях и борьбе за свое счастье\nИдеальное дополнение библиотеки: издание в твердой стильной обложке\n\nНью-Йорк, ревущие двадцатые прошлого века — эпоха джаза и сухого закона. Именно там, на Золотом побережье, развернулась захватывающая история таинственного магната по имени Джей Гэтсби. Скрытый от мира за шикарными фасадами своего имения, он считался чуть ли не призраком или легендой, и почти никто не знал, что его жизнь и любовь безраздельно принадлежали только одной женщине — прекрасной Дэзи Бьюкенен.\n\nРоман об американской мечте и стремлениях, превзошедших границы возможностей, а также о безграничной вере в силы человека, сражающегося за свое счастье на каждом повороте непредсказуемой реки жизни.",
+              "discount": "21",
+              "exclusive": false,
+              "id": 3003603,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 599,
+              "originalPicture": "/nomenclature/30/036/3003603-4.jpg",
+              "pages": "",
+              "picture": "/nomenclature/30/036/3003603-4.jpg",
+              "preOrderDate": "2023-10-08T00:00:00+03:00",
+              "price": 472,
+              "publisher": {
+                  "id": 135192,
+                  "slug": "mann-ivanov-i-ferber",
+                  "title": "Манн, Иванов и Фербер"
+              },
+              "rating": {
+                  "count": "4.46",
+                  "votes": 59
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "startSaleDesc": "октябрь 2023",
+              "status": "canBuy",
+              "title": "Великий Гэтсби. Вечные истории",
+              "url": "product/velikiy-getsbi-vechnye-istorii-3003603",
+              "yearPublishing": 2023
+          },
+          "id": "3003603",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Олдос Леонард",
+                      "id": 213037,
+                      "lastName": "Хаксли",
+                      "middleName": "",
+                      "url": "haksli-oldos-leonard"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2969921",
+              "description": "Переиздание культовой антиутопии Олдоса Хаксли в новом оформлении.\n«О дивный новый мир» — один из самых продаваемых и актуальных романов последнего десятилетия. \nДля поклонников антиутопий «Город за рекой» Германа Казака, «Мы» Евгения Замятина и «1984» Джорджа Оруэлла.",
+              "discount": "27",
+              "exclusive": false,
+              "id": 2969921,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 349,
+              "originalPicture": "/nomenclature/29/699/2969921.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/699/2969921.jpg",
+              "price": 256,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "3.92",
+                  "votes": 133
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "О дивный новый мир",
+              "url": "product/o-divnyy-novyy-mir-2969921",
+              "yearPublishing": 2023
+          },
+          "id": "2969921",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Шарлотта",
+                      "id": 596437,
+                      "lastName": "Бронте",
+                      "middleName": "",
+                      "url": "bronte-sharlotta"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2544490",
+              "description": "Даже не читая этого романа, вы наверняка слышали про Джейн Эйр. Скорее всего, вы смотрели фильм по этому роману. Надо сказать, что экранизаций «Джейн Эйр» очень много, одна из них — с Шарлоттой Генсбур в главной роли (режиссер – Франко Дзефирелли). Джейн Эйр давным-давно переросла свою героиню и стала почти что именем нарицательным. Многие девушки, наверное, мечтали бы повторить ее судьбу. Да, детство у нее было настоящим кошмаром. Да и молодость выдалась тяжелой. Пусть Джейн не так уж хороша собой, и жизнь ее вовсе не балует, но в конечном итоге она обретет свое счастье. Полный загадок, порой трагических поворотов сюжета, этот роман был и остается символом веры, надежды и любви.",
+              "discount": "28",
+              "exclusive": false,
+              "id": 2544490,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 299,
+              "originalPicture": "/nomenclature/25/444/2544490-3.jpg",
+              "pages": "",
+              "picture": "/nomenclature/25/444/2544490-3.jpg",
+              "price": 216,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.18",
+                  "votes": 1202
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Джейн Эйр",
+              "url": "product/dzheyn-eyr-2544490",
+              "yearPublishing": 2022
+          },
+          "id": "2544490",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Френсис Скотт",
+                      "id": 570446,
+                      "lastName": "Фицджеральд",
+                      "middleName": "",
+                      "url": "ficdzherald-frensis-skott"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2459704",
+              "description": "«Бурные» двадцатые годы прошлого столетия… \nВремя шикарных вечеринок, «сухого закона» и «легких» денег… \nЭти «новые американцы» уверены, что расцвет будет вечным, что достигнув вершин власти и богатства, они обретут и личное счастье… \nТаким был и Джей Гэтсби, ставший жертвой бессмысленной погони за пленительной мечтой об истинной и вечной любви, которой не суждено было сбыться… \nПеред вами — самый знаменитый роман Ф.С. Фицджеральда в новом переводе!",
+              "discount": "30",
+              "exclusive": false,
+              "id": 2459704,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 269,
+              "originalPicture": "/nomenclature/24/597/2459704.jpg",
+              "pages": "",
+              "picture": "/nomenclature/24/597/2459704.jpg",
+              "price": 189,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "4.10",
+                  "votes": 1010
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Великий Гэтсби",
+              "url": "product/velikiy-getsbi-2459704",
+              "yearPublishing": 2022
+          },
+          "id": "2459704",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Иван",
+                      "id": 569243,
+                      "lastName": "Гончаров",
+                      "middleName": "Александрович",
+                      "url": "goncharov-ivan"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2931599",
+              "description": "Иван Гончаров — один из самых крупных писателей-реалистов золотого века русской литературы. Роман «Обломов» —  часть знаменитой «трилогии о русской жизни», куда также вошли «Обыкновенная история» и «Обрыв».",
+              "discount": "29",
+              "exclusive": false,
+              "id": 2931599,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 289,
+              "originalPicture": "/nomenclature/29/315/2931599.jpg",
+              "pages": "",
+              "picture": "/nomenclature/29/315/2931599.jpg",
+              "price": 206,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "3.75",
+                  "votes": 279
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Обломов",
+              "url": "product/oblomov-2931599",
+              "yearPublishing": 2022
+          },
+          "id": "2931599",
+          "type": "product"
+      },
+      {
+          "attributes": {
+              "authors": [
+                  {
+                      "firstName": "Александр",
+                      "id": 567410,
+                      "lastName": "Островский",
+                      "middleName": "Николаевич",
+                      "url": "ostrovskiy-aleksandr"
+                  }
+              ],
+              "bestseller": false,
+              "binding": "",
+              "category": {
+                  "id": 110003,
+                  "slug": "klassicheskaya-proza",
+                  "title": "Классическая проза",
+                  "url": "klassicheskaya-proza"
+              },
+              "coauthors": [],
+              "code": "2518553",
+              "description": "В сборник вошли две, наверное, самые знаменитые пьесы Островского – «Гроза» (1859 г.) и «Бесприданница» (1878 г.). В обеих пьесах описывается трагическая судьба их героинь. Две разбитые жизни. Два пылких сердца. Две пронзительные истории любви. И две попытки вырваться из замкнутого круга. Во времена Островского «Гроза» произвела эффект разорвавшейся бомбы, не случайно критик Добролюбов назвал ее героиню «лучом света в темном царстве».  \nНесмотря на то, что времена поменялись, пьесы не теряют своей актуальности. Потому что ханжество, показная добродетель, эгоизм и себялюбие всегда будут противостоять искренним чувствам и настоящим порывам души.",
+              "discount": "31",
+              "exclusive": false,
+              "id": 2518553,
+              "inSubscription": false,
+              "isBook": true,
+              "isBookmarks": false,
+              "new": false,
+              "oldPrice": 239,
+              "originalPicture": "/nomenclature/25/185/2518553.jpg",
+              "pages": "",
+              "picture": "/nomenclature/25/185/2518553.jpg",
+              "price": 165,
+              "publisher": {
+                  "id": 112078,
+                  "slug": "neoclassic",
+                  "title": "Neoclassic"
+              },
+              "rating": {
+                  "count": "3.92",
+                  "votes": 317
+              },
+              "recommended": false,
+              "sale": false,
+              "saleSoon": false,
+              "startSale": null,
+              "status": "canBuy",
+              "title": "Гроза. Бесприданница",
+              "url": "product/groza-bespridannica-2518553",
+              "yearPublishing": 2022
+          },
+          "id": "2518553",
+          "type": "product"
+      }
+  ],
+  "meta": {
+      "pagination": {
+          "count": 48,
+          "current_page": 1,
+          "per_page": 48,
+          "total": 12314,
+          "total_pages": 257
+      }
+  }
 }
 export default klassicheskayaProza;
