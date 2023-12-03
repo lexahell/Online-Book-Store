@@ -3,7 +3,6 @@ const favouriteButtons = document.querySelectorAll(".favourite-button");
 const countItemInCart = document.querySelector("#count-item-in-cart");
 const countFavourites = document.querySelector("#count-favourites");
 
-// localStorage.clear();
 countItemInCart.textContent = localStorage.getItem("countInCart");
 if(countItemInCart.textContent != 0){
   countItemInCart.style.display = "block";

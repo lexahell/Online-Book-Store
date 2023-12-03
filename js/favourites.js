@@ -140,5 +140,4 @@ if (containerFavourites.querySelector("*") == null){
     const favWrapper =  document.querySelector(".fav-wrapper");
     favWrapper.insertAdjacentHTML("beforeend", emptyFavourites);
     
-    // containerFavourites.textContent = "В избранном пока пусто";
 }
