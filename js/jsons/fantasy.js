@@ -61,6 +61,63 @@ const fantasy = {
             "attributes": {
                 "authors": [
                     {
+                        "firstName": "Рита",
+                        "id": 23121212,
+                        "lastName": "Хоффман",
+                        "middleName": "",
+                        "url": "hoffman-rita"
+                    }
+                ],
+                "bestseller": false,
+                "binding": "",
+                "category": {
+                    "id": 110005,
+                    "slug": "fehntezi",
+                    "title": "Фэнтези",
+                    "url": "fehntezi"
+                },
+                "coauthors": [],
+                "code": "3017913",
+                "description": "",
+                "discount": "23",
+                "exclusive": false,
+                "id": 3017913,
+                "inSubscription": false,
+                "isBook": true,
+                "isBookmarks": false,
+                "new": false,
+                "oldPrice": 849,
+                "originalPicture": "/nomenclature/30/179/3017913-1.jpg",
+                "pages": "",
+                "picture": "/nomenclature/30/179/3017913-1.jpg",
+                "preOrderDate": "2024-02-03T00:00:00+03:00",
+                "price": 657,
+                "publisher": {
+                    "id": 135192,
+                    "slug": "mann-ivanov-i-ferber",
+                    "title": "Манн, Иванов и Фербер"
+                },
+                "rating": {
+                    "count": "5.00",
+                    "votes": 2
+                },
+                "recommended": false,
+                "sale": false,
+                "saleSoon": true,
+                "startSale": null,
+                "startSaleDesc": "февраль 2024",
+                "status": "preOrder",
+                "title": "Мрачный Взвод. Пробуждение Нави",
+                "url": "product/mrachnyy-vzvod-probuzhdenie-navi-3017913",
+                "yearPublishing": 2023
+            },
+            "id": "3017913",
+            "type": "product"
+        },  
+        {
+            "attributes": {
+                "authors": [
+                    {
                         "firstName": "Тунсю",
                         "id": 569771,
                         "lastName": "Мосян",
@@ -2601,63 +2658,6 @@ const fantasy = {
                 "yearPublishing": 2024
             },
             "id": "3009852",
-            "type": "product"
-        },
-        {
-            "attributes": {
-                "authors": [
-                    {
-                        "firstName": "Рита",
-                        "id": 23121212,
-                        "lastName": "Хоффман",
-                        "middleName": "",
-                        "url": "hoffman-rita"
-                    }
-                ],
-                "bestseller": false,
-                "binding": "",
-                "category": {
-                    "id": 110005,
-                    "slug": "fehntezi",
-                    "title": "Фэнтези",
-                    "url": "fehntezi"
-                },
-                "coauthors": [],
-                "code": "3017913",
-                "description": "",
-                "discount": "23",
-                "exclusive": false,
-                "id": 3017913,
-                "inSubscription": false,
-                "isBook": true,
-                "isBookmarks": false,
-                "new": false,
-                "oldPrice": 849,
-                "originalPicture": "/nomenclature/30/179/3017913-1.jpg",
-                "pages": "",
-                "picture": "/nomenclature/30/179/3017913-1.jpg",
-                "preOrderDate": "2024-02-03T00:00:00+03:00",
-                "price": 657,
-                "publisher": {
-                    "id": 135192,
-                    "slug": "mann-ivanov-i-ferber",
-                    "title": "Манн, Иванов и Фербер"
-                },
-                "rating": {
-                    "count": "5.00",
-                    "votes": 2
-                },
-                "recommended": false,
-                "sale": false,
-                "saleSoon": true,
-                "startSale": null,
-                "startSaleDesc": "февраль 2024",
-                "status": "preOrder",
-                "title": "Мрачный Взвод. Пробуждение Нави",
-                "url": "product/mrachnyy-vzvod-probuzhdenie-navi-3017913",
-                "yearPublishing": 2023
-            },
-            "id": "3017913",
             "type": "product"
         },
         {
