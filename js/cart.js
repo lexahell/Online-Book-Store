@@ -178,17 +178,18 @@ const deleteButtons = document.querySelectorAll(".cart-delete-button");
 deleteButtons.forEach(btn => {
 	btn.addEventListener("click", () => {
 		const cartProductContainer = btn.closest(".cart-product-container");
-		amountWithoutDiscount -= +cartProductContainer.dataset.chgProductOldPrice;
-		amountDiscount -= +cartProductContainer.dataset.chgProductOldPrice - +cartProductContainer.dataset.chgProductPrice;
-		amount -= +cartProductContainer.dataset.chgProductPrice;
+		amountWithoutDiscount -= +cartProductContainer.dataset.chgProductOldPrice * +cartProductContainer.querySelector(".count").textContent;
+		amount -= +cartProductContainer.dataset.chgProductPrice * +cartProductContainer.querySelector(".count").textContent;
+		amountDiscount -= amountWithoutDiscount - amount;
+		localStorage.removeItem(`book_in_cart_${cartProductContainer.dataset.chgProductId}`);
+		localStorage.setItem("countInCart", `${+localStorage.getItem("countInCart") - +cartProductContainer.querySelector(".count").textContent}`);
 		if(amount == 0){
 			renderEmptyCart();
 		}
 		else{
 			renderAmount();
 		}
-		localStorage.removeItem(`book_in_cart_${cartProductContainer.dataset.chgProductId}`);
-		localStorage.setItem("countInCart", `${+localStorage.getItem("countInCart")- 1}`);
+		// localStorage.setItem("countInCart", `${+localStorage.getItem("countInCart")- 1}`);
 		countItemInCart.textContent = localStorage.getItem("countInCart");
 		if (+localStorage.getItem("countInCart") == 0){
 			countItemInCart.style.display = "none";
