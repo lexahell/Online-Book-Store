@@ -10,7 +10,7 @@ if(countItemInCart.textContent != 0){
 countFavourites.textContent = localStorage.getItem("countFavourites");
 if(countFavourites.textContent != 0){
   countFavourites.style.display = "block";
-}
+} 
 const svg1 = `
 <svg  height="16px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
     <g data-name="Layer 54" id="Layer_54">

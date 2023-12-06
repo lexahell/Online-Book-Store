@@ -138,7 +138,6 @@ for (let key in localStorage) {
 }
 const cartWrapper = document.querySelector(".cart-wrapper");
 const cartContent = document.querySelector(".cart-content");
-
 function renderEmptyCart(){
 	cartContent.remove();
 	const cartEmptyContainerString = `
@@ -150,7 +149,6 @@ function renderEmptyCart(){
 	`;
 	cartWrapper.insertAdjacentHTML("beforeend", cartEmptyContainerString);
 }
-
 function renderAmount(){
 	const amountWithoutDiscountTitle = document.querySelector(".amount-without-discount .info-item__title");
 	const amountWithoutDiscountValue = document.querySelector(".amount-without-discount .info-item__value");
@@ -165,14 +163,11 @@ function renderAmount(){
 	amountTitle.textContent = 'Итого'
 	amountValue.textContent = `${amount} ₽`;
 }
-
 if(amount==0){
 	renderEmptyCart();
 }else{
 	renderAmount();
 }
-
-
 const countItemInCart = document.querySelector("#count-item-in-cart");
 const deleteButtons = document.querySelectorAll(".cart-delete-button");
 deleteButtons.forEach(btn => {
@@ -196,8 +191,6 @@ deleteButtons.forEach(btn => {
 		cartProductContainer.remove();
 	});
 });
-
-
 //Количество одинаковых товаров
 const cartProductContainers = document.querySelectorAll(".cart-product-container");
 cartProductContainers.forEach((item)=>{
@@ -239,9 +232,6 @@ cartProductContainers.forEach((item)=>{
 		}
 	});
 });
-
-
-
 const svg1 = `
 <svg  height="16px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
     <g data-name="Layer 54" id="Layer_54">
@@ -252,7 +242,6 @@ const svg1 = `
     </g>
 </svg>
 `;
-
 const svg2 = `
 <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg height="512px" id="Layer_1" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M340.8,83C307,83,276,98.8,256,124.8c-20-26-51-41.8-84.8-41.8C112.1,83,64,131.3,64,190.7c0,27.9,10.6,54.4,29.9,74.6  L245.1,418l10.9,11l10.9-11l148.3-149.8c21-20.3,32.8-47.9,32.8-77.5C448,131.3,399.9,83,340.8,83L340.8,83z"/></svg>
 `;
