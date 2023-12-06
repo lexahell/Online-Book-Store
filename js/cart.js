@@ -13,7 +13,7 @@ arrJsons.push(bestseller, novelty, klassicheskayaProza, manga, comics, fantasy);
 const packageCategory = [
   "bestseller",
   "novelty",
-  "klassicheskayaProza",
+  "klassicheskaya-proza",
   "manga",
   "comics",
   "fantasy",

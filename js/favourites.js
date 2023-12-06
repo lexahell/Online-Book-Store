@@ -6,7 +6,7 @@ import comics from "./jsons/comics.js";
 import fantasy from "./jsons/fantasy.js";
 const arrJsons = [];
 arrJsons.push(bestseller,novelty, klassicheskayaProza, manga, comics, fantasy);
-const packageCategory= ["bestseller","novelty", "klassicheskayaProza", "manga", "comics", "fantasy"];
+const packageCategory= ["bestseller","novelty", "klassicheskaya-proza", "manga", "comics", "fantasy"];
 const containerFavourites = document.querySelector(".container-favourites");
 for (let key in localStorage){
     let isFound = false;
