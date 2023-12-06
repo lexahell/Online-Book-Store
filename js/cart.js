@@ -79,14 +79,14 @@ for (let key in localStorage) {
 					cartProducts.insertAdjacentHTML("afterbegin", newCartProductContainer);
 					const cartProductContainer = cartProducts.firstElementChild;
 					cartProductContainer.dataset.chgProductId = book.id;
+					const id = cartProductContainer.dataset.chgProductId;
 					cartProductContainer.dataset.chgProductPrice = book.attributes.price;
 					cartProductContainer.dataset.chgProductStatus =book.attributes.status;
 					cartProductContainer.dataset.chgProductOldPrice = book.attributes.oldPrice;
 					cartProductContainer.dataset.chgProductName = book.attributes.title;
-					amountWithoutDiscount += +cartProductContainer.dataset.chgProductOldPrice;
-					amountDiscount += +cartProductContainer.dataset.chgProductOldPrice - +cartProductContainer.dataset.chgProductPrice;
-					amount += +cartProductContainer.dataset.chgProductPrice;
-					const id = cartProductContainer.dataset.chgProductId;
+					amountWithoutDiscount += +cartProductContainer.dataset.chgProductOldPrice * +localStorage.getItem(`book_in_cart_${id}`);
+					amount += +cartProductContainer.dataset.chgProductPrice * +localStorage.getItem(`book_in_cart_${book.id}`);
+					amountDiscount 	= amountWithoutDiscount - amount;
 					const likeButton = cartProductContainer.querySelector(".favourite-button");
 
 					// Определям находится ли товар в избранном и меняем кнопку лайка
@@ -121,8 +121,8 @@ for (let key in localStorage) {
 				cartProductContainer.querySelector(".cart-product-title__author").textContent = (book.attributes.authors[0]?.firstName ?? "") + " " + (book.attributes.authors[0]?.lastName ?? "");
 				cartProductContainer.querySelector(".cart-img").src = `..\\img\\books\\${packageCategory[indexCategory]}\\${id}.jpg`;
 				cartProductContainer.querySelector(".cart-img").alt = `${book.attributes.title}`;
-				cartProductContainer.querySelector(".product-price__old").textContent = book.attributes.oldPrice + " ₽";
-				cartProductContainer.querySelector(".product-price__value").textContent = book.attributes.price + " ₽";
+				cartProductContainer.querySelector(".product-price__old").textContent = (+book.attributes.oldPrice * +localStorage.getItem(`book_in_cart_${id}`)) + " ₽";
+				cartProductContainer.querySelector(".product-price__value").textContent = (+book.attributes.price * +localStorage.getItem(`book_in_cart_${id}`)) + " ₽";
 				cartProductContainer.querySelector(".count").textContent = localStorage.getItem(`book_in_cart_${id}`);
 				// cartProductContainer.querySelector(".product-card-price-discount").textContent = book.attributes.discount + "%";
 				isFound=true;
@@ -180,7 +180,7 @@ deleteButtons.forEach(btn => {
 		const cartProductContainer = btn.closest(".cart-product-container");
 		amountWithoutDiscount -= +cartProductContainer.dataset.chgProductOldPrice * +cartProductContainer.querySelector(".count").textContent;
 		amount -= +cartProductContainer.dataset.chgProductPrice * +cartProductContainer.querySelector(".count").textContent;
-		amountDiscount -= amountWithoutDiscount - amount;
+		amountDiscount = amountWithoutDiscount - amount;
 		localStorage.removeItem(`book_in_cart_${cartProductContainer.dataset.chgProductId}`);
 		localStorage.setItem("countInCart", `${+localStorage.getItem("countInCart") - +cartProductContainer.querySelector(".count").textContent}`);
 		if(amount == 0){
@@ -189,7 +189,6 @@ deleteButtons.forEach(btn => {
 		else{
 			renderAmount();
 		}
-		// localStorage.setItem("countInCart", `${+localStorage.getItem("countInCart")- 1}`);
 		countItemInCart.textContent = localStorage.getItem("countInCart");
 		if (+localStorage.getItem("countInCart") == 0){
 			countItemInCart.style.display = "none";
