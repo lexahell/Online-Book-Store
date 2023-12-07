@@ -77,7 +77,6 @@ body{
         grid-template-columns: repeat(auto-fill,minmax(130px,1fr));
     }
 }
-
 @media (max-width: 450px){
     .empty-text{
         display: flex;
@@ -92,4 +91,3 @@ body{
         text-wrap:balance;
     }
 }
-

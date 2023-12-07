@@ -426,9 +426,6 @@ header .contaier {
   header{
     justify-content: flex-end;
   }
-
-  
-  
   .catalog{
     margin-right: 5px;
     display: flex;
